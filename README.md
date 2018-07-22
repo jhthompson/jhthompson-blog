@@ -10,6 +10,10 @@
 - <https://twitter.com/mmistakes>
 - <https://github.com/mmistakes>
 
+### Slideshows
+
+- [reveal.js](http://hakim.se) -- Hakim El Hattab
+
 ### Icons + Demo Images:
 
 - [The Noun Project](https://thenounproject.com) -- Garrett Knoll, Arthur Shlain, and [tracy tam](https://thenounproject.com/tracytam)
