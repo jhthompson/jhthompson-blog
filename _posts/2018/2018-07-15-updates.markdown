@@ -1,0 +1,67 @@
+---
+title: Updates
+header:
+  teaser: /assets/images/city10k.jpg
+categories:
+  - general
+tags:
+  - Interrail
+  - running
+toc: true
+toc_label: Topics
+toc_icon: fa fa-ellipsis-h
+---
+
+I haven't put out anything on this blog in a while, mostly because I haven't done much traveling lately. That means that I've had a few decent weeks of running in a row, and I've also been working on my final report for the co-op work term. There's only 12 more work days left in the work term, and I've also been planning what I want to do after the work term. My flight back to Canada is on August 31, and I'm going to travel around Europe with an [Interrail](https://www.interrail.eu/en) pass before that!
+
+## Interrail Trip
+
+I bought a 22 day continuous global Interrail pass, and I plan to visit as many different cities in Europe that I can during those 22 days. For anyone that's interested in seeing the entire route that I'll be taking, I've [planned out my trip online.](https://interrailplanner.com/plan/54369) The beauty of an Interrail is that this plan isn't set in stone (although I have reserved hostels for those dates, but those can be cancelled up until a day or two before the reservation date). If I want to change my plans halfway through, I absolutely can since none of the trains are pre-booked (except for the one from Barcelona to Paris, since it's a high speed rail line that requires a reservation).
+
+## Sensortec Barbecue
+
+Bosch Sensortec had an employee summer barbecue a couple of Fridays ago where there was some free beer, meat, and salads. It was a pretty chill time, with a large turnout and a band playing music for everyone.
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/bst_barbecue.jpg" alt="">
+  <figcaption>The view from the fourth floor of BST</figcaption>
+</figure>
+
+***
+
+## Running
+
+I've been pretty consistent with my running since the last post, and I've been hovering around 80km a week for the past 3 weeks. I won't give an update for every day here, but all of the runs are up on [Strava](https://www.strava.com/athletes/21953458) if you're interested.
+
+I also ran in another 10k race, hoping that I could better my time from the Soundtrack 10k, but it ended up being another mediocre grind of a race.
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/city10k.jpg" alt="">
+  <figcaption>Photo from the 10k race around downtown Reutlingen (I'm in the red Morocco hat)</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/city10k1.jpg" alt="">
+  <figcaption>Passing by the church</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/city10k2.jpg" alt="">
+  <figcaption>And the race went right by our apartment</figcaption>
+</figure>
+
+***
+
+I'm hoping to post a lot more updates once my Interrail trip begins in August. Since I'll be spending a decent amount of time on trains I'll have time to write and assemble these posts, and hopefully I won't be too tired to do so!
+
+Thanks for reading,
+
+Jeremy

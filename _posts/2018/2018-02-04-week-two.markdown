@@ -1,0 +1,226 @@
+---
+title: Week Two
+header:
+  teaser: /assets/images/bosch_st_sign_crop.jpg
+categories:
+  - general
+tags:
+  - Bosch
+  - running
+  - library
+  - market
+  - television
+toc: true
+toc_label: Topics
+toc_icon: fa fa-ellipsis-h
+---
+
+This week our work term officially started. Early in the week, we took the city bus to where we'll be spending the next six months, to get familiarized with the route we'll need to take to get there. Our workplace is located in a technology park, which is home to a bunch of awesome companies. Mercedes-Benz has some sort of building there, and so do many other smaller companies. Bosch has several different departments in this technology park, two of them being SensorTec and eBike. Our internship is with SensorTec. Bosch apparently rents out eBikes to Bosch employees, which I definitely want to try once we start working.
+
+## Scoping out Bosch
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/bosch_ebike.jpg" alt="">
+  <figcaption>One of the first signs we saw</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/bosch_st_sign.jpg" alt="">
+  <figcaption>Outside of our building!</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/bosch_bmw_electric.jpg" alt="">
+  <figcaption>BMW electric car chilling in the parking lot</figcaption>
+</figure>
+
+***
+
+## Running
+
+On Monday I found [some nice trails](https://www.strava.com/activities/1381253704) that climb up a slight hill and aren't very busy, I'm definitely planning on coming back to these whenever I can.
+
+Tuesday I had the [best easy run](https://www.strava.com/activities/1383023804) that I've had in a long time.
+
+On Wednesday, I realized this might be the last time for a while that I'm able to run while it's reasonably light out (work starts on Thursday, and weekends are hopefully going to be spent mostly traveling). So I decided I should take some pictures of the trail system I've been using during another [easy run.](https://www.strava.com/activities/1384682588) The pictures are in the Strava activity at that link, and I'll put them below as well.
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/stadium.jpg" alt="">
+  <figcaption>Sports stadium</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/pond.jpg" alt="">
+  <figcaption>Pond surrounded by a trail</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/birds.jpg" alt="">
+  <figcaption>Birds in the pond</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/trail_run1.jpg" alt="">
+  <figcaption>Near the start of the trail</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/trail_run2.jpg" alt="">
+  <figcaption>Short bridge and stairs</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/trail_run3.jpg" alt="">
+  <figcaption>Uphill here we come</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/trail_run4.jpg" alt="">
+  <figcaption>Surrounded by trees</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/trail_run5.jpg" alt="">
+  <figcaption>Thankfully running uphill one way means downhill on the way back</figcaption>
+</figure>
+
+***
+
+Thursday was an [uneventful run](https://www.strava.com/activities/1386760783) around the mean streets of Reutlingen.
+
+Friday was a rest day.
+
+Saturday I wanted to try another workout. I decided on a [one-to-one fartlek](https://www.strava.com/activities/1389369077) (one minute easy, one minute hard, rinse and repeat). I wasn't aiming for any specific paces, but I was really pleased with how it felt.
+
+Sunday was the first [long run](https://www.strava.com/activities/1391436216) I've done in around 8 weeks. It wasn't anything special, I just wanted to get back into the habit of doing one long run per week. Hopefully I'll get back up around 90 minutes or longer in the coming weeks, but 80 minutes felt like a long time today.
+
+## Library
+
+Early in the week I needed to print out a document to sign, so I figured this was a good excuse to check out the [local library.](https://www2.stadtbibliothek-reutlingen.de/)
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/library.jpg" alt="">
+  <figcaption>The town library</figcaption>
+</figure>
+
+***
+
+I paid the 18 euros to get a library card for a full year (or it would've been 3 euros per month, and since we're there for 6 months I figured I might as well get the year). I then learnt how to use their printers, and got my document printed with no trouble. I also checked out a few books from the library, to try and absorb some more German in my spare time.
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/books.jpg" alt="">
+  <figcaption>The literature of choice</figcaption>
+</figure>
+
+***
+
+I figured I shouldn't start with [Nietzsche](https://en.wikipedia.org/wiki/Friedrich_Nietzsche) or [Grass](https://en.wikipedia.org/wiki/G%C3%BCnter_Grass), so I opted for some easier reads; Peanuts comic strips, a random graphic novel, and the first book in the Fullmetal Alchemist series (all in German of course).
+
+The library also offers WiFi for anyone with a card, and we made use of this later in the week to research more about our project. I enjoy the atmosphere of the library a lot, and hopefully will have some spare time to spend there once in a while.
+
+## Marketplace Picture
+
+I remembered to take a quick picture of the local market on Tuesday. It's hard to fully capture all of the booths that are there, but this is a picture of a Swiss cheese stand and a produce booth. The other shops are hidden behind these ones from this angle.
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/market.jpg" alt="">
+  <figcaption>A tiny portion of the marketplace</figcaption>
+</figure>
+
+***
+
+## First Days at Bosch
+
+On Thursday we finally got to meet our supervisor in person, and we got set up where we'll be working for the next six months! We got a brief overview of the company, which was informative: apparently ~ 60% of Bosch is dedicated to producing parts for cars, and only ~ 10% is dedicated to consumer electronics. The main place I had heard of Bosch before was from their consumer electronics like washing machines / fridges, so this was a huge surprise to me.
+
+The building where we're working is incredible. There are free coffee machines and dishwashers for employees to use (all Bosch made of course), and there is an option on the taps to get sparkling water. The people that we've met so far are also great, we felt very welcomed from the moment we stepped in the door.
+
+The only thing that did not go smoothly on our first day was getting our official Bosch ID cards made. There was a [strike](https://www.reuters.com/article/us-germany-wages/german-industrial-strikes-to-hit-daimler-porsche-idUSKBN1FJ20K) going on, and they weren't letting anyone inside the main building. This obviously meant that we couldn't go in, and therefore couldn't get our picture taken for the ID. It ended up not being a big deal, as we just told our supervisor and he informed us to come to our building anyways (the strike was only happening at the main Bosch building, and not at the Sensortec building). It was a pretty typical first day after that, getting up to speed with the company, the project, and the resources available to us.
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/strike1.jpg" alt="">
+  <figcaption>Rainy picture of the crowd on strike</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/strike2.jpg" alt="">
+  <figcaption>Different view of the crowd</figcaption>
+</figure>
+
+***
+
+Our second official day was productive again. We have material to read up on for our project, and that filled a lot of time during the day. We also got our IDs made, and met with the IT department to get our laptops configured. My laptop had some unusual problems that required a complete reinstall of all the software, so I have to go back and pick it up on Monday, but after that it should be good to go. We were also introduced to some more people around Bosch, and we got to eat at the company cafeteria for the first time. There is a crazy amount of technology and sensors that go into making the cafeteria work; there are no cashiers working, you pay with your prepaid Bosch ID, and the trays somehow sense exactly what food you took and charge your card for that. The food is also exceptional, and affordable as well, I think the meal I had was under €2.
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/bosch_hq1.jpg" alt="">
+  <figcaption>Main Bosch building</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/bosch_hq2.jpg" alt="">
+  <figcaption>WHO ARE WE???</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/german_engineering.jpg" alt="">
+  <figcaption>Fridge in a break room</figcaption>
+</figure>
+
+***
+
+## Old and New
+
+Up until this week, the TV in our living room had essentially just been a massive paperweight. We finally decided to see what sort of inputs it had, and discovered it had the classic [RCA connector](https://en.wikipedia.org/wiki/RCA_connector) (those old yellow, white, and red cords), a [DVI](https://en.wikipedia.org/wiki/Digital_Visual_Interface) input, and a [VGA](https://en.wikipedia.org/wiki/VGA_connector) input. I ventured to a local electronics store, and found a DVI to HDMI adapter that was relatively cheap. We got it set up, and despite the slightly odd resolution, found that the quality was good enough to watch Netflix without any issues.
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/tv.jpg" alt="">
+  <figcaption><a href="https://www.netflix.com/title/80105699">Travelers</a> - check it out on Netflix</figcaption>
+</figure>
+
+***
+
+Thanks for taking the time to read. I think the format of future posts will be similar to this one, with different topics covering multiple things that happened during the week. If you want to hear about anything specific or have any other questions, feel free to leave a comment or get in touch on social media.
+
+Tschüss,
+
+Jeremy

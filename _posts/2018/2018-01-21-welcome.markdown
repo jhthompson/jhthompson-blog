@@ -1,0 +1,32 @@
+---
+title: Welcome
+categories:
+  - general
+tags:
+  - blog
+  - welcome
+---
+
+Hello, and welcome to this website! If you're reading this, you probably know me already, but if not, feel free to check out this handy dandy  [About Me](/about) page. Long story short, I'm a computer science student at UPEI doing a work term in Reutlingen, Germany.
+
+Some of you are also probably wondering why I decided to start a blog, and there are a number of reasons:
+
+## 1. Consolidating Information
+I would like to keep everyone that is interested in my life as up to date as possible, and it seems logical to post pictures and stories from my life in one place, as opposed to spreading everything out over various social media platforms.
+
+## 2. Memories
+A number of people have told me that documenting a trip abroad is never a bad idea. I want to do my best to document my trip and thoughts through this blog, so it's easily accessible in the future.
+
+## 3. Code Practice
+Another reason I'm trying a blog is because of the particular setup I'm using. The main workhouse of this blog is [Jekyll](https://jekyllrb.com/), integrated with GitHub Pages. I'm also using the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) theme as the basis for the blog's appearance. For those of you familiar with GitHub, you'll likely appreciate that to create a new post, all I have to do is write a markdown file, and push it to the correct folder in the GitHub repository. Writing markdown is something I want to get better at, and this is a great way to experiment.
+
+## 4. Writing Skills
+I don't write creatively very much, but it's something that I would like to get better at. If I can write stuff that is entertaining and easy to read, I consider that a victory.
+
+I hope to keep this blog as up to date as I can. In my mind, one post a week seems likes a reasonable goal for now, although that may change over time.
+
+Feel free to leave comments on any of the posts!
+
+PS, if you're curious about the title of the blog, Google translate holds all your answers :eyes:
+
+Jeremy

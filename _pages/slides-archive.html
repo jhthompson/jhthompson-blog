@@ -1,0 +1,16 @@
+---
+layout: archive
+permalink: /slides-archive/
+title: "Slideshows"
+author_profile: true
+---
+
+{% for slide in site.slides %}
+  <h2 class="archive__item-title" itemprop="headline">
+    {% if slide.link %}
+      <a href="{{ slide.link }}">{{ title }}</a> <a href="{{ slide.url | absolute_url }}" rel="permalink"><i class="fas fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+    {% else %}
+      <a href="{{ slide.url | absolute_url }}" rel="permalink">{{ slide.title }}</a>
+    {% endif %}
+  </h2>
+{% endfor %}

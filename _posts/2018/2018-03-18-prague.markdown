@@ -1,0 +1,333 @@
+---
+title: Prague
+header:
+  teaser: /assets/images/prague_view.jpg
+categories:
+  - general
+tags:
+  - running
+  - Prague
+  - trdelnik
+  - museum
+  - Lego
+  - castle
+  - bridge
+  - snow
+  - cold
+  - Czech
+toc: true
+toc_label: Topics
+toc_icon: fa fa-ellipsis-h
+---
+
+Time is flying by, I can't believe that March is already more than halfway done. The work term is 1/4 done, but it still feels like we're just starting. Nothing too exciting happened during this week, but on the weekend we went to Prague! It's a very fun place, full of history and interesting sights.
+
+## Prague
+
+After taking an overnight FlixBus to Prague, we arrived at around 8am on Saturday. The first impressions I had of the city were very cold and snowy ones. It was snowing and fairly windy on Saturday, which didn't stop us from walking (we just walked a little faster than we otherwise might have).
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/prague_snow.jpg" alt="">
+  <figcaption>Haven't seen this much snow in a while ("this much" being a relative term)</figcaption>
+</figure>
+
+***
+
+### Hamley's
+
+While walking around, we kept an eye out for interesting stores to duck in to in order to stay reasonably warm. One of those stores was the self proclaimed "finest children's toy shop in the world", [Hamley's.](http://www.hamleys.com/) There were employees everywhere that were playing with / demonstrating different toys and devices, and it had a great atmosphere.
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/prague_hamleys_front.jpg" alt="">
+  <figcaption>Front of the toy store</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/prague_hamleys_inside.jpg" alt="">
+  <figcaption>Inside Hamley's</figcaption>
+</figure>
+
+***
+
+Underneath the Hamley's was a Lego exhibit. We decided against paying the admission fee, but we still got a view of one of the creations from the entrance.
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/prague_lego1.jpg" alt="">
+  <figcaption>Thought this was very clever</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/prague_lego2.jpg" alt="">
+  <figcaption>Glimpse of the Lego exhibit (didn't go in further)</figcaption>
+</figure>
+
+***
+
+### Astronomical Clock
+
+Prague is known for its [astronomical clock.](https://en.wikipedia.org/wiki/Prague_astronomical_clock) Unfortunately it was closed for repairs / renovations when we stopped to see it, but almost every souvenir shop we came across was selling clock-themed merchandise.
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/prague_clock.jpg" alt="">
+  <figcaption>Closed for renovations unfortunately</figcaption>
+</figure>
+
+***
+
+### Castle
+
+Prague also has a [famous castle](https://www.hrad.cz/en/prague-castle-for-visitors) that is present in a lot of souvenir shop merchandise. It was full of tourists when we went to see it in the freezing weather, which was surprising. I'd hate to see how busy it gets during the warmer months. Prague overall seemed like a tourist-centered city, with lots of places for converting currency, buying souvenirs, or getting a meal.
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/prague_castle1.jpg" alt="">
+  <figcaption>Approaching the castle</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/prague_castle2.jpg" alt="">
+  <figcaption>Gargoyles</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/prague_castle3.jpg" alt="">
+  <figcaption>The side of the castle</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/prague_castle4.jpg" alt="">
+  <figcaption>And the front</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/prague_castle5.jpg" alt="">
+  <figcaption>Inside the castle</figcaption>
+</figure>
+
+***
+
+### Special Effects Museum
+
+While exploring we found a [museum](http://www.muzeumkarlazemana.cz/en) about special effects in movies. It was focused around the works of [Karel Zeman,](https://en.wikipedia.org/wiki/Karel_Zeman)a Czech film director, and some of the techniques he used in his films. It's easy to forget how difficult it was to create special effects in movies before computers existed, and many of the techniques involved combining the real world with drawings, or manipulating the view of the scene with clever perspective tricks. Every single shot required a different set up and execution, and Zeman was apparently one of the best at managing & editing each of these shots that were produced using vastly different techniques into a coherent and fluid story.
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/prague_movie_museum1.jpg" alt="">
+  <figcaption>Still image of a film inspired by Jules Verne</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/prague_movie_museum2.jpg" alt="">
+  <figcaption>Agreed</figcaption>
+</figure>
+
+***
+
+### Karlsbrücke
+
+Another famous landmark in Prague is the [Charle's Bridge](https://en.wikipedia.org/wiki/Charles_Bridge), or Karlsbrücke. We hurried across it because of the exposure to the wind over the water, but it was impressive nonetheless.
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/prague_bridge1.jpg" alt="">
+  <figcaption>Start of bridge</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/prague_bridge2.jpg" alt="">
+  <figcaption>Looking over the bridge</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/prague_bridge3.jpg" alt="">
+  <figcaption>One of the many statues on the sides of the bridge</figcaption>
+</figure>
+
+***
+
+### Alchemy Museum
+
+We found another museum while walking around, but this time relating to alchemy. We learned that Prague has strong connections to alchemy, and we got to walk around the original laboratory tower of one of the most famous alchemists, Edward Kelley.
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/prague_alchemy1.jpg" alt="">
+  <figcaption>Sign for the museum</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/prague_alchemy2.jpg" alt="">
+  <figcaption>Spooky exhibit</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/prague_alchemy3.jpg" alt="">
+  <figcaption>Some of the oldest wooden stairs in Prague, built in the 16th century</figcaption>
+</figure>
+
+***
+
+### Trdelnik
+
+There was a ton of street side vendors around Prague selling [trdelnik,](https://de.wikipedia.org/wiki/Trdelník) and the smell was mouth-watering. It's a sweet dessert, that you can pair with ice cream, fruit, Nutella, cinnamon, nuts, or whatever you like. I really wanted to try one, and on Sunday I got the chance.
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/prague_trdelnik1.jpg" alt="">
+  <figcaption>A nicely advertised Trdelnik shop</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/prague_trdelnik2.jpg" alt="">
+  <figcaption>More signage</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/prague_trdelnik3.jpg" alt="">
+  <figcaption>And more signage</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/prague_trdelnik4.jpeg" alt="">
+  <figcaption>Can't believe my eyes</figcaption>
+</figure>
+
+***
+
+### Random Photos
+
+There was also a number of cool buildings / sculptures scattered around Prague, and I'll put pictures of those random things here. Also, I didn't take any pictures of them, but the trams in Prague are quite affordable and great for getting around. We made use of them on both days we were there.
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/prague_sausage.jpg" alt="">
+  <figcaption>Lunch on Saturday</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/prague_tower1.jpg" alt="">
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/prague_tower2.jpg" alt="">
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/prague_giovanni_sculpture.jpg" alt="">
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/prague_group_sculpture.jpg" alt="">
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/prague_building1.jpg" alt="">
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/prague_building2.jpg" alt="">
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/prague_illuminati.jpg" alt="">
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/prague_view.jpg" alt="">
+</figure>
+
+***
+
+## Bird Sighting
+
+Random thing that happened during the week: there was this falcon (or hawk?) that had killed another bird and was eating it in the technology park. It gathered quite a crowd and was pretty brutal to see.
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/bst_bird.jpg" alt="">
+  <figcaption>It's a bird eat bird world</figcaption>
+</figure>
+
+***
+
+
+## Running
+
+Monday - Rest.
+
+Tuesday - [Easy run.](https://www.strava.com/activities/1451310785)
+
+Wednesday - [Easy run.](https://www.strava.com/activities/1453295185)
+
+Thursday - [5k tempo run.](https://www.strava.com/activities/1454818431)
+
+Friday - Rest.
+
+Saturday - Rest (travel).
+
+Sunday - Rest (travel).
+
+Not a great week for running again. Work was busy, and finding time in the day to run is proving difficult. Going to have to find a way to make it work in the coming weeks.
+
+Thanks for reading,
+
+Jeremy

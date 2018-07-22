@@ -1,0 +1,24 @@
+---
+title: "About Me"
+layout: default
+permalink: /about/
+author_profile: true
+date: 2017-01-10T11:48:41-04:00
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/forest.jpg
+excerpt: "I am a third year computer science student and runner from the University of Prince Edward Island, currently on a work term in Reutlingen, Germany."
+---
+{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
+  {% include page__hero.html %}
+{% elsif page.header.video.id and page.header.video.provider %}
+  {% include page__hero_video.html %}
+{% endif %}
+
+
+<iframe style='display:block; margin: 0 auto' height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/21953458/activity-summary/e2e61f2caf801ccf25e44535e1369a228d92b465'></iframe>
+
+<br/>
+
+<iframe style='display:block; margin: 0 auto' height='454' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/21953458/latest-rides/e2e61f2caf801ccf25e44535e1369a228d92b465'></iframe>

@@ -1,0 +1,326 @@
+---
+title: Easter in Italy
+header:
+  teaser: /assets/images/duomo2.jpg
+categories:
+  - general
+tags:
+  - Italy
+  - Milan
+  - Bologna
+  - Easter
+  - train
+  - Duomo
+  - pizza
+  - da Vinci
+  - pasta
+  - running
+toc: true
+toc_label: Topics
+toc_icon: fa fa-ellipsis-h
+---
+
+We had our first long weekend last weekend (March 30 - April 2), with Friday and Monday both being German holidays. We traveled to Italy by plane on Thursday afternoon, and stayed there until Monday afternoon, when we took a Flixbus back to Reutlingen. We spent most of our time in Milan, with a day trip to Bologna on Sunday. I meant to post this sooner, but recovering from travel and working took up more time than I expected. Nothing very exciting happened during the week after Italy, so this post will cover the last two weeks.
+
+## Italy
+
+### Milan
+
+We chose Milan as our destination because that's where Eduardo's brother is currently studying. He showed us around a lot of the city and was just an overall helpful person for the whole weekend.
+
+We took off Thursday afternoon in order to catch our [easyJet](https://www.easyjet.com/en) flight from Stuttgart to Milan. This was my first flight on a budget airline, and it went pretty much exactly as I expected it would. You get a seat on the plane, and that's pretty much it. No in flight entertainment and no free water (although you could buy food or drinks). Honestly it's pretty comparable to Air Canada, but for a fraction of the price. Getting through security at the airport only took about 10 minutes, which was another new experience for me. We arrived at the airport about 2 hours before our flight, and we had plenty of time to relax and walk around the airport.
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/easyjet.jpg" alt="">
+  <figcaption>View from the easyJet flight</figcaption>
+</figure>
+
+***
+
+We didn't do too much during our first night in Milan. We went to a pizza place which ended up serving pizza that was nothing like Italian pizza in any way. We each got one large, thick, cheesy slice of pizza, which still tasted great.
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/milan_pizza.jpg" alt="">
+  <figcaption>Not the Italian pizza we were expecting</figcaption>
+</figure>
+
+***
+
+On Friday we got to see probably the most beautiful attraction in Milan, the [Duomo di Milano](https://www.duomomilano.it/en/). According to Eduardo's brother, Milan is considered one of the ugliest cities in Italy, but this building definitely breaks that mold. The sheer scale of it was hard to comprehend, as every square inch of the building had some sort of decorative art or sculpture on it.
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/duomo1.jpg" alt="">
+  <figcaption>View from the front</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/duomo2.jpg" alt="">
+  <figcaption>Side of the Duomo</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/duomo3.jpg" alt="">
+  <figcaption>Main square in front of the Duomo</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/duomo4.jpg" alt="">
+  <figcaption>Incredibly ornate door</figcaption>
+</figure>
+
+***
+
+Right beside the Duomo, there was a shopping center filled with luxury brands (Louis Vuitton, Versace, etc.), which was also elaborately decorated.
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/shopping1.jpg" alt="">
+  <figcaption>Looking into the shopping center</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/shopping2.jpg" alt="">
+  <figcaption>Louis Vuitton store</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/shopping3.jpg" alt="">
+  <figcaption>VERSACE VERSACE</figcaption>
+</figure>
+
+***
+
+We walked around the city more after seeing the Duomo, and headed to an arch called the [Porta Sempione.](https://en.wikipedia.org/wiki/Porta_Sempione) In front of the arch there was a park, which reminded me of Central Park in New York. There's not a ton of greenery elsewhere in Milan, and it was refreshing to see a lot of it in one spot.
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/milan_arch1.jpg" alt="">
+  <figcaption>The Porta Sempione</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/milan_arch2.jpg" alt="">
+  <figcaption>From behind</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/milan_arch3.jpg" alt="">
+  <figcaption>Slighly closer view</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/milan_park_tree.jpg" alt="">
+  <figcaption>Tree in the park</figcaption>
+</figure>
+
+***
+
+We also walked to an old castle (the [Sforza Castle](https://en.wikipedia.org/wiki/Sforza_Castle)) later in the afternoon.
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/milan_castle1.jpg" alt="">
+  <figcaption>The main tower from the front</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/milan_castle2.jpg" alt="">
+  <figcaption>And from the back</figcaption>
+</figure>
+
+***
+
+Since we had brought our Canadian flag along (shout-out to R.J. for sending it to us in a care package), we took a group photo.
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/milan_group.jpg" alt="">
+  <figcaption>Trying not to look too much like tourists</figcaption>
+</figure>
+
+***
+
+That night, as per Eduardo's brother's recommendation, we checked out a fairly fancy gin bar called [Gino12.](http://www.officina12.it/gino12-en.html) The best drink we had there was a sloe gin called [Monkey 47,](https://www.monkey47.com/) which we also found out is produced in Germany. We'll be on the lookout for it in the future.
+
+### Leonardo Museum
+
+On Saturday, we slept in a little and then headed to a [science and technology museum.](http://www.museoscienza.org/english/) It was focused on modern technology and Leonardo da Vinci, and had large sections where you could read about what sort of things da Vinci was interested in, and view scaled down recreations of some of his inventions. I was probably the most impressed by the variety of topics he was interested in, such as military strategy and planning, human anatomy, algebra, and many others. Sadly we only had an hour and a half at the museum before it closed, and I feel like we definitely could've benefited from another hour to explore.
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/milan_leo1.jpg" alt="">
+  <figcaption>Example of a model demonstrating his design for a hydro-powered saw</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/milan_leo2.jpg" alt="">
+  <figcaption>DaVinci is famous for his interest in flight</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/milan_leo3.jpg" alt="">
+  <figcaption>He also had a great interest in human anatomy</figcaption>
+</figure>
+
+***
+
+Another interesting part of the museum was the section on space.
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/milan_telescope.jpg" alt="">
+  <figcaption>Massive old telescope</figcaption>
+</figure>
+
+***
+
+The coolest part of the space exhibit for me was seeing an actual rock from the moon, along with an Italian flag that accompanied the Apollo XVII mission in 1973:
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/milan_moon1.jpg" alt="">
+  <figcaption>The actual moon rock</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/milan_moon2.jpg" alt="">
+  <figcaption>The accompanying plaque</figcaption>
+</figure>
+
+***
+
+
+### Bologna
+
+On Sunday we made a day trip to Bologna. Before our train left we had some time to walk around the Milan train station, and to a pair of apartment buildings that were apparently designed to contain as many plants as possible. Apparently the effect is even stronger in the summer, when vines and trees are in full display.
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/milan_plants_building.jpg" alt="">
+  <figcaption>The buildings covered in plants</figcaption>
+</figure>
+
+***
+
+After our train arrived in Bologna (we took a high speed train which traveled at a top speed of 300 km/h, so it didn't take too long), we toured around for a while, and then had a meal. I had to try pasta with Bolognese sauce, and it did not disappoint. I wish the portion was larger, but that's about the only complaint I had. I would get plenty of large portions later that night, and the next day, when we would dine at all you can eat buffets.
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/bolognese.jpg" alt="">
+  <figcaption>Bolognese sauce on some sort of pasta whose name I forget</figcaption>
+</figure>
+
+***
+
+I'm not sure of any of the names of major buildings in Bologna, but I'll put some photos I took below.
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/bologna1.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/bologna2.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/bologna3.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+Sunday night was pretty relaxed, and I got to watch an interesting movie called [In Bruges.](https://en.wikipedia.org/wiki/In_Bruges) It's a dark comedy, and is very well made.
+
+### Shopping
+
+On Monday, we were all getting a little tired of exploring. We decided to see what shops were open, and to do some shopping in downtown Milan. I didn't buy anything, but Italians are very fashionable and it was evident in their clothing stores. I also felt under-dressed the entire time I was in Milan and Bologna; everyone dresses a lot better than in Germany or Canada. I've never been one to care about fashion, but if I stay in Europe for too much longer I might have to step up my clothing choices (and don't even get me started on haircuts).
+
+### Hotel
+
+We stayed at a hotel for 4 nights in Milan. It wasn't the cheapest option, but it definitely wasn't an expensive hotel. It was about €25 per night per person, and we got our own room with 3 beds and a bathroom. There was also breakfast included, which was mediocre at best, but was a nice way to start each day.
+
+## Running
+
+### Week of Italy Travel
+
+Monday - Nothing.
+
+Tuesday - Only [run](https://www.strava.com/activities/1475046502) of the week.
+
+Wednesday - Nothing.
+
+Thursday - Nothing (travel).
+
+Friday - Nothing (Italy).
+
+Saturday - Nothing (Italy).
+
+Sunday - Nothing (Italy).
+
+### Week After Italy
+
+Monday - Nothing.
+
+Tuesday - Pasta and pizza from the weekend didn't sit well during this [easy run.](https://www.strava.com/activities/1487790822)
+
+Wednesday - Nothing.
+
+Thursday - [1 to 1 fartlek,](https://www.strava.com/activities/1491367536) felt very out of shape.
+
+Friday - Nothing (Bosch intern supper in Tübingen).
+
+Saturday - Beautiful weather (17 degrees and sunny), and went for an awesome [80 minute long run](https://www.strava.com/activities/1494423625) on some trails.
+
+Sunday - [Easy run.](https://www.strava.com/activities/1496547223) Legs were feeling heavy after yesterday on the hilly trails.
+
+
+Thanks for reading!
+
+Jeremy
