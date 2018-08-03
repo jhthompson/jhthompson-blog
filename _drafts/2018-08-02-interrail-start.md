@@ -73,7 +73,20 @@ So after dropping my main bag and locking it in the hostel, I took my towel and 
 
 The journey from Konstanz to Innsbruck was the first one that I used my Interrail pass on, as you can't use the pass in your country of home residence except for the first and last leg of your journey (Germany in my case). I chose the train route with the fewest transfers: from Konstanz to Zurich, and then from Zurich to Innsbruck.
 
-The train rides did not go as smoothly as the rail schedule lead me to believe they would. The one from Konstanz to Zurich required me to take a local tram to a different bus stop where they took everyone who was supposed to be on that train to another station where I finally got on my orirignally planned train. This added about 30 minutes to my schedule, and unfortunately the train from Zurich to Innsbruck I wanted to catch only had a 25 minute window for me to catch on my original schedule. So I had to spend 2 hours in Zurich (which was very nice actually, there is a park just outside a natural history museum that I sat in and read parts of numerous books). After 2 hours had passed, I got on the first long-ish train ride of the trip, one that was supposed to last 3.5 hours. However, about 3/4 of the way through there was a section of railway closed because of a landslide, which meant everyone got off, and we took a bus to the next station, where we got right on another train that was waiting for use there. It was all very smoothly orgranized, and only added about 30 minutes to the overall journey time. Once I arrived in Innsbruck I was fortunate to have just enough time to walk to the hostel before it started raining.
+The train rides did not go as smoothly as the rail schedule lead me to believe they would. The one from Konstanz to Zurich required me to take a local tram to a different bus stop where they took everyone who was supposed to be on that train to another station where I finally got on my orirignally planned train. This added about 30 minutes to my schedule, and unfortunately the train from Zurich to Innsbruck I wanted to catch only had a 25 minute window for me to catch on my original schedule.
+
+So I had to spend 2 hours in Zurich (which was very nice actually, there is a park just outside a natural history museum that I sat in and read parts of numerous books).
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/zurich_swans.jpg" alt="">
+  <figcaption>Seen from a park that was a 10 minute walk from the main train station</figcaption>
+</figure>
+
+***
+
+After 2 hours had passed, I got on the first long-ish train ride of the trip, one that was supposed to last 3.5 hours. However, about 3/4 of the way through there was a section of railway closed because of a landslide, which meant everyone got off, and we took a bus to the next station, where we got right on another train that was waiting for use there. It was all very smoothly orgranized, and only added about 30 minutes to the overall journey time. Once I arrived in Innsbruck I was fortunate to have just enough time to walk to the hostel before it started raining.
 
 ***
 
@@ -91,6 +104,31 @@ There was also some great running trails just behind the hostel, which were just
 <figure class="align-center">
   <img src="/assets/images/interrail/innsbruck_beach.jpg" alt="">
   <figcaption>One of the beaches along the river</figcaption>
+</figure>
+
+## Salzburg
+
+I wanted to spend as much time as I could in Salzburg, because I heard it was an incredibly beautiful city. I can now confirm this is true. The main thing that drew my attention was the proximity of sheer cliffs and a steep hill to the city center. There is also a river running through the main part of the city, but it was not as clear as the ones I saw in Zurich or Konstanz. I had booked a hostel that was close to the main station in Salzburg, so I only had to walk for 5 minutes right after I got off the train to get there. I left my bags in a locker, and was about to start walking around the city when I realized I wanted to have a bit more of a structured approach to my sightseeing. So I googled an [online walking tour](https://www.bigboytravel.com/europe/austria/salzburg/freewalkingtour/) of Salzburg, which led me around the city to all of its highlights. I skipped the restaurants, cafes, and anything food related that it mentioned, and I tried to see as many architectural and natural features as I could.
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/salzburg_locks.jpg" alt="">
+  <figcaption>One of the first stops was a popular "lock bridge"</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/salzburg_mozart_house.jpg" alt="">
+  <figcaption>The house where Mozart lived from age 17-25</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/salzburg_garden_entrance.jpg" alt="">
+  <figcaption>Entrance to the Mirabell palace gardens</figcaption>
 </figure>
 
 ***
