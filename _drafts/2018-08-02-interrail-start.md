@@ -16,7 +16,7 @@ toc_icon: fa fa-ellipsis-h
 
 The Interrail trip has officially begun! Travelling alone has so far been an interesting experience, and is quite different from any other kind of traveling I've done before. I met some great people at the first hostel I stayed in (in Konstanz). One of them was from Malaysia and is studying at Iowa State University, and another was from Germany and biked to Konstanz from Freiburg (128km!). I'm currently sitting on a train to Innsbruck, Austria as I am starting to write this post, and the mountains and lakes are whizzing by.
 
-This also means that my time at Bosch Sensortec has come to an end. I'm going to miss working for them, and also living in Reutlingen. I think as far as first apartments go I didn't do too badly at all.
+This also means that my time at Bosch Sensortec has come to an end. I'm going to miss working there and living in Reutlingen. I think as far as first apartments go I didn't do too badly at all.
 
 ***
 
@@ -132,6 +132,38 @@ I wanted to spend as much time as I could in Salzburg, because I heard it was an
 </figure>
 
 ***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/salzburg_dwarf.jpg" alt="">
+  <figcaption>One of the dwarf sculptures in a section of the gardens</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/salzburg_hill_selfie.jpg" alt="">
+  <figcaption>Me in front of a hill in the middle of Salzburg</figcaption>
+</figure>
+
+***
+
+## Venice
+
+Very touristy, free walking tour, etc.
+
+## Florence
+
+Free museum day first sunday of every month, no idea, gardens and David museum, walking around, etc.
+
+## Nice
+
+While in
+
+## Marseille
+
+This was the first place that I spent more than one night in. The day that I arrived I explored the city, and the next day I made a trip to the [Calanques National Park,](http://www.calanques-parcnational.fr/fr) which is a 30 minute bus ride away from the center of Marseille.
+
+pictures, lebanon food, sharehouse...
 
 ## Very Early First Impressions
 
