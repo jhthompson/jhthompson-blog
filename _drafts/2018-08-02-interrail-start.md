@@ -147,17 +147,254 @@ I wanted to spend as much time as I could in Salzburg, because I heard it was an
 
 ***
 
+<figure class="align-center">
+  <img src="/assets/images/interrail/salzburg_palace.jpg" alt="">
+  <figcaption>The castle in Salzburg</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/salzburg_to_venice.jpg" alt="">
+  <figcaption>The Salzburg to Venice train took me through some mountains</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/salzburg_to_venice2.jpg" alt="">
+  <figcaption>The Salzburg to Venice train route view</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/salzburg_to_venice3.jpg" alt="">
+  <figcaption>Another view from the Salzburg to Venice train</figcaption>
+</figure>
+
+***
+
 ## Venice
 
 Very touristy, free walking tour, etc.
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/venice_ferries.jpg" alt="">
+  <figcaption>One of the first views I had of Venice - multiple massive cruise ships</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/venice_canal.jpg" alt="">
+  <figcaption>Another picturesque view</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/venice_gondola.jpg" alt="">
+  <figcaption>Classic gondola</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/venice_gold_bridge.jpg" alt="">
+  <figcaption>The bridge full of jewelry shops</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/venice_gold_bridge_selfie.jpg" alt="">
+  <figcaption>Standing on the jewelry bridge</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/venice_st_marks.jpg" alt="">
+  <figcaption>The famous Saint Mark's square</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/venice_hospital.jpg" alt="">
+  <figcaption>The hospital in Venice - learned this from the walking tour guide</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/venice_canal2.jpg" alt="">
+  <figcaption>And one last impressive scene</figcaption>
+</figure>
+
+***
 
 ## Florence
 
 Free museum day first sunday of every month, no idea, gardens and David museum, walking around, etc.
 
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/florence_garden.jpg" alt="">
+  <figcaption>The long path through the gardens</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/florence_garden2.jpg" alt="">
+  <figcaption>Three laughing / grimacing statues in the gardens</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/florence_garden3.jpg" alt="">
+  <figcaption>Main pond in the center of the gardens</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/florence_garden4.jpg" alt="">
+  <figcaption>Another view of the long path</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/florence_garden5.jpg" alt="">
+  <figcaption>How I felt walking in the mid-day sun</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/florence_garden6.jpg" alt="">
+  <figcaption>View of the countryside from the top of the gardens</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/florence_plaza.jpg" alt="">
+  <figcaption>View from the Piazzale Michelangelo of the main city</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/florence_bronze_david.jpg" alt="">
+  <figcaption>At the Piazzale there is a bronze copy of Michelangelo's David</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/florence_duomo.jpg" alt="">
+  <figcaption>The outside of the famous dome in Florence</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/florence_duomo2.jpg" alt="">
+  <figcaption>And the front side to the Duomo</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/florence_duomo2_5am.jpg" alt="">
+  <figcaption>The same front side of the Duomo, but at 5am</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/florence_david.jpg" alt="">
+  <figcaption>Michelangelo's famous David</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/florence_david_in_progress.jpg" alt="">
+  <figcaption>One of Michelangelo's works in progress</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/florence_sculpture_room.jpg" alt="">
+  <figcaption>No on was allowed to walk further into this room filled with sculptures</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/florence_tapestry.jpg" alt="">
+  <figcaption>One floor above David, there is an extremely well preserved Florentine tapestry</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/florence_outdoor_museum.jpg" alt="">
+  <figcaption>Sculptures in an open air display</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/florence_swan_imagery.jpg" alt="">
+  <figcaption>The imagery of a swan feeding her young with her own blood appeared in many places in Florence</figcaption>
+</figure>
+
+***
+
 ## Nice
 
-While in
+While in Nice, relaxed, beach...
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/nice_beach.jpg" alt="">
+  <figcaption>First view of the beaches in Nice</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/nice_lounging.jpg" alt="">
+  <figcaption>I splurged and spent 20 euros to lie on a lounge chair and have access to a less crowded section of beach</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/nice_selfie.jpg" alt="">
+  <figcaption>Overlooking the main beaches</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/nice_waterfall.jpg" alt="">
+  <figcaption>Near the top of the tower was a waterfall which provided cool mist to everyone walking by</figcaption>
+</figure>
+
+***
 
 ## Marseille
 
@@ -165,6 +402,138 @@ This was the first place that I spent more than one night in. The day that I arr
 
 pictures, lebanon food, sharehouse...
 
-## Very Early First Impressions
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/marseille_port.jpg" alt="">
+  <figcaption>Main docks in Marseille</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/marseille_mirror.jpg" alt="">
+  <figcaption>Mirrored roof to provide shade and rain cover</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/marseille_basilica.jpg" alt="">
+  <figcaption>Notre-Dame de la Garde Basilica</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/marseille_basilica_inside.jpg" alt="">
+  <figcaption>Paintings on the walls of the basilica</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/marseille_basilica_inside3.jpg" alt="">
+  <figcaption>The main altar in the basilica</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/marseille_basilica_inside4.jpg" alt="">
+  <figcaption>THe elaborate basilica ceiling</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/marseille_walking_sea.jpg" alt="">
+  <figcaption>View from a park I walked through</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/marseille_city_coast.jpg" alt="">
+  <figcaption>The city directly borders the coastline</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/marseille_city_selfie.jpg" alt="">
+  <figcaption>In front of the docks with the basilica in the background</figcaption>
+</figure>
+
+***
+
+My favorite part of Marseille was definitely the national park I hiked through...
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/marseille_calanque1.jpg" alt="">
+  <figcaption>Starting the hike</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/marseille_calanque2.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/marseille_calanque3.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/marseille_calanque4.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/marseille_calanque5.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/marseille_calanque6.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/marseille_calanque7.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/marseille_calanque_selfie.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/marseille_calanque8.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+## First Impressions
 
 I'm really happy with the choice to buy an Interrail pass, as it allows me a ton of flexibility. I don't have to be commited to taking any specific train at any time, and if I want to stay a couple hours longer in a city I can. I'm going to try and stick to my schedule though, since I've paid for some hostels in advance, but the option to spend a couple more hours in a city is great. I think I will probably do this tomorrow, and take a chair lift to the
