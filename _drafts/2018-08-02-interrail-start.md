@@ -8,6 +8,11 @@ tags:
   - Interrail
   - Konstanz
   - Innsbruck
+  - Salzburg
+  - Venice
+  - Florence
+  - Nice
+  - Marseille
   - train
 toc: true
 toc_label: Topics
@@ -480,56 +485,60 @@ My favorite part of Marseille was definitely the national park I hiked through..
 
 <figure class="align-center">
   <img src="/assets/images/interrail/marseille_calanque2.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>A viewpoint and the road to get to it</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/marseille_calanque3.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Beautiful view of the harbor from the viewpoint</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/marseille_calanque4.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Natural rock formation near where I swam</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/marseille_calanque5.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Where I swam and sunbathed</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/marseille_calanque6.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>My favorite photo from the park - a little island in the calanque</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/marseille_calanque7.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>There were many boats docked near the shore</figcaption>
 </figure>
+
+***
+
+After getting to swim, I wanted to explore more of the park that was not directly on the coast. As soon as I left the beach and main path, I didn't see another person for close to 2 hours. It was super hot in the sun while hiking up the hills on the gravel trails, and I went through 2.5 liters of water in just that afternoon.
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/marseille_calanque_selfie.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>How I hiked through the warmest parts high above the water with no shade</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/marseille_calanque8.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>After hiking up the opposite direction from the shore</figcaption>
 </figure>
 
 ***
