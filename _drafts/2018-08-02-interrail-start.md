@@ -19,9 +19,9 @@ toc_label: Topics
 toc_icon: fa fa-ellipsis-h
 ---
 
-The Interrail trip has officially begun! Travelling alone has so far been an interesting experience, and is quite different from any other kind of traveling I've done before. I met some great people at the first hostel I stayed in (in Konstanz). One of them was from Malaysia and is studying at Iowa State University, and another was from Germany and biked to Konstanz from Freiburg (128km!). I'm currently sitting on a train to Innsbruck, Austria as I am starting to write this post, and the mountains and lakes are whizzing by.
+The Interrail trip has officially begun! Travelling alone has so far been an interesting experience, and is quite different from any other kind of traveling I've done before. I met some great people at the first hostel I stayed in (in Konstanz). One of them was from Malaysia and is studying at Iowa State University, and another was from Germany and biked to Konstanz from Freiburg (128km!). Most of this post has been written while on trains between places. By the time I finally get this post posted to the blog, my Interrail trip will almost be halfway over! I think I'll try and make at least one more post at the very end of the Interrail trip around August 22, and then maybe one more right before I head back to Canada.
 
-This also means that my time at Bosch Sensortec has come to an end. I'm going to miss working there and living in Reutlingen. I think as far as first apartments go I didn't do too badly at all.
+This also means that my time at Bosch Sensortec has come to an end. I'm going to miss working there and living in Reutlingen. BST hires a lot of international students and interns, and I met a lot of cool people from all over the world. If I ever get the chance to return in the future it would be hard to say no, they are an awesome company with a terrific work culture.
 
 ***
 
@@ -76,9 +76,9 @@ So after dropping my main bag and locking it in the hostel, I took my towel and 
 
 ## Innsbruck
 
-The journey from Konstanz to Innsbruck was the first one that I used my Interrail pass on, as you can't use the pass in your country of home residence except for the first and last leg of your journey (Germany in my case). I chose the train route with the fewest transfers: from Konstanz to Zurich, and then from Zurich to Innsbruck.
+The journey from Konstanz to Innsbruck was the first one that I used my Interrail pass on, as you can't use the pass in your country of home residence (Germany for me) except for the first and last leg of your journey. I chose the train route with the fewest transfers: from Konstanz to Zurich, and then from Zurich to Innsbruck.
 
-The train rides did not go as smoothly as the rail schedule lead me to believe they would. The one from Konstanz to Zurich required me to take a local tram to a different bus stop where they took everyone who was supposed to be on that train to another station where I finally got on my orirignally planned train. This added about 30 minutes to my schedule, and unfortunately the train from Zurich to Innsbruck I wanted to catch only had a 25 minute window for me to catch on my original schedule.
+These first few train rides did not go as smoothly as the rail schedule led me to believe they would. The one from Konstanz to Zurich required me to take a local tram to a different bus stop where they took everyone who was supposed to be on that train to another station where I finally got on my orirignally planned train. This added about 30 minutes to my schedule, and unfortunately the train from Zurich to Innsbruck I wanted to catch only had a 25 minute window for me to catch on my original schedule.
 
 So I had to spend 2 hours in Zurich (which was very nice actually, there is a park just outside a natural history museum that I sat in and read parts of numerous books).
 
@@ -159,30 +159,34 @@ I wanted to spend as much time as I could in Salzburg, because I heard it was an
 
 ***
 
+After my time in Salzburg was completed, I hopped on an early morning train to Venice. This took me through mountain ranges, and I transferred trains in the middle of the range.
+
+***
+
 <figure class="align-center">
   <img src="/assets/images/interrail/salzburg_to_venice.jpg" alt="">
-  <figcaption>The Salzburg to Venice train took me through some mountains</figcaption>
+  <figcaption>The Salzburg to Venice train route</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/salzburg_to_venice2.jpg" alt="">
-  <figcaption>The Salzburg to Venice train route view</figcaption>
+  <figcaption>View of the mountains</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/salzburg_to_venice3.jpg" alt="">
-  <figcaption>Another view from the Salzburg to Venice train</figcaption>
+  <figcaption>Another view</figcaption>
 </figure>
 
 ***
 
 ## Venice
 
-Very touristy, free walking tour, etc.
+The main reason I wanted to go to Venice was because I heard someone say that in a couple years, Venice might not exist anymore because of global warming. It's a pretty unique place, but it's very obviously a tourism driven city. I signed up for a free walking tour with a local Venetian, and one of the things she mentioned was the concept of "sustainable tourism", which is something that Venice is struggling with. Sustainabale tourism means that tourists can visit a place, but not affect it so that the city can preserve its uniqueness. Apparently there are 75,000 tourists that visit Venice every day, which is about 1.5x the population that lives in Venice. This imbalance was glaringly obvious, as I always felt like everything was geared towards selling things to tourists, or similar things. However, the city is incredibly beautiful and unique, and I'm really glad that I visited and got a tour from a local, who taught the group more than I would have ever learned on my own.
 
 ***
 
@@ -207,6 +211,10 @@ Very touristy, free walking tour, etc.
 
 ***
 
+There is a famous bridge in Venice that used to be filled with butchers shops, but at some point a ruler of Venice mandated that only goldsmiths could work there. That tradition is continued today, with expensive luxury jewellry shops lining both sides of the bridge.
+
+***
+
 <figure class="align-center">
   <img src="/assets/images/interrail/venice_gold_bridge.jpg" alt="">
   <figcaption>The bridge full of jewelry shops</figcaption>
@@ -218,6 +226,10 @@ Very touristy, free walking tour, etc.
   <img src="/assets/images/interrail/venice_gold_bridge_selfie.jpg" alt="">
   <figcaption>Standing on the jewelry bridge</figcaption>
 </figure>
+
+***
+
+Saint Marks basilica and square are also famous Venetian landmarks, and were absolutely packed with tourists. Our walking tour avoided these places, as our guide said she focused more on the "real Venice", which was awesome.
 
 ***
 
@@ -244,7 +256,9 @@ Very touristy, free walking tour, etc.
 
 ## Florence
 
-Free museum day first sunday of every month, no idea, gardens and David museum, walking around, etc.
+I enjoyed Florence more than Venice. It felt less geared specifically towards tourists, and it felt like there was a more active local culture. It also happened to be the first Sunday of the month when I was there, which is when all the museums are free! This was a total surprise to me, and I only found out after I walked into the Biboli gardens, and was preparing to pay the admission fee and the attendant told me it was free.
+
+I got in to those gardens for free, and I also did not have to pay anything to see Michelangelo's David. There is an incredible amount of art in Florence, and I didn't make it to many museums, but I got to sample a bit of the most famous one.
 
 ***
 
@@ -369,7 +383,7 @@ Free museum day first sunday of every month, no idea, gardens and David museum, 
 
 ## Nice
 
-While in Nice, relaxed, beach...
+I treated my stop in Nice as a more relaxed one, and I didn't try and walk through all of the city. Instead, I bought some food, got some water, and relaxed on one of the main beaches for a couple of hours. I did eventually climb up a nearby tower which gave an impressive view of the main beaches and city, but that was the only walking I did that day. I remember starting my day in Nice feeling drained of energy from travelling so much, but I felt great after a day of relaxation.
 
 ***
 
@@ -403,9 +417,7 @@ While in Nice, relaxed, beach...
 
 ## Marseille
 
-This was the first place that I spent more than one night in. The day that I arrived I explored the city, and the next day I made a trip to the [Calanques National Park,](http://www.calanques-parcnational.fr/fr) which is a 30 minute bus ride away from the center of Marseille.
-
-pictures, lebanon food, sharehouse...
+This was the first place that I spent more than one night in. The day that I arrived I explored the city, and the next day I made a trip to the [Calanques National Park,](http://www.calanques-parcnational.fr/fr) which is a 30 minute bus ride away from the center of Marseille. The national park was my favorite part by far, as I got to swim, hike, and see calanques for the first time.
 
 ***
 
@@ -472,13 +484,13 @@ pictures, lebanon food, sharehouse...
 
 ***
 
-My favorite part of Marseille was definitely the national park I hiked through...
+As I mentioned, my favorite part of Marseille was the national park. I hiked through some trails where I was alone for close to 2 hours, but also got to swim in beaches were hundreds of people crowded around the crystal clear water.
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/marseille_calanque1.jpg" alt="">
-  <figcaption>Starting the hike</figcaption>
+  <figcaption>Starting the hike to the beach and trails</figcaption>
 </figure>
 
 ***
@@ -545,4 +557,4 @@ After getting to swim, I wanted to explore more of the park that was not directl
 
 ## First Impressions
 
-I'm really happy with the choice to buy an Interrail pass, as it allows me a ton of flexibility. I don't have to be commited to taking any specific train at any time, and if I want to stay a couple hours longer in a city I can. I'm going to try and stick to my schedule though, since I've paid for some hostels in advance, but the option to spend a couple more hours in a city is great. I think I will probably do this tomorrow, and take a chair lift to the
+I'm really happy with the choice to buy an Interrail pass, as it allows me a ton of flexibility. I don't have to be commited to taking any specific train at any time, and if I want to stay a couple hours longer in a city I can. I'm going to try and stick to my schedule though, since I've paid for some hostels in advance, but the option to spend a couple more hours in a city is great. It's tiring to take a train every morning to a new city, but it's a great way to experience a lot of different and unique places before I head back to Canada.
