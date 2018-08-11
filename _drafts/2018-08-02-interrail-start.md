@@ -1,5 +1,5 @@
 ---
-title:  "Endings and Beginnings"
+title:  "Interrailing: The First Half"
 header:
   teaser: /assets/images/interrail/konstanz_from_bridge.jpg
 categories:
@@ -13,28 +13,29 @@ tags:
   - Florence
   - Nice
   - Marseille
+  - Barcelona
   - train
 toc: true
 toc_label: Topics
 toc_icon: fa fa-ellipsis-h
 ---
 
-The Interrail trip has officially begun! Travelling alone has so far been an interesting experience, and is quite different from any other kind of traveling I've done before. I met some great people at the first hostel I stayed in (in Konstanz). One of them was from Malaysia and is studying at Iowa State University, and another was from Germany and biked to Konstanz from Freiburg (128km!). Most of this post has been written while on trains between places. By the time I finally get this post posted to the blog, my Interrail trip will almost be halfway over! I think I'll try and make at least one more post at the very end of the Interrail trip around August 22, and then maybe one more right before I head back to Canada.
+The Interrail trip has officially begun! Travelling alone has so far been an interesting experience, and is quite different from any other kind of traveling I've done before. I met some great people at the first hostel I stayed in (in Konstanz). One of them was from Malaysia and is studying at Iowa State University, and another was from Germany and biked to Konstanz from Freiburg (128km!). I wrote most of this post while sitting on trains, but right now I am finishing it in a hostel in Paris (my feet hurt from walking and I needed a break). My Interrail trip is now halfway over, and there is just under 3 weeks until I'm back in Canada! I'm super excited to get home, but also sad about what I'll be leaving behind.
 
-This also means that my time at Bosch Sensortec has come to an end. I'm going to miss working there and living in Reutlingen. BST hires a lot of international students and interns, and I met a lot of cool people from all over the world. If I ever get the chance to return in the future it would be hard to say no, they are an awesome company with a terrific work culture.
+This also means that my time at Bosch Sensortec has come to an end. I'm going to miss working there and living in Reutlingen. Sensortec hires a lot of international students and interns, and I met a lot of cool people from all over the world. If I ever get the chance to return in the future it would be hard to say no, they are an awesome company with a terrific work culture.
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/leaving_apartment.jpg" alt="">
-  <figcaption>The last time I walked out of the apartment</figcaption>
+  <figcaption>The last time I walked out of the apartment in Reutlingen</figcaption>
 </figure>
 
 ***
 
 ## Konstanz
 
-Konstanz was incredible, and I wish I could have stayed longer. The water in the lake (even just a 20 minute walk from the train station) was a brilliant shade of turquoise, and people were swimming everywhere.
+The first place I visited was Konstanz, and I wish I could have stayed longer. The water in the lake (even just a 20 minute walk from the train station) was a brilliant shade of turquoise, and people were swimming everywhere.
 
 ***
 
@@ -554,6 +555,263 @@ After getting to swim, I wanted to explore more of the park that was not directl
 </figure>
 
 ***
+
+## Barcelona
+
+I spent one and a half days in Barcelona, and I'm sure (like most places that I've visited) that I did not get to see everything that the city had to offer. However, what I did get to see was incredible, and it was one of my favorite places of the trip so far. I had a few main places that I wanted to see, and I'll show some pictures of them all.
+
+### Magic Fountain and Montjuic
+
+The [Magic Fountain](https://www.barcelona.cat/en/what-to-do-in-bcn/magic-fountain) was recommended by multiple people, partly because it was free. The actual show only started at 9:30 pm, so I had about an hour to kill before it started. Luckily the fountain is in front of the [Parc de Montjuic](https://www.tripadvisor.fr/Attraction_Review-g187497-d2359212-Reviews-Parc_de_Montjuic-Barcelona_Catalonia.html) where there is a museum, an Olympic stadium, a castle, and panoramic views of the city. So before the fountain show started I explored this area and took some photos.
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/barcelona_fountain_base.jpg" alt="">
+  <figcaption>The bottom of the park and museum</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/barcelona_fountain_top.jpg" alt="">
+  <figcaption>Looking down on the fountain</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/barcelona_escalators.jpg" alt="">
+  <figcaption>There were outdoor escalators everywhere near the base of the park</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/barcelona_olympic.jpg" alt="">
+  <figcaption>The Olympic stadium</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/barcelona_cable_car.jpg" alt="">
+  <figcaption>There was the option to take a cable car to the top - but I elected to walk</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/barcelona_castle.jpg" alt="">
+  <figcaption>The castle at the top of the hill</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/barcelona_cannon.jpg" alt="">
+  <figcaption>These make the cannons at Victoria Park look like toys</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/barcelona_port.jpg" alt="">
+  <figcaption>The main shipping port, as seen from the castle</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/barcelona_selfie.jpg" alt="">
+  <figcaption>This looked a lot more scenic in person</figcaption>
+</figure>
+
+***
+
+After walking around the park, I realized I was almost going to miss the start of the fountain show, so I hurried back down. The fountain itself was super impressive, but it was made even more striking by the fact that there was thunder and lightning going on very close nearby, but no rain was falling at all. It was difficult to get a good photo of the fountain show, because the lighting of the water against a black background was a bit too much for my phone to handle. I'll put some of the better ones below.
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/barcelona_secondary_fountains.jpg" alt="">
+  <figcaption>Not the magic fountain, but ones near the main staircase</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/barcelona_magic_fountain1.jpg" alt="">
+  <figcaption>The actual magic fountain</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/barcelona_magic_fountain2.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/barcelona_magic_fountain3.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/barcelona_magic_fountain4.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/barcelona_magic_fountain5.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/barcelona_magic_fountain6.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+### Güell Park
+
+The [Güell Park](https://www.parkguell.cat/fr/) was designed by [Antoni Gaudi,](https://en.wikipedia.org/wiki/Antoni_Gaud%C3%AD) who (from what I could tell), is Barcelona's most famous architect. He designed a number of beautiful buildings around the city, and I'll mention him again in the next section. I walked around this park for a while, which offered more scenic views of the city, and a display of Gaudi's unique and captivating style.
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/barcelona_guell1.jpg" alt="">
+  <figcaption>Walkway and pillars supporting it</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/barcelona_guell2.jpg" alt="">
+  <figcaption>Underneath the walkway</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/barcelona_guell3.jpg" alt="">
+  <figcaption>A different walkway</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/barcelona_guell4.jpg" alt="">
+  <figcaption>And a different sheltered alcove</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/barcelona_guell5.jpg" alt="">
+  <figcaption>The house Gaudi lived in for 20 years</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/barcelona_guell6.jpg" alt="">
+  <figcaption>Pillars and plants</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/barcelona_guell7.jpg" alt="">
+  <figcaption>Benches that weren't supposed to be sat on</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/barcelona_guell8.jpg" alt="">
+  <figcaption>Another elaborate walkway</figcaption>
+</figure>
+
+### Sagrada Familia
+
+Gaudi's most known work is probably the [Sagrada Familia](http://www.sagradafamilia.org/en/) (which translates to Holy / Sacred Family). I went on a guided tour of it, and was blown away by the amount of effort that is required to build it, and by the architectural design. It is unlike any other building I had ever seen, and your eyes are drawn to new details everywhere that you look. One quote that stuck with me is that Gaudi wanted it to be a "stone bible", and there are stories from every part of the bible built as sculptures all around the building. There are distinct themes for each of the three main facades of the building, and I won't try and explain them all here because I am by no means an expert in religion.
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/barcelona_sagrada1.jpg" alt="">
+  <figcaption>The side where I bought the ticket to go inside</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/barcelona_sagrada2.jpg" alt="">
+  <figcaption>The opposite side</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/barcelona_sagrada3.jpg" alt="">
+  <figcaption>Gaudi held nature in the highest regard, and the pillars are modelled after trees</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/barcelona_sagrada4.jpg" alt="">
+  <figcaption>The main altar</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/barcelona_sagrada5.jpg" alt="">
+  <figcaption>THe "our father" prayer in Catalan, with other partial translations behind</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/barcelona_sagrada6.jpg" alt="">
+  <figcaption>The stained glass filled the church with blues and greens from one side, and red and orange from the other</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/barcelona_sagrada7.jpg" alt="">
+  <figcaption>The ceiling</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/barcelona_sagrada8.jpg" alt="">
+  <figcaption>A spiralling staircase up one of the towers</figcaption>
+</figure>
+
+***
+
+While in Barcelona I also tried a traditional Spanish meal: paella.
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/barcelona_paella.jpg" alt="">
+  <figcaption>It was delicious</figcaption>
+</figure>
 
 ## First Impressions
 
