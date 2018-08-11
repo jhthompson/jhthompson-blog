@@ -680,7 +680,7 @@ After walking around the park, I realized I was almost going to miss the start o
 
 ### Güell Park
 
-The [Güell Park](https://www.parkguell.cat/fr/) was designed by [Antoni Gaudi,](https://en.wikipedia.org/wiki/Antoni_GaudÃ­) who (from what I could tell), is Barcelona's most famous architect. He designed a number of beautiful buildings around the city, and I'll mention him again in the next section. I walked around this park for a while, which offered more scenic views of the city, and a display of Gaudi's unique and captivating style.
+The [Güell Park](https://www.parkguell.cat/fr/) was designed by [Antoni Gaudi,](https://en.wikipedia.org/wiki/Antoni_Gaud%C3%AD) who (from what I could tell), is Barcelona's most famous architect. He designed a number of beautiful buildings around the city, and I'll mention him again in the next section. I walked around this park for a while, which offered more scenic views of the city, and a display of Gaudi's unique and captivating style.
 
 ***
 
@@ -760,7 +760,7 @@ Gaudi's most known work is probably the [Sagrada Familia](http://www.sagradafami
 
 <figure class="align-center">
   <img src="/assets/images/interrail/barcelona_sagrada3.jpg" alt="">
-  <figcaption>Gaudi held nature in the highest regard, and the pillars are modemodeleder trees</figcaption>
+  <figcaption>Gaudi held nature in the highest regard, and the pillars are modeled after trees</figcaption>
 </figure>
 
 ***
@@ -795,7 +795,7 @@ Gaudi's most known work is probably the [Sagrada Familia](http://www.sagradafami
 
 <figure class="align-center">
   <img src="/assets/images/interrail/barcelona_sagrada8.jpg" alt="">
-  <figcaption>A spirspiralingircase up one of the towers</figcaption>
+  <figcaption>A spiraling staircase up one of the towers</figcaption>
 </figure>
 
 ***
@@ -811,4 +811,4 @@ While in Barcelona I also tried a traditional Spanish meal: paella.
 
 ## First Impressions
 
-I'm really happy with the choice to buy an Interrail pass, as it allows me a ton of flexibility. I don't have to be commcommittedtaking any specific train at any time, and if I want to stay a couple hours longer in a city I can. I'm going to try and stick to my schedule though, since I've paid for some hostels in advance, but the option to spend a couple more hours in a city is great. It's tiring to take a train every morning to a new city, but it's a great way to experience a lot of different and unique places before I head back to Canada.
+I'm really happy with the choice to buy an Interrail pass, as it allows me a ton of flexibility. I don't have to be committed to any specific train at any time, and if I want to stay a couple hours longer in a city I can. I'm going to try and stick to my schedule though, since I've paid for some hostels in advance, but the option to spend a couple more hours in a city is great. It's tiring to take a train every morning to a new city, but it's a great way to experience a lot of different and unique places before I head back to Canada.
