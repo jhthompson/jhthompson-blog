@@ -20,7 +20,7 @@ toc_label: Topics
 toc_icon: fa fa-ellipsis-h
 ---
 
-The Interrail trip has officially begun! Travelling alone has so far been an interesting experience, and is quite different from any other kind of traveling I've done before. I met some great people at the first hostel I stayed in (in Konstanz). One of them was from Malaysia and is studying at Iowa State University, and another was from Germany and biked to Konstanz from Freiburg (128km!). I wrote most of this post while sitting on trains, but right now I am finishing it in a hostel in Paris (my feet hurt from walking and I needed a break). My Interrail trip is now halfway over, and there is just under 3 weeks until I'm back in Canada! I'm super excited to get home, but also sad about what I'll be leaving behind.
+The Interrail trip has officially begun! Travelling alone has so far been an interesting experience, and is quite different from any other kind of traveling I've done before. I've met some great people at hostels I stayed in, although for the most part I just use hostels as a place to get a good nights sleep. I wrote most of this post while sitting on trains, but right now I am finishing it in a hostel in Paris (my feet hurt from walking and I needed a break). My Interrail trip is now halfway over, and there is just under 3 weeks until I'm back in Canada! I'm super excited to get home, but also sad about what I'll be leaving behind.
 
 This also means that my time at Bosch Sensortec has come to an end. I'm going to miss working there and living in Reutlingen. Sensortec hires a lot of international students and interns, and I met a lot of cool people from all over the world. If I ever get the chance to return in the future it would be hard to say no, they are an awesome company with a terrific work culture.
 
@@ -30,8 +30,6 @@ This also means that my time at Bosch Sensortec has come to an end. I'm going to
   <img src="/assets/images/interrail/leaving_apartment.jpg" alt="">
   <figcaption>The last time I walked out of the apartment in Reutlingen</figcaption>
 </figure>
-
-***
 
 ## Konstanz
 
@@ -70,10 +68,8 @@ So after dropping my main bag and locking it in the hostel, I took my towel and 
 
 <figure class="align-center">
   <img src="/assets/images/interrail/konstanz_beach.jpg" alt="">
-  <figcaption>View of the main lake from a pedestrian bridge</figcaption>
+  <figcaption>Where I swam</figcaption>
 </figure>
-
-***
 
 ## Innsbruck
 
@@ -87,12 +83,12 @@ So I had to spend 2 hours in Zurich (which was very nice actually, there is a pa
 
 <figure class="align-center">
   <img src="/assets/images/interrail/zurich_swans.jpg" alt="">
-  <figcaption>Seen from a park that was a 10 minute walk from the main train station</figcaption>
+  <figcaption>More turquoise water!</figcaption>
 </figure>
 
 ***
 
-After 2 hours had passed, I got on the first long-ish train ride of the trip, one that was supposed to last 3.5 hours. However, about 3/4 of the way through there was a section of railway closed because of a landslide, which meant everyone got off, and we took a bus to the next station, where we got right on another train that was waiting for use there. It was all very smoothly orgranized, and only added about 30 minutes to the overall journey time. Once I arrived in Innsbruck I was fortunate to have just enough time to walk to the hostel before it started raining.
+After 2 hours had passed, I got on the first long-ish train ride of the trip, one that was supposed to last 3.5 hours. However, about 3/4 of the way through there was a section of railway closed because of a landslide, which meant everyone got off, and we took a bus to the next station, where we got right on another train that was waiting for us there. It was all very smoothly organized, and only added about 30 minutes to the overall journey time. Once I arrived in Innsbruck I was fortunate to have just enough time to walk to the hostel before it started raining.
 
 ***
 
