@@ -20,7 +20,7 @@ toc_label: Topics
 toc_icon: fa fa-ellipsis-h
 ---
 
-The Interrail trip has officially begun! Travelling alone has so far been an interesting experience, and is quite different from any other kind of traveling I've done before. I've met some great people at hostels I stayed in, although for the most part I just use hostels as a place to get a good nights sleep. I wrote most of this post while sitting on trains, but right now I am finishing it in a hostel in Paris (my feet hurt from walking and I needed a break). My Interrail trip is now halfway over, and there is just under 3 weeks until I'm back in Canada! I'm super excited to get home, but also sad about what I'll be leaving behind.
+The Interrail trip has officially begun! Traveling alone has so far been an interesting experience, and is quite different from any other kind of traveling I've done before. I've met some great people at hostels I stayed in, although for the most part I just use hostels as a place to get a good nights sleep. I wrote most of this post while sitting on trains, but right now I am finishing it in a hostel in Paris (my feet hurt from walking and I needed a break). My Interrail trip is now halfway over, and there is just under 3 weeks until I'm back in Canada! I'm super excited to get home, but also sad about what I'll be leaving behind.
 
 This also means that my time at Bosch Sensortec has come to an end. I'm going to miss working there and living in Reutlingen. Sensortec hires a lot of international students and interns, and I met a lot of cool people from all over the world. If I ever get the chance to return in the future it would be hard to say no, they are an awesome company with a terrific work culture.
 
@@ -75,7 +75,7 @@ So after dropping my main bag and locking it in the hostel, I took my towel and 
 
 The journey from Konstanz to Innsbruck was the first one that I used my Interrail pass on, as you can't use the pass in your country of home residence (Germany for me) except for the first and last leg of your journey. I chose the train route with the fewest transfers: from Konstanz to Zurich, and then from Zurich to Innsbruck.
 
-These first few train rides did not go as smoothly as the rail schedule led me to believe they would. The one from Konstanz to Zurich required me to take a local tram to a different bus stop where they took everyone who was supposed to be on that train to another station where I finally got on my orirignally planned train. This added about 30 minutes to my schedule, and unfortunately the train from Zurich to Innsbruck I wanted to catch only had a 25 minute window for me to catch on my original schedule.
+These first few train rides did not go as smoothly as the rail schedule led me to believe they would. The one from Konstanz to Zurich required me to take a local tram to a different bus stop where they took everyone who was supposed to be on that train to another station where I finally got on my originally planned train. This added about 30 minutes to my schedule, and unfortunately the train from Zurich to Innsbruck I wanted to catch only had a 25 minute window for me to catch on my original schedule.
 
 So I had to spend 2 hours in Zurich (which was very nice actually, there is a park just outside a natural history museum that I sat in and read parts of numerous books).
 
@@ -183,7 +183,7 @@ After my time in Salzburg was completed, I hopped on an early morning train to V
 
 ## Venice
 
-The main reason I wanted to go to Venice was because I heard someone say that in a couple years, Venice might not exist anymore because of global warming. It's a pretty unique place, but it's very obviously a tourism driven city. I signed up for a free walking tour with a local Venetian, and one of the things she mentioned was the concept of "sustainable tourism", which is something that Venice is struggling with. Sustainabale tourism means that tourists can visit a place, but not affect it so that the city can preserve its uniqueness. Apparently there are 75,000 tourists that visit Venice every day, which is about 1.5x the population that lives in Venice. This imbalance was glaringly obvious, as I always felt like everything was geared towards selling things to tourists, or similar things. However, the city is incredibly beautiful and unique, and I'm really glad that I visited and got a tour from a local, who taught the group more than I would have ever learned on my own.
+The main reason I wanted to go to Venice was because I heard someone say that in a couple years, Venice might not exist anymore because of global warming. It's a pretty unique place, but it's very obviously a tourism driven city. I signed up for a free walking tour with a local Venetian, and one of the things she mentioned was the concept of "sustainable tourism", which is something that Venice is struggling with. Sustainable tourism means that tourists can visit a place, but not affect it so that the city can preserve its uniqueness. Apparently there are 75,000 tourists that visit Venice every day, which is about 1.5x the population that lives in Venice. This imbalance was glaringly obvious, as I always felt like everything was geared towards selling things to tourists, or similar things. However, the city is incredibly beautiful and unique, and I'm really glad that I visited and got a tour from a local, who taught the group more than I would have ever learned on my own.
 
 ***
 
@@ -208,7 +208,7 @@ The main reason I wanted to go to Venice was because I heard someone say that in
 
 ***
 
-There is a famous bridge in Venice that used to be filled with butchers shops, but at some point a ruler of Venice mandated that only goldsmiths could work there. That tradition is continued today, with expensive luxury jewellry shops lining both sides of the bridge.
+There is a famous bridge in Venice that used to be filled with butchers shops, but at some point a ruler of Venice mandated that only goldsmiths could work there. That tradition is continued today, with expensive luxury jewelry shops lining both sides of the bridge.
 
 ***
 
@@ -380,7 +380,7 @@ I got in to those gardens for free, and I also did not have to pay anything to s
 
 ## Nice
 
-I treated my stop in Nice as a more relaxed one, and I didn't try and walk through all of the city. Instead, I bought some food, got some water, and relaxed on one of the main beaches for a couple of hours. I did eventually climb up a nearby tower which gave an impressive view of the main beaches and city, but that was the only walking I did that day. I remember starting my day in Nice feeling drained of energy from travelling so much, but I felt great after a day of relaxation.
+I treated my stop in Nice as a more relaxed one, and I didn't try and walk through all of the city. Instead, I bought some food, got some water, and relaxed on one of the main beaches for a couple of hours. I did eventually climb up a nearby tower which gave an impressive view of the main beaches and city, but that was the only walking I did that day. I remember starting my day in Nice feeling drained of energy from traveling so much, but I felt great after a day of relaxation.
 
 ***
 
@@ -680,7 +680,7 @@ After walking around the park, I realized I was almost going to miss the start o
 
 ### Güell Park
 
-The [Güell Park](https://www.parkguell.cat/fr/) was designed by [Antoni Gaudi,](https://en.wikipedia.org/wiki/Antoni_Gaud%C3%AD) who (from what I could tell), is Barcelona's most famous architect. He designed a number of beautiful buildings around the city, and I'll mention him again in the next section. I walked around this park for a while, which offered more scenic views of the city, and a display of Gaudi's unique and captivating style.
+The [Güell Park](https://www.parkguell.cat/fr/) was designed by [Antoni Gaudi,](https://en.wikipedia.org/wiki/Antoni_GaudÃ­) who (from what I could tell), is Barcelona's most famous architect. He designed a number of beautiful buildings around the city, and I'll mention him again in the next section. I walked around this park for a while, which offered more scenic views of the city, and a display of Gaudi's unique and captivating style.
 
 ***
 
@@ -760,7 +760,7 @@ Gaudi's most known work is probably the [Sagrada Familia](http://www.sagradafami
 
 <figure class="align-center">
   <img src="/assets/images/interrail/barcelona_sagrada3.jpg" alt="">
-  <figcaption>Gaudi held nature in the highest regard, and the pillars are modelled after trees</figcaption>
+  <figcaption>Gaudi held nature in the highest regard, and the pillars are modemodeleder trees</figcaption>
 </figure>
 
 ***
@@ -795,7 +795,7 @@ Gaudi's most known work is probably the [Sagrada Familia](http://www.sagradafami
 
 <figure class="align-center">
   <img src="/assets/images/interrail/barcelona_sagrada8.jpg" alt="">
-  <figcaption>A spiralling staircase up one of the towers</figcaption>
+  <figcaption>A spirspiralingircase up one of the towers</figcaption>
 </figure>
 
 ***
@@ -811,4 +811,4 @@ While in Barcelona I also tried a traditional Spanish meal: paella.
 
 ## First Impressions
 
-I'm really happy with the choice to buy an Interrail pass, as it allows me a ton of flexibility. I don't have to be commited to taking any specific train at any time, and if I want to stay a couple hours longer in a city I can. I'm going to try and stick to my schedule though, since I've paid for some hostels in advance, but the option to spend a couple more hours in a city is great. It's tiring to take a train every morning to a new city, but it's a great way to experience a lot of different and unique places before I head back to Canada.
+I'm really happy with the choice to buy an Interrail pass, as it allows me a ton of flexibility. I don't have to be commcommittedtaking any specific train at any time, and if I want to stay a couple hours longer in a city I can. I'm going to try and stick to my schedule though, since I've paid for some hostels in advance, but the option to spend a couple more hours in a city is great. It's tiring to take a train every morning to a new city, but it's a great way to experience a lot of different and unique places before I head back to Canada.
