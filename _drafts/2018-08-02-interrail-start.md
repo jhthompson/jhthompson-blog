@@ -176,14 +176,12 @@ After my time in Salzburg was completed, I hopped on an early morning train to V
 
 <figure class="align-center">
   <img src="/assets/images/interrail/salzburg_to_venice3.jpg" alt="">
-  <figcaption>Another view</figcaption>
+  <figcaption>Another view of the mountains</figcaption>
 </figure>
-
-***
 
 ## Venice
 
-The main reason I wanted to go to Venice was because I heard someone say that in a couple years, Venice might not exist anymore because of global warming. It's a pretty unique place, but it's very obviously a tourism driven city. I signed up for a free walking tour with a local Venetian, and one of the things she mentioned was the concept of "sustainable tourism", which is something that Venice is struggling with. Sustainable tourism means that tourists can visit a place, but not affect it so that the city can preserve its uniqueness. Apparently there are 75,000 tourists that visit Venice every day, which is about 1.5x the population that lives in Venice. This imbalance was glaringly obvious, as I always felt like everything was geared towards selling things to tourists, or similar things. However, the city is incredibly beautiful and unique, and I'm really glad that I visited and got a tour from a local, who taught the group more than I would have ever learned on my own.
+The main reason I wanted to go to Venice was because I heard someone say that in a couple years, Venice might not exist anymore because of global warming. It's a pretty unique place, but it's very obviously a tourism driven city. I signed up for a free walking tour with a local Venetian, and one of the things she mentioned was the concept of "sustainable tourism", which is something that Venice is struggling with. Sustainable tourism means that tourists can visit a place, but not affect it so greatly that the city can preserve its uniqueness. Apparently there are 75,000 tourists that visit Venice every day, which is about 1.5x the population that lives in Venice. This imbalance was glaringly obvious, as I always felt like everything was geared towards selling things to tourists. However, the city is incredibly beautiful and unique, and I'm really glad that I visited and got a tour from a local, who taught the group more than I would have ever learned on my own.
 
 ***
 
@@ -249,11 +247,9 @@ Saint Marks basilica and square are also famous Venetian landmarks, and were abs
   <figcaption>And one last impressive scene</figcaption>
 </figure>
 
-***
-
 ## Florence
 
-I enjoyed Florence more than Venice. It felt less geared specifically towards tourists, and it felt like there was a more active local culture. It also happened to be the first Sunday of the month when I was there, which is when all the museums are free! This was a total surprise to me, and I only found out after I walked into the Biboli gardens, and was preparing to pay the admission fee and the attendant told me it was free.
+After Venice, I made my way to Florence, and I can honestly say I enjoyed Florence more than Venice. It felt less geared towards tourists, and it felt like there was a more active local culture. It also happened to be the first Sunday of the month when I was there, which is when all the museums are free! This was a total surprise to me, and I only found out after I walked into the Biboli gardens, and was preparing to pay the admission fee when the attendant told me it was free.
 
 I got in to those gardens for free, and I also did not have to pay anything to see Michelangelo's David. There is an incredible amount of art in Florence, and I didn't make it to many museums, but I got to sample a bit of the most famous one.
 
@@ -317,7 +313,7 @@ I got in to those gardens for free, and I also did not have to pay anything to s
 
 <figure class="align-center">
   <img src="/assets/images/interrail/florence_duomo.jpg" alt="">
-  <figcaption>The outside of the famous dome in Florence</figcaption>
+  <figcaption>The outside of the famous Duomo in Florence</figcaption>
 </figure>
 
 ***
@@ -338,7 +334,7 @@ I got in to those gardens for free, and I also did not have to pay anything to s
 
 <figure class="align-center">
   <img src="/assets/images/interrail/florence_david.jpg" alt="">
-  <figcaption>Michelangelo's famous David</figcaption>
+  <figcaption>Michelangelo's David</figcaption>
 </figure>
 
 ***
@@ -376,8 +372,6 @@ I got in to those gardens for free, and I also did not have to pay anything to s
   <figcaption>The imagery of a swan feeding her young with her own blood appeared in many places in Florence</figcaption>
 </figure>
 
-***
-
 ## Nice
 
 I treated my stop in Nice as a more relaxed one, and I didn't try and walk through all of the city. Instead, I bought some food, got some water, and relaxed on one of the main beaches for a couple of hours. I did eventually climb up a nearby tower which gave an impressive view of the main beaches and city, but that was the only walking I did that day. I remember starting my day in Nice feeling drained of energy from traveling so much, but I felt great after a day of relaxation.
@@ -409,8 +403,6 @@ I treated my stop in Nice as a more relaxed one, and I didn't try and walk throu
   <img src="/assets/images/interrail/nice_waterfall.jpg" alt="">
   <figcaption>Near the top of the tower was a waterfall which provided cool mist to everyone walking by</figcaption>
 </figure>
-
-***
 
 ## Marseille
 
@@ -455,7 +447,7 @@ This was the first place that I spent more than one night in. The day that I arr
 
 <figure class="align-center">
   <img src="/assets/images/interrail/marseille_basilica_inside4.jpg" alt="">
-  <figcaption>THe elaborate basilica ceiling</figcaption>
+  <figcaption>The elaborate basilica ceiling</figcaption>
 </figure>
 
 ***
@@ -481,7 +473,7 @@ This was the first place that I spent more than one night in. The day that I arr
 
 ***
 
-As I mentioned, my favorite part of Marseille was the national park. I hiked through some trails where I was alone for close to 2 hours, but also got to swim in beaches were hundreds of people crowded around the crystal clear water.
+As I mentioned, my favorite part of Marseille was the national park. I hiked through some trails where I was alone for close to 2 hours, but also got to swim in beaches where hundreds of people crowded around the crystal clear water.
 
 ***
 
@@ -547,14 +539,12 @@ After getting to swim, I wanted to explore more of the park that was not directl
 
 <figure class="align-center">
   <img src="/assets/images/interrail/marseille_calanque8.jpg" alt="">
-  <figcaption>After hiking up the opposite direction from the shore</figcaption>
+  <figcaption>One of the highest points I made it to</figcaption>
 </figure>
-
-***
 
 ## Barcelona
 
-I spent one and a half days in Barcelona, and I'm sure (like most places that I've visited) that I did not get to see everything that the city had to offer. However, what I did get to see was incredible, and it was one of my favorite places of the trip so far. I had a few main places that I wanted to see, and I'll show some pictures of them all.
+I spent one and a half days in Barcelona, and I'm sure (like most places that I've visited) that I did not get to see everything that the city had to offer. However, what I did get to see was incredible, and it was one of my favorite places of the trip so far. I had a few main things that I wanted to see, which I will mention below.
 
 ### Magic Fountain and Montjuic
 
@@ -676,8 +666,6 @@ After walking around the park, I realized I was almost going to miss the start o
   <figcaption></figcaption>
 </figure>
 
-***
-
 ### Güell Park
 
 The [Güell Park](https://www.parkguell.cat/fr/) was designed by [Antoni Gaudi,](https://en.wikipedia.org/wiki/Antoni_Gaud%C3%AD) who (from what I could tell), is Barcelona's most famous architect. He designed a number of beautiful buildings around the city, and I'll mention him again in the next section. I walked around this park for a while, which offered more scenic views of the city, and a display of Gaudi's unique and captivating style.
@@ -740,7 +728,7 @@ The [Güell Park](https://www.parkguell.cat/fr/) was designed by [Antoni Gaudi,]
 
 ### Sagrada Familia
 
-Gaudi's most known work is probably the [Sagrada Familia](http://www.sagradafamilia.org/en/) (which translates to Holy / Sacred Family). I went on a guided tour of it, and was blown away by the amount of effort that is required to build it, and by the architectural design. It is unlike any other building I had ever seen, and your eyes are drawn to new details everywhere that you look. One quote that stuck with me is that Gaudi wanted it to be a "stone bible", and there are stories from every part of the bible built as sculptures all around the building. There are distinct themes for each of the three main facades of the building, and I won't try and explain them all here because I am by no means an expert in religion.
+Gaudi's most known work is probably the [Sagrada Familia](http://www.sagradafamilia.org/en/) (which translates to Holy / Sacred Family). I went on a guided tour of it, and was blown away by the amount of effort that is required to build it, and by the architectural design. It is unlike any other building I have ever seen, and your eyes are drawn to new details everywhere that you look. One quote that stuck with me is that Gaudi wanted it to be a "stone bible", and there are stories from every part of the bible built as sculptures all around the building. There are distinct themes for each of the three main facades of the building, and I won't try and explain them all here because I am by no means an expert in religion.
 
 ***
 
@@ -774,7 +762,7 @@ Gaudi's most known work is probably the [Sagrada Familia](http://www.sagradafami
 
 <figure class="align-center">
   <img src="/assets/images/interrail/barcelona_sagrada5.jpg" alt="">
-  <figcaption>THe "our father" prayer in Catalan, with other partial translations behind</figcaption>
+  <figcaption>The "our father" prayer in Catalan, with other partial translations behind</figcaption>
 </figure>
 
 ***
@@ -811,4 +799,10 @@ While in Barcelona I also tried a traditional Spanish meal: paella.
 
 ## First Impressions
 
-I'm really happy with the choice to buy an Interrail pass, as it allows me a ton of flexibility. I don't have to be committed to any specific train at any time, and if I want to stay a couple hours longer in a city I can. I'm going to try and stick to my schedule though, since I've paid for some hostels in advance, but the option to spend a couple more hours in a city is great. It's tiring to take a train every morning to a new city, but it's a great way to experience a lot of different and unique places before I head back to Canada.
+I'm really happy with my choice to buy an Interrail pass, as it allows me a ton of flexibility. I don't have to be committed to any specific train at any time (other than long distance ones I needed to reserve a seat on), and if I want to stay a couple hours longer in a city I can. I'm going to try and continue to stick to my schedule though, since I've paid for some hostels in advance, but the option to spend a couple more hours in a city is great. It's tiring to take a train almost every morning to a new city, but it's a great way to experience a lot of different and unique places before I head back to Canada.
+
+I will hopefully make one more post when I finish the Interrail part of August, which should be around August 22. Then I will spend the rest of August in France, and fly out of Paris on August 31!
+
+Thanks for reading!
+
+Jeremy
