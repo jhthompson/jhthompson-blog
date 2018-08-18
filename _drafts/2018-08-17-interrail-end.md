@@ -11,120 +11,122 @@ toc_label: Topics
 toc_icon: fa fa-ellipsis-h
 ---
 
-Intro...
+The Interrail trip is still ongoing, and I'm pleased to report that the trains have been much more reliable, with no more unplanned route changes or delays. The travel is starting to tire me out, and I'm finding it very easy to fall asleep during long train rides, and every night I'm asleep almost as soon as my head hits the pillow. I took some time to relax while in Antwerp, and that boosted my energy.
 
 ## Paris
 
-Notre Dame Cathedral...
+Paris was a little overwhelming, it's such a large place and there is so much to do. I feel like I could have easily spent a week there seeing all of the main attractions, but since I was only there for two days I had to decide what I wanted to see and what I had to ignore.
+
+I did make it to the Notre Dame Cathedral, as it wasn't too far from my hostel.
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/paris_notre_dame1.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>The front of Notre Dame</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/paris_notre_dame2.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Walking around one side</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/paris_notre_dame3.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>The "back" side</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/paris_notre_dame4.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Seen from a bridge nearby</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/paris_notre_dame5.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>One of the many boat tours, with Notre Dame in the background</figcaption>
 </figure>
 
 ***
 
-Best baguette of 2016
+When I was in Paris, I survived almost entirely on pastries. I had quite a few pain au chocolat, and I also ate a lot of baguettes. My favorite baguette was from "La Parisienne", where it was the winner of the best baguette of Paris in 2016. Later in the trip I also stumbled upon a bakery that was proudly advertising a second place finish in the 2014 edition of the same contest, so I guess it's a pretty big deal in Paris!
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/paris_baguette_2016.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>The champion of 2016</figcaption>
 </figure>
 
 ***
 
-Panthéon...
+Another famous building I wanted to see in Paris was the Panthéon.
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/paris_pantheon.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>The front</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/paris_pantheon2.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>And slightly different lighting</figcaption>
 </figure>
 
 ***
 
-Louvre...
+I didn't want to miss the Louvre, and I spent almost an entire afternoon there. However, I didn't even come close to seeing everything, but I saw most of what interested me. I focused on sculptures, historical rooms, and Egyptian relics, which meant I skipped a lot of paintings.
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/paris_louvre1.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>The famous pyramid entrance</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/paris_louvre_under_pyramid.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>And the partner upside-down pyramid sculpture</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/paris_louvre2.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>The golden sculpture inside the main pyramid</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/paris_louvre3.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>A magnificent beard</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/paris_louvre4.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Almost every room had artwork on the ceiling</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/paris_louvre5.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>More ceiling art</figcaption>
 </figure>
 
 ***
@@ -138,154 +140,154 @@ Louvre...
 
 <figure class="align-center">
   <img src="/assets/images/interrail/paris_louvre_mona_lisa_crowd.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>The crowd around Mona Lisa</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/paris_louvre_mona_lisa.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>The closest I got to Mona Lisa</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/paris_louvre6.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Some absolutely gigantic paintings on display</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/paris_louvre_crown_jewel_hall.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>This hallway contains the French crown jewels</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/paris_louvre_crown_jewels.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>The French crown jewels</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/paris_louvre_selfie.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Me in the French jewel hall</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/paris_louvre7.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>The start of the Egyptian collection</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/paris_louvre8.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>More Egyptian pyramid shaped objects</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/paris_louvre9.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Metal fish - not sure if this was part of the Egyptian collection or not</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/paris_louvre10.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Sphinx - this was definitely Egyptian</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/paris_louvre11.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Old, fancy, European "snuff boxes"</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/paris_louvre12.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Honestly not sure what this is</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/paris_louvre13.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>An example of a historic bedroom</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/paris_louvre14.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>A clock that was in the room displaying old scientific instruments</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/paris_louvre15.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>I thought these figures with multicolored heads were neat</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/paris_louvre16.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Pretty sure this was carved from mother of pearl</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/paris_louvre17.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Napolean's living room</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/paris_louvre18.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Napolean's dining hall</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/paris_louvre19.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Side view of the dining table</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/paris_louvre20.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Another historical bedroom</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/paris_louvre21.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Meticulously crafted stone table with colored inlays</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/paris_louvre22.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Intricately colored medallions</figcaption>
 </figure>
 
 ***
@@ -729,6 +731,100 @@ Louvre...
 ***
 
 ## Bruges
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/bruges1.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/bruges2.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/bruges3.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/bruges4.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/bruges5.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/bruges6.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/bruges7.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/bruges8.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/bruges9.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/bruges10.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/bruges11.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/bruges12.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/bruges13.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
 
 ## Amsterdam
 
