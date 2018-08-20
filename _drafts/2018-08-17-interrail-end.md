@@ -294,533 +294,553 @@ I didn't want to miss the Louvre, and I spent almost an entire afternoon there. 
 
 <figure class="align-center">
   <img src="/assets/images/interrail/paris_louvre23.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>This was either from the Egyptian collection or from the earliest civilization in history (it all blends together now)</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/paris_louvre24.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Canadian vibes</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/paris_louvre25.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Impressive pillars to hold up roof beams from an old palace</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/paris_louvre26.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>More Egyptian stuff</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/paris_louvre_vents.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Fun fact - these grates blew out cold air, and were very satisfying to walk over</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/paris_louvre27.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Anothe sphinx</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/paris_louvre28.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Egyptian jewelry</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/paris_louvre29.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>The biggest sphinx yet</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/paris_louvre30.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Interactive display about the history of the Louvre</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/paris_louvre31.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>On my way to the exit - the base of the old Louvre fortress</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/paris_louvre32.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Another view of the golden sculpture in the glass pyramid</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/paris_garden1.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Leaving the Louvre - the Eiffel tower in the distance</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/paris_garden2.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Fun in the gardens behind the Louvre</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/paris_garden3.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Path leading towards an Egyptian obelisk</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/paris_obelisk.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>The obelisk from the last picture in more detail</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/paris_arc1.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>The Arc de Triomphe</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/paris_arc_selfie.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Me and the Arc</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/paris_arc2.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Sculptures on the Arc in more detail</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/paris_arc3.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>The underside of the Arc</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/paris_arc4.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>The tomb of the unknown soldier</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/paris_arc5.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>More sculptures on the Arc</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/paris_arc6.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>The tunnel to get underneath the Arc</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/paris_eiffel1.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Walking closer to the Eiffel Tower</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/paris_eiffel2.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Near the base</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/paris_eiffel3.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>It's a lot bigger in person than in photos!</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/paris_eiffel4.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Underneath the Eiffel Tower</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/paris_eiffel5.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>One of the elevators going up</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/paris_eiffel6.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>View from farther away</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/paris_eiffel_selfie.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Me and the tower</figcaption>
 </figure>
+
+***
+
+After seeing the Eiffel Tower, I had seen most of the big name tourist items that I wanted to see in Paris. I was looking for something else to do, and decided on a natural history / science museum.
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/paris_meteorite1.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>From a temporary exhibit on meteorites</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/paris_meteorite_aerogel.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Aerogel (if you haven't heard of this material, it's incredible, look it up!) used in a satellite to collect "space dust"</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/paris_natural_museum1.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>The main section of the natural history museum</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/paris_natural_museum2.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>The central parade of animal</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/paris_natural_museum3.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>A pangolin</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/paris_natural_museum4.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Mesmerizing shapes inside a shell</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/paris_natural_museum5.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Collection of bugs and butterflies</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/paris_natural_museum6.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>View from an upper floor</figcaption>
 </figure>
+
+***
+
+The morning that I was leaving Paris, I had a little bit of free time, and I decided to walk to another famous building, the [Sacré-Cœur.](https://en.wikipedia.org/wiki/Sacr%C3%A9-C%C5%93ur,_Paris)
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/paris_sacre_coeur.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>The Sacré-Cœur</figcaption>
 </figure>
 
 ***
 
 ## Brussels
 
+Brussels was probably the place that exceeded my expectations the most. I can't put my finger on it, but I really loved the vibe of the city. The architecture was modern in places, and historic in others, and every part of the public transit that I saw ran very smoothly.
+
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/brussels_ferris_wheel.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>This ferris wheel was almost directly beside the train station</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/brussels_square1.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>The main square in Brussels</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/brussels_square2.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Another view of the main square</figcaption>
 </figure>
+
+***
+
+I stopped at the [Belgian Comic Strip Center](https://www.comicscenter.net/en/home) for a few hours. The main attraction for me was Tintin, as I read a lot of those comics growing up, and I bought some Tintin related souvenirs that I really liked.
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/brussels_comic1.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Luffy from One Piece</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/brussels_comic2.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>The Tintin characters!</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/brussels_comic3.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>The author of the Tintin comics</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/brussels_comic4.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Chart outlining the appearance of all characters throughout the course of the comics</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/brussels_comic5.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Section for the Smurfs</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/brussels_comic6.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>The Smurf village</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/brussels_comic7.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>There were also more serious comics on display</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/brussels_comic8.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>The view from the main entryway</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/brussels_comic9.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Destination Moon</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/brussels_street_art.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Street art</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/brussels_church.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Church in Brussels</figcaption>
 </figure>
+
+***
+
+One of the most unique buildings in Brussels (and [all of Europe](https://edition.cnn.com/travel/article/europe-bizarre-buildings/index.html)) is the [Atomium.](http://www.atomium.be/) It's not near the center of the city, and it took me about an hour and 15 minutes to walk there. I then took the metro back to my hostel afterwards.
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/brussels_atomium1.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Seeing this on the horizon made me feel like I was in a sci-fi film</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/brussels_atomium2.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>View from the main entrance</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/brussels_atomium_selfie.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Me and the Atomium</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/brussels_atomium3.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Details on the main structure</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/brussels_atomium4.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>View from underneath</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/brussels_atomium5.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Walking away gave another unique perspective of the Atomium</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/brussels_olympic.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>The Belgian olympic committee has their offices near the Atomium</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/brussels_waffle.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>I tried a Belgian waffle downtown - pretty good, nothing special</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/brussels_street_tintin.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Tintin street art</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/brussels_pis.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>The Manneken Pis</figcaption>
 </figure>
 
 ***
 
 ## Bruges
 
+One of the main reasons I stopped in Bruges was a film called [In Bruges](https://www.imdb.com/title/tt0780536/) that I watched for the first time a couple of months ago. In the film it is depicted as a small town with medieval architecture, and that is true. I didn't realize Bruges was actually a fairly popular tourist destination, and there was a decent amount of people roaming around town when I was exploring, especially around the [belfry.](https://en.wikipedia.org/wiki/Belfry_of_Bruges)
+
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/bruges1.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Bruges had a small town vibe</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/bruges2.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>The belfry in the distance</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/bruges3.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Small side street</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/bruges4.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>There were some small rivers running through the town</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/bruges5.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>I went on a run at night and came across this well-lit bridge</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/bruges6.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>The Belfry of Bruges</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/bruges7.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>The day I was there was also a holiday and had a brief parade</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/bruges8.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>More costumes from the parade</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/bruges9.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Horses and medieval clothes</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/bruges10.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>This was the symbolic reason for the parade I think - twelve virgins leading a candle to the church to offer to Mary (but don't quote me on that)</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/bruges11.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Last part of the parade</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/bruges12.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>The main square in Bruges</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/bruges13.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>The base of the belfry</figcaption>
 </figure>
 
 ***
