@@ -845,8 +845,9 @@ One of the main reasons I stopped in Bruges was a film called [In Bruges](https:
 
 ***
 
-
 ## Amsterdam
+
+Amsterdam was a pretty interesting stop. I knew that it was known for having a lot of bicycles, but that didn't prepare me for just how many there were. Almost every bridge I crossed had both railings covered with bikes, and waiting at crosswalks it was more important to keep an eye on the bike lane than the car lane. In fact, it would be very difficult to drive a car in downtown Amsterdam, which I think contributes to the bike culture.
 
 ## Antwerp
 
