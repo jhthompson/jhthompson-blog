@@ -855,7 +855,9 @@ Amsterdam was a pretty interesting stop. I knew that it was known for having a l
 
 ## Strasbourg
 
-## Garmisch-Partenkirchen
+## Garmisch-Partenkirchen / Zugspitze
+
+I could easily have written an entire post about the Zugsptize climb, as it is one of the coolest things I have ever done in my life. I also tried to make a Google photos album for personal use with only the good photos that I took, and it still has 234 photos in it! I'll pick a selection of the best photos from the trip and put them up here, since 234 is a bit much.
 
 ## Reutlingen
 
