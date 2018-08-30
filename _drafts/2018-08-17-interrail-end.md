@@ -851,19 +851,535 @@ Amsterdam was a pretty interesting stop. I knew that it was known for having a l
 
 ## Antwerp
 
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/antwerp1.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/antwerp2.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/antwerp3.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/antwerp4.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/antwerp5.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/antwerp6.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/antwerp7.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/antwerp8.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/antwerp9.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/antwerp10.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/antwerp11.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/liege_station.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
 ## Luxembourg City
 
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/luxembourg1.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/luxembourg2.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/luxembourg3.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/luxembourg4.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/luxembourg5.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/luxembourg6.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/luxembourg7.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/luxembourg8.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/luxembourg9.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/luxembourg10.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/luxembourg11.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/luxembourg12.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/luxembourg13.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/luxembourg14.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/luxembourg15.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
 ## Strasbourg
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/strasbourg1.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/strasbourg2.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/strasbourg3.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/strasbourg4.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
 
 ## Garmisch-Partenkirchen / Zugspitze
 
 I could easily have written an entire post about the Zugsptize climb, as it is one of the coolest things I have ever done in my life. I also tried to make a Google photos album for personal use with only the good photos that I took, and it still has 234 photos in it! I'll pick a selection of the best photos from the trip and put them up here, since 234 is a bit much.
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/zugspitze1.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/zugspitze2.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/zugspitze3.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/zugspitze4.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/zugspitze5.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/zugspitze6.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/zugspitze7.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/zugspitze8.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/zugspitze9.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/zugspitze10.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/zugspitze11.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/zugspitze12.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/zugspitze13.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/zugspitze14.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/zugspitze15.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/zugspitze16.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/zugspitze17.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/zugspitze18.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/zugspitze19.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/zugspitze20.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/zugspitze21.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/zugspitze22.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/zugspitze23.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/zugspitze24.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/zugspitze25.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/zugspitze26.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/zugspitze27.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/zugspitze28.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/zugspitze29.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/zugspitze30.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/zugspitze31.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/zugspitze32.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/zugspitze33.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/zugspitze34.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/zugspitze35.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/zugspitze36.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/zugspitze37.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/zugspitze38.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/zugspitze39.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/zugspitze40.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/zugspitze41.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/zugspitze42.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+***
 
 ## Reutlingen
 
 ## Last Day of Travel
 
 ## Cholet
-
-### Secondary Header
-
