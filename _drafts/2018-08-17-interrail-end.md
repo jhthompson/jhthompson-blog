@@ -11,7 +11,7 @@ toc_label: Topics
 toc_icon: fa fa-ellipsis-h
 ---
 
-The Interrail trip is still ongoing, and I'm pleased to report that the trains have been much more reliable, with no more unplanned route changes or delays. The travel is starting to tire me out, and I'm finding it very easy to fall asleep during long train rides, and every night I'm asleep almost as soon as my head hits the pillow. I took some time to relax while in Antwerp, and that boosted my energy.
+The Interrail trip is sadly over now, but I'm pleased to report that the trains were much more reliable during the second half of the trip, with no more unplanned route changes or delays. Tiring, falling asleep easily... I took some time to relax while in Antwerp, and that boosted my energy.
 
 ## Paris
 
@@ -849,90 +849,313 @@ One of the main reasons I stopped in Bruges was a film called [In Bruges](https:
 
 Amsterdam was a pretty interesting stop. I knew that it was known for having a lot of bicycles, but that didn't prepare me for just how many there were. Almost every bridge I crossed had both railings covered with bikes, and waiting at crosswalks it was more important to keep an eye on the bike lane than the car lane. In fact, it would be very difficult to drive a car in downtown Amsterdam, which I think contributes to the bike culture.
 
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/amsterdam1.jpg" alt="">
+  <figcaption>Bikes and buildings</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/amsterdam2.jpg" alt="">
+  <figcaption>Incredible baked potato</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/amsterdam3.jpg" alt="">
+  <figcaption>Heron in a park downtown</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/amsterdam4.jpg" alt="">
+  <figcaption>One of the many canals</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/amsterdam5.jpg" alt="">
+  <figcaption>Crossing the canal</figcaption>
+</figure>
+
+***
+
+I went to a zoo in Amsterdam, which had a lot of animals and a large variety of species.
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/amsterdam6.jpg" alt="">
+  <figcaption>Near the entrance to the zoo</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/amsterdam7.jpg" alt="">
+  <figcaption>Birds</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/amsterdam8.jpg" alt="">
+  <figcaption>Zoboomafoo is that you?</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/amsterdam9.jpg" alt="">
+  <figcaption>Porcupine getting close to the crowd</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/amsterdam10.jpg" alt="">
+  <figcaption>Komodo dragon</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/amsterdam11.jpg" alt="">
+  <figcaption>Cool path between the elephant enclosure</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/amsterdam12.jpg" alt="">
+  <figcaption>The giraffes came very close to everyone</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/amsterdam13.jpg" alt="">
+  <figcaption>I could have reached out and touched them</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/amsterdam14.jpg" alt="">
+  <figcaption>Stopped at a bench here to eat lunch</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/amsterdam15.jpg" alt="">
+  <figcaption>Tarantula (I think)</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/amsterdam16.jpg" alt="">
+  <figcaption>Seals being fed</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/amsterdam17.jpg" alt="">
+  <figcaption>Gorillas are huge in person</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/amsterdam18.jpg" alt="">
+  <figcaption>Penguins</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/amsterdam19.jpg" alt="">
+  <figcaption>Inside the massive aquarium</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/amsterdam20.jpg" alt="">
+  <figcaption>Funky colors</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/amsterdam21.jpg" alt="">
+  <figcaption>Sea horses</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/amsterdam22.jpg" alt="">
+  <figcaption>Some kind of ray and some kind of shark</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/amsterdam23.jpg" alt="">
+  <figcaption>Snack time in the butterfly house</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/amsterdam24.jpg" alt="">
+  <figcaption>Collection of butterflies</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/amsterdam25.jpg" alt="">
+  <figcaption>This elephant kept to himself more than the others</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/amsterdam26.jpg" alt="">
+  <figcaption>A different elephant in the larger enclosure</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/amsterdam27.jpg" alt="">
+  <figcaption>Monkey island</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/amsterdam28.jpg" alt="">
+  <figcaption>Old sailing ship</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/amsterdam29.jpg" alt="">
+  <figcaption>Tilted building that has a resturant on the roof</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/amsterdam30.jpg" alt="">
+  <figcaption>Walkway</figcaption>
+</figure>
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/amsterdam31.jpg" alt="">
+  <figcaption>Outdoor concert next to a canal</figcaption>
+</figure>
+
+***
+
 ## Antwerp
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/antwerp1.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Antwerp has a very beautiful train station</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/antwerp2.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Statue holding lightning bolts</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/antwerp3.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Cathedral of our Lady</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/antwerp4.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>One of the oldest buildings in Antwerp</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/antwerp5.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Statue in the main market square</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/antwerp6.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>I think this was the town hall?</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/antwerp7.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>A library</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/antwerp8.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>This building used to be home to butchers, and ironically looks a little like bacon</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/antwerp9.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption><a href="https://www.visitantwerpen.be/en/nello-patrasche">Nello and Patrasche</a> - a local legend</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/antwerp10.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>As I was leaving Antwerp, I noticed this inflatable dragon (not sure what it was doing there)</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/antwerp11.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>THe free walking tour I was a part of</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/liege_station.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Beautiful train station between Antwerp and Luxembourg (in Liege)</figcaption>
 </figure>
 
 ***
