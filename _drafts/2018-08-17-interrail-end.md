@@ -1148,7 +1148,7 @@ I went to a zoo in Amsterdam, which had a lot of animals and a large variety of 
 
 <figure class="align-center">
   <img src="/assets/images/interrail/antwerp11.jpg" alt="">
-  <figcaption>THe free walking tour I was a part of</figcaption>
+  <figcaption>The free walking tour I was a part of</figcaption>
 </figure>
 
 ***
@@ -1166,105 +1166,109 @@ I went to a zoo in Amsterdam, which had a lot of animals and a large variety of 
 
 <figure class="align-center">
   <img src="/assets/images/interrail/luxembourg1.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>The sun was setting as I arrived in Luxembourg</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/luxembourg2.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Going down a big hill to the hostel</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/luxembourg3.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>It's a pretty old place</figcaption>
 </figure>
+
+***
+
+One of Luxembourg's most famous historical attractions is their Casemates - underground tunnels and rooms that were historically used for military purposes.
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/luxembourg4.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>View from inside the Casemates du Bock</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/luxembourg5.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Another view from inside</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/luxembourg6.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Looking up out of a well</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/luxembourg7.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>More historical buildings seen from inside</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/luxembourg8.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Sheer rock faces</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/luxembourg9.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Bars blocking the view</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/luxembourg10.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Looking down the main tunnel</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/luxembourg11.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>I was inside the tunnel in the center of this picture</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/luxembourg12.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Looking back at the Casemates</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/luxembourg13.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Old bridge</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/luxembourg14.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Walking back to the hostel on a different route</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/luxembourg15.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>One last view of the Casemates du Bock</figcaption>
 </figure>
 
 ***
@@ -1275,28 +1279,28 @@ I went to a zoo in Amsterdam, which had a lot of animals and a large variety of 
 
 <figure class="align-center">
   <img src="/assets/images/interrail/strasbourg1.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Well illuminated church</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/strasbourg2.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>The cathedral in Strasbourg</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/strasbourg3.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>This was a video projected onto a thin mesh screen stretched above the audience next to the cathedral</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/strasbourg4.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Side view of the cathedral</figcaption>
 </figure>
 
 ***
@@ -1309,294 +1313,294 @@ I could easily have written an entire post about the Zugsptize climb, as it is o
 
 <figure class="align-center">
   <img src="/assets/images/interrail/zugspitze1.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>The mountain looms behind the train station</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/zugspitze2.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>The hostel I stayed at</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/zugspitze3.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Different routes up the Zugspitze - I took A</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/zugspitze4.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>The morning I left for the summit</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/zugspitze5.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>The official route starts at a ski jump</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/zugspitze6.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>You pass through an incredible gorge on the way</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/zugspitze7.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Clear water in the gorge</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/zugspitze8.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Mist coming off the clear mountain water</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/zugspitze9.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Coolest place I've ever eaten a banana</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/zugspitze10.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Starting to gain some elevation</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/zugspitze11.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Remnants of an old river</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/zugspitze12.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>So many beautiful views</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/zugspitze13.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Sheer mountains on both sides of me</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/zugspitze14.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>I had to walk through herds of sheep</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/zugspitze15.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>This was where the climb started to get really real</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/zugspitze16.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>These symbols marked the trail</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/zugspitze17.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Another symbol marking the trail</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/zugspitze18.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Unbelievable panoramic view of the valley</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/zugspitze19.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Neighboring mountains</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/zugspitze20.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>A nice place for a pit stop along the route</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/zugspitze21.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>My new buddy</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/zugspitze22.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Still getting higher</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/zugspitze23.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Not sure what this sign meant</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/zugspitze24.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Up among the clouds</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/zugspitze25.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Starting to see some snow patches</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/zugspitze26.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>The sketchiest part of the hike - very vertical climb up loose gravel / shale</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/zugspitze27.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>There was an option to bypass the gravel climb with this cable car</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/zugspitze28.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Partway up the gravel slope, looking back at the snow patches</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/zugspitze29.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>What the gravel climb looked like</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/zugspitze30.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Getting on to more sturdy rocks</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/zugspitze31.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Cables provided extra confidence and support</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/zugspitze32.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Very close to the summit</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/zugspitze33.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Climbing along a ridge to the summit</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/zugspitze34.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>These stones mark the border between Austria and Germany</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/zugspitze35.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>The building at the summit is in sight</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/zugspitze36.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Me on top of the ridge near the summit</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/zugspitze37.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Looking down at more hikers</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/zugspitze38.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Finally at the summit!</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/zugspitze39.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Surprisingly, there is a quite modern and large building at the summit</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/zugspitze40.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Views from the highest point in Germany</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/zugspitze41.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>Selfie from the top</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
   <img src="/assets/images/interrail/zugspitze42.jpg" alt="">
-  <figcaption></figcaption>
+  <figcaption>The official highest point in Germany</figcaption>
 </figure>
 
 ***
