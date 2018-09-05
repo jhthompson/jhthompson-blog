@@ -6,12 +6,22 @@ categories:
   - general
 tags:
   - Interrail
+  - Paris
+  - Brussels
+  - Bruges
+  - Amsterdam
+  - Antwerp
+  - Luxembourg
+  - Strasbourg
+  - Zugspitze
+  - Reutlingen
+  - Cholet
 toc: true
 toc_label: Topics
 toc_icon: fa fa-ellipsis-h
 ---
 
-The Interrail trip is sadly over now, but I'm pleased to report that the trains were much more reliable during the second half of the trip, with no more unplanned route changes or delays. Tiring, falling asleep easily... I took some time to relax while in Antwerp, and that boosted my energy.
+The Interrail trip is sadly over now, but I'm pleased to report that the trains were much more reliable during the second half of the trip, with no more unplanned route changes or delays. I was getting quite tired by the end of it, and I'm quite happy to be back in Canada right now, relaxing in my family home before university classes start again. A word of warning: this is quite a long post, with a ton of pictures.
 
 ## Paris
 
@@ -189,7 +199,7 @@ I didn't want to miss the Louvre, and I spent almost an entire afternoon there. 
 
 <figure class="align-center">
   <img src="/assets/images/interrail/paris_louvre8.jpg" alt="">
-  <figcaption>More Egyptian pyramid shaped objects</figcaption>
+  <figcaption>Some Egyptian pyramid shaped objects</figcaption>
 </figure>
 
 ***
@@ -231,7 +241,7 @@ I didn't want to miss the Louvre, and I spent almost an entire afternoon there. 
 
 <figure class="align-center">
   <img src="/assets/images/interrail/paris_louvre14.jpg" alt="">
-  <figcaption>A clock that was in the room displaying old scientific instruments</figcaption>
+  <figcaption>A clock that was in a room filled with scientific instruments</figcaption>
 </figure>
 
 ***
@@ -247,6 +257,10 @@ I didn't want to miss the Louvre, and I spent almost an entire afternoon there. 
   <img src="/assets/images/interrail/paris_louvre16.jpg" alt="">
   <figcaption>Pretty sure this was carved from mother of pearl</figcaption>
 </figure>
+
+***
+
+In one section of the Louvre, there was an exceptional [collection of rooms](https://www.louvre.fr/en/rooms/napoleon-iii-apartments-small-and-large-dining-rooms) that were modelled after the apartments of Napolean III. There were living spaces, as well as a large dining room.
 
 ***
 
@@ -294,7 +308,7 @@ I didn't want to miss the Louvre, and I spent almost an entire afternoon there. 
 
 <figure class="align-center">
   <img src="/assets/images/interrail/paris_louvre23.jpg" alt="">
-  <figcaption>This was either from the Egyptian collection or from the earliest civilization in history (it all blends together now)</figcaption>
+  <figcaption>This was either from the Egyptian collection or from the earliest civilization in history (it all blends together in my mind now)</figcaption>
 </figure>
 
 ***
@@ -329,7 +343,7 @@ I didn't want to miss the Louvre, and I spent almost an entire afternoon there. 
 
 <figure class="align-center">
   <img src="/assets/images/interrail/paris_louvre27.jpg" alt="">
-  <figcaption>Anothe sphinx</figcaption>
+  <figcaption>Another sphinx</figcaption>
 </figure>
 
 ***
@@ -343,7 +357,7 @@ I didn't want to miss the Louvre, and I spent almost an entire afternoon there. 
 
 <figure class="align-center">
   <img src="/assets/images/interrail/paris_louvre29.jpg" alt="">
-  <figcaption>The biggest sphinx yet</figcaption>
+  <figcaption>The biggest sphinx</figcaption>
 </figure>
 
 ***
@@ -365,6 +379,17 @@ I didn't want to miss the Louvre, and I spent almost an entire afternoon there. 
 <figure class="align-center">
   <img src="/assets/images/interrail/paris_louvre32.jpg" alt="">
   <figcaption>Another view of the golden sculpture in the glass pyramid</figcaption>
+</figure>
+
+***
+
+The way that I was getting between everything in Paris on this day of sightseeing was by walking, and I had a route planned out that I followed throughout the day:
+
+***
+
+<figure class="align-center">
+  <img src="/assets/images/interrail/paris_walking.jpg" alt="">
+  <figcaption>The route I walked to get to various landmarks</figcaption>
 </figure>
 
 ***
@@ -522,7 +547,7 @@ After seeing the Eiffel Tower, I had seen most of the big name tourist items tha
 
 <figure class="align-center">
   <img src="/assets/images/interrail/paris_natural_museum2.jpg" alt="">
-  <figcaption>The central parade of animal</figcaption>
+  <figcaption>The central parade of animals</figcaption>
 </figure>
 
 ***
@@ -568,7 +593,7 @@ The morning that I was leaving Paris, I had a little bit of free time, and I dec
 
 ## Brussels
 
-Brussels was probably the place that exceeded my expectations the most. I can't put my finger on it, but I really loved the vibe of the city. The architecture was modern in places, and historic in others, and every part of the public transit that I saw ran very smoothly.
+Brussels was the city that exceeded my expectations the most. I can't put my finger on it, but I really loved the vibe of the city. The architecture was modern in places, and historic in others, and every part of the public transit that I saw ran very smoothly.
 
 ***
 
@@ -593,7 +618,7 @@ Brussels was probably the place that exceeded my expectations the most. I can't 
 
 ***
 
-I stopped at the [Belgian Comic Strip Center](https://www.comicscenter.net/en/home) for a few hours. The main attraction for me was Tintin, as I read a lot of those comics growing up, and I bought some Tintin related souvenirs that I really liked.
+I stopped at the [Belgian Comic Strip Center](https://www.comicscenter.net/en/home) for a few hours. The main attraction for me was Tintin, as I read a lot of those comics growing up, and I bought some Tintin related souvenirs that I really liked. Tintin and The Smurfs are the two most famous comics that come from Belgium, and the museum had large sections devoted to both.
 
 ***
 
@@ -722,7 +747,7 @@ One of the most unique buildings in Brussels (and [all of Europe](https://editio
 
 <figure class="align-center">
   <img src="/assets/images/interrail/brussels_olympic.jpg" alt="">
-  <figcaption>The Belgian olympic committee has their offices near the Atomium</figcaption>
+  <figcaption>The Belgian Olympic committee has their offices near the Atomium</figcaption>
 </figure>
 
 ***
@@ -750,7 +775,7 @@ One of the most unique buildings in Brussels (and [all of Europe](https://editio
 
 ## Bruges
 
-One of the main reasons I stopped in Bruges was a film called [In Bruges](https://www.imdb.com/title/tt0780536/) that I watched for the first time a couple of months ago. In the film it is depicted as a small town with medieval architecture, and that is true. I didn't realize Bruges was actually a fairly popular tourist destination, and there was a decent amount of people roaming around town when I was exploring, especially around the [belfry.](https://en.wikipedia.org/wiki/Belfry_of_Bruges)
+One of the main reasons I stopped in Bruges was a film called [In Bruges](https://www.imdb.com/title/tt0780536/) that I watched for the first time a couple of months ago. In the film it is depicted as a small town with medieval architecture, and that is true. I didn't realize Bruges was actually a fairly popular tourist destination though, and there was a decent amount of people roaming around town when I was exploring, especially around the [belfry.](https://en.wikipedia.org/wiki/Belfry_of_Bruges)
 
 ***
 
@@ -798,7 +823,7 @@ One of the main reasons I stopped in Bruges was a film called [In Bruges](https:
 
 <figure class="align-center">
   <img src="/assets/images/interrail/bruges7.jpg" alt="">
-  <figcaption>The day I was there was also a holiday and had a brief parade</figcaption>
+  <figcaption>There was a parade to celebrate a holiday the day I was there</figcaption>
 </figure>
 
 ***
@@ -847,7 +872,7 @@ One of the main reasons I stopped in Bruges was a film called [In Bruges](https:
 
 ## Amsterdam
 
-Amsterdam was a pretty interesting stop. I knew that it was known for having a lot of bicycles, but that didn't prepare me for just how many there were. Almost every bridge I crossed had both railings covered with bikes, and waiting at crosswalks it was more important to keep an eye on the bike lane than the car lane. In fact, it would be very difficult to drive a car in downtown Amsterdam, which I think contributes to the bike culture.
+Amsterdam was a pretty interesting stop. I knew that it was known for having a lot of bicycles, but that didn't prepare me for just how many there were. Almost every bridge I crossed had both railings covered with bikes, and when waiting at crosswalks it was more important to keep an eye on the bike lane than the car lane. In fact, it would be very difficult to drive a car in downtown Amsterdam, which I think contributes to the bike culture.
 
 ***
 
@@ -886,7 +911,7 @@ Amsterdam was a pretty interesting stop. I knew that it was known for having a l
 
 ***
 
-I went to a zoo in Amsterdam, which had a lot of animals and a large variety of species.
+I went to a fairly large zoo in Amsterdam, which had a lot of animals and a large variety of species.
 
 ***
 
@@ -906,7 +931,7 @@ I went to a zoo in Amsterdam, which had a lot of animals and a large variety of 
 
 <figure class="align-center">
   <img src="/assets/images/interrail/amsterdam8.jpg" alt="">
-  <figcaption>Zoboomafoo is that you?</figcaption>
+  <figcaption>Zoboomafoo?</figcaption>
 </figure>
 
 ***
@@ -1051,6 +1076,10 @@ I went to a zoo in Amsterdam, which had a lot of animals and a large variety of 
 
 ***
 
+After the zoo, I walked around more of Amsterdam, and checked out anything that looked remotely cool.
+
+***
+
 <figure class="align-center">
   <img src="/assets/images/interrail/amsterdam29.jpg" alt="">
   <figcaption>Tilted building that has a resturant on the roof</figcaption>
@@ -1074,6 +1103,8 @@ I went to a zoo in Amsterdam, which had a lot of animals and a large variety of 
 
 ## Antwerp
 
+I wasn't sure what to expect from Antwerp, and I didn't even know what the city was known for before I got there. I learned that it's called the city of diamonds, and my walking tour guide told us that quite a large percentage of diamonds (more than 50%) worldwide pass through Antwerp for certification or something like that.
+
 ***
 
 <figure class="align-center">
@@ -1092,7 +1123,7 @@ I went to a zoo in Amsterdam, which had a lot of animals and a large variety of 
 
 <figure class="align-center">
   <img src="/assets/images/interrail/antwerp3.jpg" alt="">
-  <figcaption>Cathedral of our Lady</figcaption>
+  <figcaption>Cathedral of Our Lady</figcaption>
 </figure>
 
 ***
@@ -1162,6 +1193,8 @@ I went to a zoo in Amsterdam, which had a lot of animals and a large variety of 
 
 ## Luxembourg City
 
+The main reason I stopped in Luxembourg was because it was conveniently located on my way back to Reutlingen to pick up my suitcase. It was a pretty interesting stop though; the hostel was full of lots of fun people and the city had lots of history.
+
 ***
 
 <figure class="align-center">
@@ -1185,7 +1218,7 @@ I went to a zoo in Amsterdam, which had a lot of animals and a large variety of 
 
 ***
 
-One of Luxembourg's most famous historical attractions is their Casemates - underground tunnels and rooms that were historically used for military purposes.
+One of Luxembourg's most famous historical attractions is their [Casemates](https://www.visitluxembourg.com/en/place/castle/bock-casemates-luxembourg) - underground tunnels and rooms that were historically used for military purposes.
 
 ***
 
@@ -1212,7 +1245,7 @@ One of Luxembourg's most famous historical attractions is their Casemates - unde
 
 <figure class="align-center">
   <img src="/assets/images/interrail/luxembourg7.jpg" alt="">
-  <figcaption>More historical buildings seen from inside</figcaption>
+  <figcaption>More historical buildings as seen from inside the Casemates</figcaption>
 </figure>
 
 ***
@@ -1275,6 +1308,8 @@ One of Luxembourg's most famous historical attractions is their Casemates - unde
 
 ## Strasbourg
 
+Strasbourg is very close to the border of France and Germany, and was one of my last stops before I got back to Reutlingen to pick up my suitcase. I didn't stay there for long, but was able to take in an outdoor video/multimedia presentation beside a massive cathedral.
+
 ***
 
 <figure class="align-center">
@@ -1307,7 +1342,7 @@ One of Luxembourg's most famous historical attractions is their Casemates - unde
 
 ## Garmisch-Partenkirchen / Zugspitze
 
-I could easily have written an entire post about the Zugsptize climb, as it is one of the coolest things I have ever done in my life. I also tried to make a Google photos album for personal use with only the good photos that I took, and it still has 234 photos in it! I'll pick a selection of the best photos from the trip and put them up here, since 234 is a bit much.
+I could easily have written an entire post about the Zugsptize climb, as it is one of the coolest things I have ever done in my life. I also tried to make a Google photos album for personal use with only the good photos that I took, and it still has 234 photos in it! I'll pick a selection of those to put in this post, but I might make another post in the future that has more details and photos about the hike.
 
 ***
 
@@ -1362,7 +1397,7 @@ I could easily have written an entire post about the Zugsptize climb, as it is o
 
 <figure class="align-center">
   <img src="/assets/images/interrail/zugspitze8.jpg" alt="">
-  <figcaption>Mist coming off the clear mountain water</figcaption>
+  <figcaption>Mist coming off the frigid mountain water</figcaption>
 </figure>
 
 ***
@@ -1605,8 +1640,10 @@ I could easily have written an entire post about the Zugsptize climb, as it is o
 
 ***
 
-## Reutlingen
+## Reutlingen and Final Travel
 
-## Last Day of Travel
+I only stayed in Reutlingen for one night, mainly to pick up my suitcase and other bag. I then took a train from Reutlingen to Stuttgart, a Flixbus from Stuttgart to Strasbourg, a long distance train from Strasbourg to Angers, and a local train from Angers to Cholet. It was obviously more difficult to travel with a suitcase instead of just a backpack, but on most trains there was an easily accessible place to store large luggage.
 
 ## Cholet
+
+I got to spend a week in Cholet with a friends family, which was super relaxing and fun. I tried tons of French cuisine and wine, and got to see historic locations. After my week in Cholet was done, I got on a 6 am train to the [Paris CDG](https://www.parisaeroport.fr/en) airport, arrived there around 9, and dropped off my luggage and went through security in less than an hour (surprisingly, because that airport is notoriously slow to get through). I got on a Westjet direct flight to Halifax at 11:20am, which ended up taking off about an hour later than planned, and landed in Halifax around 2:30pm.
