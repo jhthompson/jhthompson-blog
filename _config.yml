@@ -93,7 +93,7 @@ author:
   name             : "Jeremy Thompson"
   avatar           : "/assets/images/headshot.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "CS student & XC runner at UPEI"
-  location         : "Reutlingen, Germany"
+  location         : "Charlottetown, PEI"
   email            : "jhthompson@upei.ca"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
