@@ -27,4 +27,3 @@ Some more text, otherwise don't have the above three asteriks
 ## Main Header
 
 ### Secondary Header
-
