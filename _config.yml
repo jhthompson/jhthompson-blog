@@ -94,7 +94,6 @@ author:
   avatar           : "/assets/images/headshot.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "CS student & XC runner at UPEI"
   location         : "Charlottetown, PEI"
-  email            : "jhthompson@upei.ca"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -119,7 +118,7 @@ author:
       url: "https://www.strava.com/athletes/21953458"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://ca.linkedin.com/in/jeremy-thompson-02203b134"
+      url: "https://www.linkedin.com/in/jeremy-thompson-02203b134/"
 
 # Site Footer
 footer:
