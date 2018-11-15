@@ -18,6 +18,10 @@
   }
 }
 
+.archive__item {
+  position: relative;
+}
+
 .archive__subtitle {
   margin: 1.414em 0 0;
   padding-bottom: 0.5em;
@@ -40,6 +44,15 @@
     color: inherit;
   }
 
+  a::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+  }
+
   a + a {
     opacity: 0.5;
   }
@@ -59,6 +72,10 @@
 
   & + p {
     text-indent: 0;
+  }
+
+  a {
+    position: relative;
   }
 }
 
@@ -218,6 +235,7 @@
 }
 
 .feature__item {
+  position: relative;
   margin-bottom: 2em;
   font-size: 1.125em;
 
@@ -252,7 +270,17 @@
     padding-right: gutter(1 of 12);
   }
 
+  a.btn::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+  }
+
   &--left {
+    position: relative;
     float: left;
     margin-left: 0;
     margin-right: 0;
@@ -260,8 +288,21 @@
     clear: both;
     font-size: 1.125em;
 
+    .archive__item {
+      float: left;
+    }
+
     .archive__item-teaser {
       margin-bottom: 2em;
+    }
+
+    a.btn::before {
+      content: '';
+      position: absolute;
+      left: 0;
+      top: 0;
+      right: 0;
+      bottom: 0;
     }
 
     @include breakpoint($small) {
@@ -280,6 +321,7 @@
   }
 
   &--right {
+    position: relative;
     float: left;
     margin-left: 0;
     margin-right: 0;
@@ -287,8 +329,21 @@
     clear: both;
     font-size: 1.125em;
 
+    .archive__item {
+      float: left;
+    }
+
     .archive__item-teaser {
       margin-bottom: 2em;
+    }
+
+    a.btn::before {
+      content: '';
+      position: absolute;
+      left: 0;
+      top: 0;
+      right: 0;
+      bottom: 0;
     }
 
     @include breakpoint($small) {
@@ -309,6 +364,7 @@
   }
 
   &--center {
+    position: relative;
     float: left;
     margin-left: 0;
     margin-right: 0;
@@ -316,8 +372,22 @@
     clear: both;
     font-size: 1.125em;
 
+    .archive__item {
+      float: left;
+      width: 100%;
+    }
+
     .archive__item-teaser {
       margin-bottom: 2em;
+    }
+
+    a.btn::before {
+      content: '';
+      position: absolute;
+      left: 0;
+      top: 0;
+      right: 0;
+      bottom: 0;
     }
 
     @include breakpoint($small) {
