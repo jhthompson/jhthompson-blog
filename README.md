@@ -14,6 +14,9 @@
 
 - [reveal.js](http://hakim.se) -- Hakim El Hattab
 
+### Panoramic Photo Viewer
+- [panellum](https://github.com/mpetroff/pannellum) -- Matthew Petroff
+
 ### Icons + Demo Images:
 
 - [The Noun Project](https://thenounproject.com) -- Garrett Knoll, Arthur Shlain, and [tracy tam](https://thenounproject.com/tracytam)
