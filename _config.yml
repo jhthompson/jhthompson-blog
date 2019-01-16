@@ -156,6 +156,9 @@ exclude:
   - assets/js/plugins
   - assets/js/_main.js
   - assets/js/vendor
+  - assets/pannellum.js
+  - assets/panellum
+  - assets/reveal.js
   - Capfile
   - CHANGELOG
   - config
