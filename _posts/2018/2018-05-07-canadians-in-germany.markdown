@@ -3,7 +3,7 @@ title: Canadians in Germany
 header:
   teaser: /assets/images/neuschwanstein_header.jpg
 categories:
-  - general
+  - germany
 tags:
   - Neuschwanstein
   - castle

@@ -3,7 +3,7 @@ title: 'Morocco, Racing, and Another Castle'
 header:
   teaser: /assets/images/morocco_header.jpg
 categories:
-  - general
+  - travel
 tags:
   - Morocco
   - Casablanca

@@ -3,7 +3,7 @@ title: New Wheels
 header:
   teaser: /assets/images/bicycle_header.jpg
 categories:
-  - general
+  - germany
 tags:
   - bicycle
   - running

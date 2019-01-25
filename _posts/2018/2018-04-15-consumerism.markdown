@@ -3,7 +3,7 @@ title: Consumerism
 header:
   teaser: /assets/images/metzingen_outletcity.jpg
 categories:
-  - general
+  - germany
 tags:
   - Metzingen
   - outlets

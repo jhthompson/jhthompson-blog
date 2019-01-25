@@ -3,7 +3,7 @@ title:  "Interrailing: The First Half"
 header:
   teaser: /assets/images/interrail/konstanz_from_bridge.jpg
 categories:
-  - general
+  - travel
 tags:
   - Interrail
   - Konstanz

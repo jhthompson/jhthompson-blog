@@ -3,7 +3,7 @@ title: Chociattos and Carnivals
 header:
   teaser: /assets/images/rottenburg_header.jpg
 categories:
-  - general
+  - germany
 tags:
   - Bosch
   - running

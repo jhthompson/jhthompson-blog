@@ -3,7 +3,7 @@ title: Walking a Marathon (almost)
 header:
   teaser: /assets/images/walking_header.jpg
 categories:
-  - general
+  - germany
 tags:
   - Reutlingen
   - Stuttgart

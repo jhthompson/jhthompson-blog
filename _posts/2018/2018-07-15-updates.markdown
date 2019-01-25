@@ -3,7 +3,7 @@ title: Updates
 header:
   teaser: /assets/images/city10k.jpg
 categories:
-  - general
+  - germany
 tags:
   - Interrail
   - running

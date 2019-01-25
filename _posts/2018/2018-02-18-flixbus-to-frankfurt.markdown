@@ -3,7 +3,7 @@ title: FlixBus to Frankfurt
 header:
   teaser: /assets/images/stuttgart_airport_top.jpg
 categories:
-  - general
+  - germany
 tags:
   - Bosch
   - running
@@ -339,7 +339,7 @@ Friday night we went to an [underground jazz club](http://www.indermitte.de/) in
 
 ## Views from Bosch Sensortec
 
-We don't directly see it while we're working, but the view from our floor at Bosch Sensortec is pretty great. 
+We don't directly see it while we're working, but the view from our floor at Bosch Sensortec is pretty great.
 
 ***
 
@@ -350,7 +350,7 @@ We don't directly see it while we're working, but the view from our floor at Bos
 
 ***
 
-I also wanted to document what the Bosch cafeteria is like in the technology park. So far the food they've offered has been incredible, and as students we automatically get a discount, so they're fairly affordable as well. The most economical option is their leftover section though, where as students we can usually get a full lunch for around €1.00 (and sometimes cheaper)! 
+I also wanted to document what the Bosch cafeteria is like in the technology park. So far the food they've offered has been incredible, and as students we automatically get a discount, so they're fairly affordable as well. The most economical option is their leftover section though, where as students we can usually get a full lunch for around €1.00 (and sometimes cheaper)!
 
 ***
 
@@ -370,7 +370,7 @@ Wednesday - Ran with a [university running group](https://www.strava.com/activit
 
 Thursday - Easy run around a [loop](https://www.strava.com/activities/1409114635) again, with a little extra around the park trail.
 
-Friday - Kilometer repeat workout. I did [2 x (3 x 1k)](https://www.strava.com/activities/1410611299), with 2 minutes rest in between each kilometer, and 5 ish minutes between sets. The track I was running on is 1/3 of a kilometer which was extremely weird, but I got used to it. 
+Friday - Kilometer repeat workout. I did [2 x (3 x 1k)](https://www.strava.com/activities/1410611299), with 2 minutes rest in between each kilometer, and 5 ish minutes between sets. The track I was running on is 1/3 of a kilometer which was extremely weird, but I got used to it.
 
 Saturday - Travel and exploring Frankfurt.
 

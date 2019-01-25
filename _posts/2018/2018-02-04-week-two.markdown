@@ -3,7 +3,7 @@ title: Week Two
 header:
   teaser: /assets/images/bosch_st_sign_crop.jpg
 categories:
-  - general
+  - germany
 tags:
   - Bosch
   - running

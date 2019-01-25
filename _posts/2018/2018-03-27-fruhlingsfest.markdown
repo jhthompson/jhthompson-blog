@@ -3,7 +3,7 @@ title: Fruhlingsfest
 header:
   teaser: /assets/images/fruhlingsfest.jpg
 categories:
-  - general
+  - germany
 tags:
   - running
   - fruhlingsfest

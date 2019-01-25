@@ -3,7 +3,7 @@ title: First Week
 header:
   teaser: /assets/images/first_run8.jpg
 categories:
-  - general
+  - germany
 tags:
   - Reutlingen
   - travel

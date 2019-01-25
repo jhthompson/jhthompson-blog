@@ -3,7 +3,7 @@ title: Munich for a Day
 header:
   teaser: /assets/images/munich_olympic1.jpg
 categories:
-  - general
+  - germany
 tags:
   - Munich
   - Olympics

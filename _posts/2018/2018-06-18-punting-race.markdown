@@ -3,7 +3,7 @@ title: A Lot Can Happen in Three Weeks
 header:
   teaser: /assets/images/punting_header.jpg
 categories:
-  - general
+  - germany
 tags:
   - Tubingen
   - Claus

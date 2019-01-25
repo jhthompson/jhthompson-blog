@@ -3,7 +3,7 @@ title: Prague
 header:
   teaser: /assets/images/prague_view.jpg
 categories:
-  - general
+  - travel
 tags:
   - running
   - Prague

@@ -3,7 +3,7 @@ title: Easter in Italy
 header:
   teaser: /assets/images/duomo2.jpg
 categories:
-  - general
+  - travel
 tags:
   - Italy
   - Milan

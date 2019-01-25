@@ -3,7 +3,7 @@ title: Embedded World and Switzerland
 header:
   teaser: /assets/images/zurich_lake.jpg
 categories:
-  - general
+  - germany
 tags:
   - Switzerland
   - Zurich

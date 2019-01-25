@@ -3,7 +3,7 @@ title: Into a Rhythm
 header:
   teaser: https://imgs.xkcd.com/comics/compiling.png
 categories:
-  - general
+  - germany
 tags:
   - running
   - beer

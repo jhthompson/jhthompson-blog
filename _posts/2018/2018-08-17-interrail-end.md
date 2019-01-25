@@ -3,7 +3,7 @@ title:  "Interrailing: The Second Half"
 header:
   teaser: /assets/images/interrail/paris_garden1.jpg
 categories:
-  - general
+  - travel
 tags:
   - Interrail
   - Paris
