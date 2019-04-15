@@ -51,7 +51,7 @@ staticman:
       type               : # "date"
       options:
         format           : # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
-  endpoint               : ec2-18-191-72-206.us-east-2.compute.amazonaws.com:1025/ # URL of your own deployment with trailing slash, will fallback to the public instance
+  endpoint               : # ec2-18-191-72-206.us-east-2.compute.amazonaws.com:1025/ # URL of your own deployment with trailing slash, will fallback to the public instance
 reCaptcha:
   siteKey                :
   secret                 :
