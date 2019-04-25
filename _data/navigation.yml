@@ -3,7 +3,7 @@ main:
   - title: "About Me"
     url: /about/
   - title: "All Posts"
-    url: /month-archive/
+    url: /recent/
 #  - title: "Categories" # pointless at the moment, all same category (general)
 #    url: /categories/
   - title: "Tags"
