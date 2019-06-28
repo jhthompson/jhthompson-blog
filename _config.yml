@@ -222,6 +222,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll_picture_tag
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -305,6 +306,11 @@ collections:
   slides:
     output: true
     permalink: /:collection/:path
+
+# Jekyll picture tag config
+picture:
+  source: "assets/images/fullsize"
+  output: "assets/images/generated"
 
 defaults:
   # _slides

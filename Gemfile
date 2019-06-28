@@ -26,4 +26,5 @@ gem "jekyll-include-cache"
 #
 # If you have any other plugins, put them here!
 group :jekyll_plugins do
+    gem 'jekyll_picture_tag'
 end
