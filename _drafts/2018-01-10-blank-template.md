@@ -1,7 +1,7 @@
 ---
 title:  "Title Here"
 header:
-  teaser: /assets/images/zurich_xc_ski.jpg
+  teaser: /assets/images/fullsize/zurich_xc_ski.jpg
 categories:
   - general
 tags:
@@ -16,7 +16,7 @@ Intro...
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/interrail/leaving_apartment.jpg" alt="">
+  <img src="/assets/images/fullsize/interrail/leaving_apartment.jpg" alt="">
   <figcaption></figcaption>
 </figure>
 

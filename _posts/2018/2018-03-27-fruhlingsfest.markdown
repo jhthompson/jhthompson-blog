@@ -1,7 +1,7 @@
 ---
 title: Fruhlingsfest
 header:
-  teaser: /assets/images/fruhlingsfest.jpg
+  teaser: /assets/images/fullsize/german-living/fruhlingsfest.jpg
 categories:
   - germany
 tags:
@@ -23,7 +23,7 @@ Saturday was an awesome day, starting with waking up late and having lunch at a 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fruhlingsfest.jpg" alt="">
+  <img src="/assets/images/fullsize/german-living/fruhlingsfest.jpg" alt="">
   <figcaption>The Flipper :O</figcaption>
 </figure>
 
@@ -44,7 +44,7 @@ I only took one photo while we were there, of a building that is apparently the 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/tubingen_building.jpg" alt="">
+  <img src="/assets/images/fullsize/german-living/tubingen_building.jpg" alt="">
   <figcaption>Impressive building for municipal purposes</figcaption>
 </figure>
 
@@ -74,28 +74,28 @@ Sunday - [Long run.](https://www.strava.com/activities/1471293258) I was aiming 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/march_run1.jpg" alt="">
+  <img src="/assets/images/fullsize/german-living/march_run1.jpg" alt="">
   <figcaption>Sun is shining</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/march_run2.jpg" alt="">
+  <img src="/assets/images/fullsize/german-living/march_run2.jpg" alt="">
   <figcaption>Logs for days</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/march_run3.jpg" alt="">
+  <img src="/assets/images/fullsize/german-living/march_run3.jpg" alt="">
   <figcaption>Bird looked cooler in person</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/march_run4.jpg" alt="">
+  <img src="/assets/images/fullsize/german-living/march_run4.jpg" alt="">
   <figcaption>More wildlife</figcaption>
 </figure>
 

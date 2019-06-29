@@ -1,7 +1,7 @@
 ---
 title: Consumerism
 header:
-  teaser: /assets/images/metzingen_outletcity.jpg
+  teaser: /assets/images/fullsize/german-living/metzingen_outletcity.jpg
 categories:
   - germany
 tags:
@@ -23,14 +23,14 @@ There were two street food festivals this weekend, one in [Reutlingen,](http://s
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/metzingen_food.jpg" alt="">
+  <img src="/assets/images/fullsize/german-living/metzingen_food.jpg" alt="">
   <figcaption>Some frozen yogurt in Metzingen</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/metzingen_food2.jpeg" alt="">
+  <img src="/assets/images/fullsize/german-living/metzingen_food2.jpeg" alt="">
   <figcaption>More food from Metzingen</figcaption>
 </figure>
 
@@ -43,7 +43,7 @@ While we were in Metzingen we also went to [Outletcity.](https://www.outletcity.
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/metzingen_outletcity.jpg" alt="">
+  <img src="/assets/images/fullsize/german-living/metzingen_outletcity.jpg" alt="">
   <figcaption>Outletcity in Metzingen</figcaption>
 </figure>
 

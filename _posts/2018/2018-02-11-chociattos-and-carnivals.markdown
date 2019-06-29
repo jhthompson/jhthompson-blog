@@ -1,7 +1,7 @@
 ---
 title: Chociattos and Carnivals
 header:
-  teaser: /assets/images/rottenburg_header.jpg
+  teaser: /assets/images/fullsize/german-living/rottenburg_header.jpg
 categories:
   - germany
 tags:
@@ -30,7 +30,7 @@ Have you ever wondered what company makes the sensors that go into your smartpho
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/sensors_screenshot.jpg" alt="">
+  <img src="/assets/images/fullsize/german-living/sensors_screenshot.jpg" alt="">
   <figcaption>Some of the sensors in my personal device. The BMI 160 is a particularly popular Bosch sensor</figcaption>
 </figure>
 
@@ -47,14 +47,14 @@ Thursday night, we decided to go out and get some pizza. Not knowing where to go
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/pizza_planet1.jpg" alt="">
+  <img src="/assets/images/fullsize/german-living/pizza_planet1.jpg" alt="">
   <figcaption>We ordered pizza from this exact guy!</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/pizza_planet2.jpg" alt="">
+  <img src="/assets/images/fullsize/german-living/pizza_planet2.jpg" alt="">
   <figcaption>The good stuff</figcaption>
 </figure>
 
@@ -82,14 +82,14 @@ Also, we have some pretty fun tools to work with. One of our major objectives at
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/turtlebot.jpg" alt="">
+  <img src="/assets/images/fullsize/german-living/turtlebot.jpg" alt="">
   <figcaption>Our Turtlebot robotic platform</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/computers.jpg" alt="">
+  <img src="/assets/images/fullsize/german-living/computers.jpg" alt="">
   <figcaption>44GB of RAM between these three machines...</figcaption>
 </figure>
 
@@ -102,35 +102,35 @@ As per the advice of someone who had grown up in Reutlingen, we spent most of th
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/rottenburg2.jpg" alt="">
+  <img src="/assets/images/fullsize/german-living/rottenburg2.jpg" alt="">
   <figcaption>Kartoffelspirale!!!</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/rottenburg1.jpg" alt="">
+  <img src="/assets/images/fullsize/german-living/rottenburg1.jpg" alt="">
   <figcaption>The more ridiculous your costume the better</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/rottenburg3.jpg" alt="">
+  <img src="/assets/images/fullsize/german-living/rottenburg3.jpg" alt="">
   <figcaption>A more traditional sort of costume</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/rottenburg4.jpg" alt="">
+  <img src="/assets/images/fullsize/german-living/rottenburg4.jpg" alt="">
   <figcaption>First look we got at the town</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/rottenburg5.jpg" alt="">
+  <img src="/assets/images/fullsize/german-living/rottenburg5.jpg" alt="">
   <figcaption>Bridge in town</figcaption>
 </figure>
 
@@ -141,28 +141,28 @@ I'm not sure exactly what the history behind the carnival is, but in the parade 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/rottenburg6.jpg" alt="">
+  <img src="/assets/images/fullsize/german-living/rottenburg6.jpg" alt="">
   <figcaption>Interesting vehicle</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/rottenburg7.jpg" alt="">
+  <img src="/assets/images/fullsize/german-living/rottenburg7.jpg" alt="">
   <figcaption>So many costumes</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/rottenburg8.jpg" alt="">
+  <img src="/assets/images/fullsize/german-living/rottenburg8.jpg" alt="">
   <figcaption>Colorful, nature themed people</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/rottenburg10.jpg" alt="">
+  <img src="/assets/images/fullsize/german-living/rottenburg10.jpg" alt="">
   <figcaption>Couple of birds</figcaption>
 </figure>
 
@@ -177,7 +177,7 @@ There were also multiple sections in the parade where the participants would go 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/rottenburg9.jpg" alt="">
+  <img src="/assets/images/fullsize/german-living/rottenburg9.jpg" alt="">
   <figcaption>The aftermath of the parade (that's not snow or ice, it's confetti)</figcaption>
 </figure>
 
@@ -190,7 +190,7 @@ If you ever find yourself in Reutlingen and are looking for a chill spot to have
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/berg.jpg" alt="">
+  <img src="/assets/images/fullsize/german-living/berg.jpg" alt="">
   <figcaption>Beer from Kali</figcaption>
 </figure>
 
