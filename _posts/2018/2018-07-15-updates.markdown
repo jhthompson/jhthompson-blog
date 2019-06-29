@@ -25,7 +25,7 @@ Bosch Sensortec had an employee summer barbecue a couple of Fridays ago where th
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/bst_barbecue.jpg" alt="">
+  {% picture german-living/bst_barbecue.jpg %}
   <figcaption>The view from the fourth floor of BST</figcaption>
 </figure>
 
@@ -40,21 +40,21 @@ I also ran in another 10k race, hoping that I could better my time from the Soun
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/city10k.jpg" alt="">
+  {% picture german-living/city10k.jpg %}
   <figcaption>Photo from the 10k race around downtown Reutlingen (I'm in the red Morocco hat)</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/city10k1.jpg" alt="">
+  {% picture german-living/city10k1.jpg %}
   <figcaption>Passing by the church</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/city10k2.jpg" alt="">
+  {% picture german-living/city10k2.jpg %}
   <figcaption>And the race went right by our apartment</figcaption>
 </figure>
 

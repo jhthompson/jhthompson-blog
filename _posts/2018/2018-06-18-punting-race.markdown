@@ -31,35 +31,35 @@ A few Thursdays ago was a holiday in Germany, and there was a huge event going o
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/punting1.jpg" alt="">
+  {% picture german-living/punting1.jpg %}
   <figcaption>An impressive whale themed boat</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/punting2.jpg" alt="">
+  {% picture german-living/punting2.jpg %}
   <figcaption>Another impressive boat theme</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/punting3.jpg" alt="">
+  {% picture german-living/punting3.jpg %}
   <figcaption>The turn around point of the race, where all the boats had to pass through a narrow gap</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/punting4.jpg" alt="">
+  {% picture german-living/punting4.jpg %}
   <figcaption>Even the relatively wide Neckar was crowded at some points</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/punting_header.jpg" alt="">
+  {% picture german-living/punting_header.jpg %}
   <figcaption>And we got to see Claus again!</figcaption>
 </figure>
 
@@ -70,7 +70,7 @@ This race was started in 1956 by one of the fraternities in Tübingen, and nowad
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/punting_crowd.jpg" alt="">
+  {% picture german-living/punting_crowd.jpg %}
   <figcaption>This was the view as we were leaving, absolutely packed with people</figcaption>
 </figure>
 
@@ -83,28 +83,28 @@ Last weekend I was lucky enough to get to visit Spain and stay with my friend Ni
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/spain_airplane1.jpg" alt="">
+  {% picture german-living/spain_airplane1.jpg %}
   <figcaption>I had a whole row to myself on the flight from Zurich to Madrid!</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/spain_airplane2.jpg" alt="">
+  {% picture german-living/spain_airplane2.jpg %}
   <figcaption>Views from the plane</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/spain_airplane3.jpg" alt="">
+  {% picture german-living/spain_airplane3.jpg %}
   <figcaption>Spanish landscapes are quite different than German ones</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/spain_airport_madrid.jpg" alt="">
+  {% picture german-living/spain_airport_madrid.jpg %}
   <figcaption>Inside the Madrid airport (terminal 4 specifically)</figcaption>
 </figure>
 
@@ -117,77 +117,77 @@ Nick is living in Burgos, so that's where most of our time was spent. We got to 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/spain1.jpg" alt="">
+  {% picture german-living/spain1.jpg %}
   <figcaption>Some buildings near the university campus</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/spain2.jpg" alt="">
+  {% picture german-living/spain2.jpg %}
   <figcaption>The entrance to the faculty of law, apparently one of the more prestigious areas of study at the University of Burgos</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/spain3.jpg" alt="">
+  {% picture german-living/spain3.jpg %}
   <figcaption>The Burgos Cathedral (see section below for more photos)</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/spain4.jpg" alt="">
+  {% picture german-living/spain4.jpg %}
   <figcaption>An entrance to the cathedral</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/spain5.jpg" alt="">
+  {% picture german-living/spain5.jpg %}
   <figcaption>A bird made its nest on top of this arch</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/spain6.jpg" alt="">
+  {% picture german-living/spain6.jpg %}
   <figcaption>A scenic view of the cathedral</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/spain7.jpg" alt="">
+  {% picture german-living/spain7.jpg %}
   <figcaption>A very old wall</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/spain8.jpg" alt="">
+  {% picture german-living/spain8.jpg %}
   <figcaption>Hard to see, but there are poppies growing in the grass!</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/spain9.jpg" alt="">
+  {% picture german-living/spain9.jpg %}
   <figcaption>These trees grow and form natural archways when their leaves are fully out</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/spain10.jpg" alt="">
+  {% picture german-living/spain10.jpg %}
   <figcaption>An impressive work of art</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/spain19.jpg" alt="">
+  {% picture german-living/spain19.jpg %}
   <figcaption>I thought these were cool - rounded garbage containers for glass (bottles mostly), that are found everywhere in the city</figcaption>
 </figure>
 
@@ -200,112 +200,112 @@ We made a day trip to [Bilbao](https://en.wikipedia.org/wiki/Bilbao) on Saturday
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/bilbao1.jpg" alt="">
+  {% picture german-living/bilbao1.jpg %}
   <figcaption>Jesus</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/bilbao2.jpg" alt="">
+  {% picture german-living/bilbao2.jpg %}
   <figcaption>Skyscraper</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/bilbao3.jpg" alt="">
+  {% picture german-living/bilbao3.jpg %}
   <figcaption>Dog made of flowers outside the Guggenheim</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/bilbao4.jpg" alt="">
+  {% picture german-living/bilbao4.jpg %}
   <figcaption>Another view of the flower dog</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/bilbao5.jpg" alt="">
+  {% picture german-living/bilbao5.jpg %}
   <figcaption>The exterior of the Guggenheim</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/bilbao6.jpg" alt="">
+  {% picture german-living/bilbao6.jpg %}
   <figcaption>Me and the Guggenheim</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/bilbao7.jpg" alt="">
+  {% picture german-living/bilbao7.jpg %}
   <figcaption>HUGE graffiti (see cars for scale)</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/bilbao8.jpg" alt="">
+  {% picture german-living/bilbao8.jpg %}
   <figcaption>Colorful building</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/bilbao9.jpg" alt="">
+  {% picture german-living/bilbao9.jpg %}
   <figcaption>A typical street sign in downtown Bilbao</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/bilbao10.jpg" alt="">
+  {% picture german-living/bilbao10.jpg %}
   <figcaption>A typical street in downtown Bilbao</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/bilbao11.jpg" alt="">
+  {% picture german-living/bilbao11.jpg %}
   <figcaption>The seafood was delicious</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/bilbao12.jpg" alt="">
+  {% picture german-living/bilbao12.jpg %}
   <figcaption>Seeing palm trees was a nice experience</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/bilbao13.jpg" alt="">
+  {% picture german-living/bilbao13.jpg %}
   <figcaption>Football stadium in Bilbao</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/bilbao14.jpg" alt="">
+  {% picture german-living/bilbao14.jpg %}
   <figcaption>Cliffs on the bus ride back to Burgos</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/bilbao15.jpg" alt="">
+  {% picture german-living/bilbao15.jpg %}
   <figcaption>More cliffs</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/bilbao16.jpg" alt="">
+  {% picture german-living/bilbao16.jpg %}
   <figcaption>And more cliffs</figcaption>
 </figure>
 
@@ -318,56 +318,56 @@ On my last day in Burgos, we toured through the [Burgos Cathedral.](https://en.w
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/spain11.jpg" alt="">
+  {% picture german-living/spain11.jpg %}
   <figcaption>There were lots of vaulted / ribbed ceilings</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/spain12.jpg" alt="">
+  {% picture german-living/spain12.jpg %}
   <figcaption>There was also lots of gold everywhere</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/spain13.jpg" alt="">
+  {% picture german-living/spain13.jpg %}
   <figcaption>Another impressive ceiling</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/spain14.jpg" alt="">
+  {% picture german-living/spain14.jpg %}
   <figcaption>And more gold again</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/spain15.jpg" alt="">
+  {% picture german-living/spain15.jpg %}
   <figcaption>I'm starting to realize I took a lot of pictures of the ceilings</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/spain16.jpg" alt="">
+  {% picture german-living/spain16.jpg %}
   <figcaption>A crowded piece of artwork</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/spain17.jpg" alt="">
+  {% picture german-living/spain17.jpg %}
   <figcaption>They couldn't fit any more decorations on there if they wanted to</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/spain18.jpg" alt="">
+  {% picture german-living/spain18.jpg %}
   <figcaption>Portraits everywhere</figcaption>
 </figure>
 
@@ -390,7 +390,7 @@ This Sunday I attended a public viewing of the Germany vs. Mexico world cup game
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/germany_mexico_football.jpg" alt="">
+  {% picture german-living/germany_mexico_football.jpg %}
   <figcaption>There was a large screen and plenty of people watching in Tübingen</figcaption>
 </figure>
 

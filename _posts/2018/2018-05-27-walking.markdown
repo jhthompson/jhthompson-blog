@@ -26,7 +26,7 @@ On Monday, me and Eduardo walked from Reutlingen to Stuttgart, which ended up be
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/walking_summary.jpg" alt="">
+  {% picture german-living/walking_summary.jpg %}
   <figcaption>Summary of the days travels</figcaption>
 </figure>
 
@@ -37,126 +37,126 @@ I took some photos along the way, and I'll put them below in the order that I to
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/walking1.jpg" alt="">
+  {% picture german-living/walking1.jpg %}
   <figcaption>Soon after we left Reutlingen</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/walking2.jpg" alt="">
+  {% picture german-living/walking2.jpg %}
   <figcaption>A river we crossed along the way</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/walking3.jpg" alt="">
+  {% picture german-living/walking3.jpg %}
   <figcaption>Google maps took us through several trails like these</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/walking_header.jpg" alt="">
+  {% picture german-living/walking_header.jpg %}
   <figcaption>Making our way through</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/walking4.jpg" alt="">
+  {% picture german-living/walking4.jpg %}
   <figcaption>A better maintained trail / road was nice to find</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/walking5.jpg" alt="">
+  {% picture german-living/walking5.jpg %}
   <figcaption>Me and some big trees</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/walking6.jpg" alt="">
+  {% picture german-living/walking6.jpg %}
   <figcaption>Google maps also led us through a lumber yard</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/walking7.jpg" alt="">
+  {% picture german-living/walking7.jpg %}
   <figcaption>This was after we found a restaurant in the woods where we refilled our water</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/walking8.jpg" alt="">
+  {% picture german-living/walking8.jpg %}
   <figcaption>Some random dude</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/walking9.jpg" alt="">
+  {% picture german-living/walking9.jpg %}
   <figcaption>Our route took us under the flight path of planes coming in to Stuttgart</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/walking10.jpg" alt="">
+  {% picture german-living/walking10.jpg %}
   <figcaption>A nice looking area in the outskirts of Stuttgart</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/walking11.jpg" alt="">
+  {% picture german-living/walking11.jpg %}
   <figcaption>Hard to see, but the last stop for the tram line within Stuttgart</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/walking12.jpg" alt="">
+  {% picture german-living/walking12.jpg %}
   <figcaption>Wildlife is crazy in Stuttgart</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/walking13.jpg" alt="">
+  {% picture german-living/walking13.jpg %}
   <figcaption>The company that owns Mercedes and other car companies</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/walking14.jpg" alt="">
+  {% picture german-living/walking14.jpg %}
   <figcaption>Eduardo surveying Stuttgart</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/walking15.jpg" alt="">
+  {% picture german-living/walking15.jpg %}
   <figcaption>At this point of the trip going down stairs hurt almost as much as going up</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/walking16.jpg" alt="">
+  {% picture german-living/walking16.jpg %}
   <figcaption>Ten minutes away from the train station now</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/walking17.jpg" alt="">
+  {% picture german-living/walking17.jpg %}
   <figcaption>Exhausted and happy to be sitting down</figcaption>
 </figure>
 
@@ -171,7 +171,7 @@ It was quite a warm weekend, with temperatures getting up to 25 celcius on both 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/waterpark.jpg" alt="">
+  {% picture german-living/waterpark.jpg %}
   <figcaption>The water park in Reutlingen</figcaption>
 </figure>
 

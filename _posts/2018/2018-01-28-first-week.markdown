@@ -27,7 +27,7 @@ When I was awake, somewhere along our FlixBus ride, I noticed a strange large st
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/munich_olympic_stadium.jpg" alt="">
+  {% picture german-living/munich_olympic_stadium.jpg %}
   <figcaption>Driving by the Munich Olympic Stadium</figcaption>
 </figure>
 
@@ -42,7 +42,7 @@ Tuesday ended up being an incredibly productive day. Once me and Patti were both
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/wilhelmstrasse.jpg" alt="">
+  {% picture german-living/wilhelmstrasse.jpg %}
   <figcaption>The main shopping street in Reutlingen</figcaption>
 </figure>
 
@@ -56,7 +56,7 @@ After that was finished, I went to the town hall to pick up a form and get regis
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/town_hall_reutlingen.jpg" alt="">
+  {% picture german-living/town_hall_reutlingen.jpg %}
   <figcaption>The town hall where we registered</figcaption>
 </figure>
 
@@ -84,56 +84,56 @@ Here are some pictures I took along the way.
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/first_run1.jpg" alt="">
+  {% picture german-living/first_run1.jpg %}
   <figcaption>The bottom of the hill</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/first_run2.jpg" alt="">
+  {% picture german-living/first_run2.jpg %}
   <figcaption>Halfway up</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/first_run3.jpg" alt="">
+  {% picture german-living/first_run3.jpg %}
   <figcaption>Another view from halfway up</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/first_run4.jpg" alt="">
+  {% picture german-living/first_run4.jpg %}
   <figcaption>At the top!</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/first_run5.jpg" alt="">
+  {% picture german-living/first_run5.jpg %}
   <figcaption>Still at the top</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/first_run6.jpg" alt="">
+  {% picture german-living/first_run6.jpg %}
   <figcaption>The next hill to climb perhaps?</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/first_run7.jpg" alt="">
+  {% picture german-living/first_run7.jpg %}
   <figcaption>Why so colorful</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/first_run8.jpg" alt="">
+  {% picture german-living/first_run8.jpg %}
   <figcaption>Stairs on the way down</figcaption>
 </figure>
 
@@ -152,28 +152,28 @@ Later in the afternoon, we had time to check out a [rock climbing facility](http
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/rock_climbing1.jpg" alt="">
+  {% picture german-living/rock_climbing1.jpg %}
   <figcaption>Climbing wall on the outside of the building</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/rock_climbing2.jpg" alt="">
+  {% picture german-living/rock_climbing2.jpg %}
   <figcaption>The main climbing area</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/rock_climbing3.jpg" alt="">
+  {% picture german-living/rock_climbing3.jpg %}
   <figcaption>Another side of the building</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/rock_climbing4.jpg" alt="">
+  {% picture german-living/rock_climbing4.jpg %}
   <figcaption>The free climbing room</figcaption>
 </figure>
 
@@ -186,7 +186,7 @@ And finally, to cap off the day, Eduardo indeed cooked ratatouille. He's an incr
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/ratatouille.jpg" alt="">
+  {% picture german-living/ratatouille.jpg %}
   <figcaption>Ratatouille, à la Eduardo</figcaption>
 </figure>
 
@@ -209,7 +209,7 @@ Later at night, around 11pm German time, there was a LAN starting back at UPEI. 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/borderlands_lan.jpg" alt="">
+  {% picture german-living/borderlands_lan.jpg %}
   <figcaption>Ali smiling for the camera</figcaption>
 </figure>
 
@@ -228,14 +228,14 @@ At night we checked out the local basketball team, the [Reutlingen Ravens](https
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/ravens_basketball1.jpg" alt="">
+  {% picture german-living/ravens_basketball1.jpg %}
   <figcaption>The Raven's home gym</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/ravens_basketball2.jpg" alt="">
+  {% picture german-living/ravens_basketball2.jpg %}
   <figcaption>Courtside seats (on bleachers)</figcaption>
 </figure>
 
@@ -252,63 +252,63 @@ Sunday so far has been a very relaxed day. My big adventure was going for anothe
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/achalm_castle_run1.jpg" alt="">
+  {% picture german-living/achalm_castle_run1.jpg %}
   <figcaption>Stairs I took on the way up</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/achalm_castle_run2.jpg" alt="">
+  {% picture german-living/achalm_castle_run2.jpg %}
   <figcaption>Still a long way to the top</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/achalm_castle_run3.jpg" alt="">
+  {% picture german-living/achalm_castle_run3.jpg %}
   <figcaption>Almost there</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/achalm_castle_run4.jpg" alt="">
+  {% picture german-living/achalm_castle_run4.jpg %}
   <figcaption>The main tower of the abandoned castle</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/achalm_castle_run5.jpg" alt="">
+  {% picture german-living/achalm_castle_run5.jpg %}
   <figcaption>Another view of the tower</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/achalm_castle_run6.jpg" alt="">
+  {% picture german-living/achalm_castle_run6.jpg %}
   <figcaption>Panorama from the top (not sure how well this will display on the site but I thought I'd try)</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/achalm_castle_run7.jpg" alt="">
+  {% picture german-living/achalm_castle_run7.jpg %}
   <figcaption>Another view from the top</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/achalm_castle_run8.jpg" alt="">
+  {% picture german-living/achalm_castle_run8.jpg %}
   <figcaption>Stairs I took on the way down</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/achalm_castle_run9.jpg" alt="">
+  {% picture german-living/achalm_castle_run9.jpg %}
   <figcaption>Cool house on the way home</figcaption>
 </figure>
 
