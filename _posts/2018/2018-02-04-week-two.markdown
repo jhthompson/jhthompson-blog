@@ -22,21 +22,21 @@ This week our work term officially started. Early in the week, we took the city 
 ***
 
 <figure class="align-center">
-  {% picture german-living/bosch_ebike.jpg %}
+  <img src="/assets/images/fullsize/german-living/bosch_ebike.jpg" alt="">
   <figcaption>One of the first signs we saw</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/bosch_st_sign.jpg %}
+  <img src="/assets/images/fullsize/german-living/bosch_st_sign.jpg" alt="">
   <figcaption>Outside of our building!</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/bosch_bmw_electric.jpg %}
+  <img src="/assets/images/fullsize/german-living/bosch_bmw_electric.jpg" alt="">
   <figcaption>BMW electric car chilling in the parking lot</figcaption>
 </figure>
 
@@ -53,56 +53,56 @@ On Wednesday, I realized this might be the last time for a while that I'm able t
 ***
 
 <figure class="align-center">
-  {% picture german-living/stadium.jpg %}
+  <img src="/assets/images/fullsize/german-living/stadium.jpg" alt="">
   <figcaption>Sports stadium</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/pond.jpg %}
+  <img src="/assets/images/fullsize/german-living/pond.jpg" alt="">
   <figcaption>Pond surrounded by a trail</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/birds.jpg %}
+  <img src="/assets/images/fullsize/german-living/birds.jpg" alt="">
   <figcaption>Birds in the pond</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/trail_run1.jpg %}
+  <img src="/assets/images/fullsize/german-living/trail_run1.jpg" alt="">
   <figcaption>Near the start of the trail</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/trail_run2.jpg %}
+  <img src="/assets/images/fullsize/german-living/trail_run2.jpg" alt="">
   <figcaption>Short bridge and stairs</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/trail_run3.jpg %}
+  <img src="/assets/images/fullsize/german-living/trail_run3.jpg" alt="">
   <figcaption>Uphill here we come</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/trail_run4.jpg %}
+  <img src="/assets/images/fullsize/german-living/trail_run4.jpg" alt="">
   <figcaption>Surrounded by trees</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/trail_run5.jpg %}
+  <img src="/assets/images/fullsize/german-living/trail_run5.jpg" alt="">
   <figcaption>Thankfully running uphill one way means downhill on the way back</figcaption>
 </figure>
 
@@ -123,7 +123,7 @@ Early in the week I needed to print out a document to sign, so I figured this wa
 ***
 
 <figure class="align-center">
-  {% picture german-living/library.jpg %}
+  <img src="/assets/images/fullsize/german-living/library.jpg" alt="">
   <figcaption>The town library</figcaption>
 </figure>
 
@@ -134,7 +134,7 @@ I paid the 18 euros to get a library card for a full year (or it would've been 3
 ***
 
 <figure class="align-center">
-  {% picture german-living/books.jpg %}
+  <img src="/assets/images/fullsize/german-living/books.jpg" alt="">
   <figcaption>The literature of choice</figcaption>
 </figure>
 
@@ -151,7 +151,7 @@ I remembered to take a quick picture of the local market on Tuesday. It's hard t
 ***
 
 <figure class="align-center">
-  {% picture german-living/market.jpg %}
+  <img src="/assets/images/fullsize/german-living/market.jpg" alt="">
   <figcaption>A tiny portion of the marketplace</figcaption>
 </figure>
 
@@ -168,14 +168,14 @@ The only thing that did not go smoothly on our first day was getting our officia
 ***
 
 <figure class="align-center">
-  {% picture german-living/strike1.jpg %}
+  <img src="/assets/images/fullsize/german-living/strike1.jpg" alt="">
   <figcaption>Rainy picture of the crowd on strike</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/strike2.jpg %}
+  <img src="/assets/images/fullsize/german-living/strike2.jpg" alt="">
   <figcaption>Different view of the crowd</figcaption>
 </figure>
 
@@ -186,21 +186,21 @@ Our second official day was productive again. We have material to read up on for
 ***
 
 <figure class="align-center">
-  {% picture german-living/bosch_hq1.jpg %}
+  <img src="/assets/images/fullsize/german-living/bosch_hq1.jpg" alt="">
   <figcaption>Main Bosch building</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/bosch_hq2.jpg %}
+  <img src="/assets/images/fullsize/german-living/bosch_hq2.jpg" alt="">
   <figcaption>WHO ARE WE???</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/german_engineering.jpg %}
+  <img src="/assets/images/fullsize/german-living/german_engineering.jpg" alt="">
   <figcaption>Fridge in a break room</figcaption>
 </figure>
 
@@ -213,7 +213,7 @@ Up until this week, the TV in our living room had essentially just been a massiv
 ***
 
 <figure class="align-center">
-  {% picture german-living/tv.jpg %}
+  <img src="/assets/images/fullsize/german-living/tv.jpg" alt="">
   <figcaption><a href="https://www.netflix.com/title/80105699">Travelers</a> - check it out on Netflix</figcaption>
 </figure>
 

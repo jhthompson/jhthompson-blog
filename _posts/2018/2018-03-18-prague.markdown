@@ -29,7 +29,7 @@ After taking an overnight FlixBus to Prague, we arrived at around 8am on Saturda
 ***
 
 <figure class="align-center">
-  {% picture german-living/prague_snow.jpg %}
+  <img src="/assets/images/fullsize/german-living/prague_snow.jpg" alt="">
   <figcaption>Haven't seen this much snow in a while ("this much" being a relative term)</figcaption>
 </figure>
 
@@ -42,14 +42,14 @@ While walking around, we kept an eye out for interesting stores to duck in to in
 ***
 
 <figure class="align-center">
-  {% picture german-living/prague_hamleys_front.jpg %}
+  <img src="/assets/images/fullsize/german-living/prague_hamleys_front.jpg" alt="">
   <figcaption>Front of the toy store</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/prague_hamleys_inside.jpg %}
+  <img src="/assets/images/fullsize/german-living/prague_hamleys_inside.jpg" alt="">
   <figcaption>Inside Hamley's</figcaption>
 </figure>
 
@@ -60,14 +60,14 @@ Underneath the Hamley's was a Lego exhibit. We decided against paying the admiss
 ***
 
 <figure class="align-center">
-  {% picture german-living/prague_lego1.jpg %}
+  <img src="/assets/images/fullsize/german-living/prague_lego1.jpg" alt="">
   <figcaption>Thought this was very clever</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/prague_lego2.jpg %}
+  <img src="/assets/images/fullsize/german-living/prague_lego2.jpg" alt="">
   <figcaption>Glimpse of the Lego exhibit (didn't go in further)</figcaption>
 </figure>
 
@@ -80,7 +80,7 @@ Prague is known for its [astronomical clock.](https://en.wikipedia.org/wiki/Prag
 ***
 
 <figure class="align-center">
-  {% picture german-living/prague_clock.jpg %}
+  <img src="/assets/images/fullsize/german-living/prague_clock.jpg" alt="">
   <figcaption>Closed for renovations unfortunately</figcaption>
 </figure>
 
@@ -93,35 +93,35 @@ Prague also has a [famous castle](https://www.hrad.cz/en/prague-castle-for-visit
 ***
 
 <figure class="align-center">
-  {% picture german-living/prague_castle1.jpg %}
+  <img src="/assets/images/fullsize/german-living/prague_castle1.jpg" alt="">
   <figcaption>Approaching the castle</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/prague_castle2.jpg %}
+  <img src="/assets/images/fullsize/german-living/prague_castle2.jpg" alt="">
   <figcaption>Gargoyles</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/prague_castle3.jpg %}
+  <img src="/assets/images/fullsize/german-living/prague_castle3.jpg" alt="">
   <figcaption>The side of the castle</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/prague_castle4.jpg %}
+  <img src="/assets/images/fullsize/german-living/prague_castle4.jpg" alt="">
   <figcaption>And the front</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/prague_castle5.jpg %}
+  <img src="/assets/images/fullsize/german-living/prague_castle5.jpg" alt="">
   <figcaption>Inside the castle</figcaption>
 </figure>
 
@@ -134,14 +134,14 @@ While exploring we found a [museum](http://www.muzeumkarlazemana.cz/en) about sp
 ***
 
 <figure class="align-center">
-  {% picture german-living/prague_movie_museum1.jpg %}
+  <img src="/assets/images/fullsize/german-living/prague_movie_museum1.jpg" alt="">
   <figcaption>Still image of a film inspired by Jules Verne</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/prague_movie_museum2.jpg %}
+  <img src="/assets/images/fullsize/german-living/prague_movie_museum2.jpg" alt="">
   <figcaption>Agreed</figcaption>
 </figure>
 
@@ -154,21 +154,21 @@ Another famous landmark in Prague is the [Charle's Bridge](https://en.wikipedia.
 ***
 
 <figure class="align-center">
-  {% picture german-living/prague_bridge1.jpg %}
+  <img src="/assets/images/fullsize/german-living/prague_bridge1.jpg" alt="">
   <figcaption>Start of bridge</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/prague_bridge2.jpg %}
+  <img src="/assets/images/fullsize/german-living/prague_bridge2.jpg" alt="">
   <figcaption>Looking over the bridge</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/prague_bridge3.jpg %}
+  <img src="/assets/images/fullsize/german-living/prague_bridge3.jpg" alt="">
   <figcaption>One of the many statues on the sides of the bridge</figcaption>
 </figure>
 
@@ -181,21 +181,21 @@ We found another museum while walking around, but this time relating to alchemy.
 ***
 
 <figure class="align-center">
-  {% picture german-living/prague_alchemy1.jpg %}
+  <img src="/assets/images/fullsize/german-living/prague_alchemy1.jpg" alt="">
   <figcaption>Sign for the museum</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/prague_alchemy2.jpg %}
+  <img src="/assets/images/fullsize/german-living/prague_alchemy2.jpg" alt="">
   <figcaption>Spooky exhibit</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/prague_alchemy3.jpg %}
+  <img src="/assets/images/fullsize/german-living/prague_alchemy3.jpg" alt="">
   <figcaption>Some of the oldest wooden stairs in Prague, built in the 16th century</figcaption>
 </figure>
 
@@ -208,28 +208,28 @@ There was a ton of street side vendors around Prague selling [trdelnik,](https:/
 ***
 
 <figure class="align-center">
-  {% picture german-living/prague_trdelnik1.jpg %}
+  <img src="/assets/images/fullsize/german-living/prague_trdelnik1.jpg" alt="">
   <figcaption>A nicely advertised Trdelnik shop</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/prague_trdelnik2.jpg %}
+  <img src="/assets/images/fullsize/german-living/prague_trdelnik2.jpg" alt="">
   <figcaption>More signage</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/prague_trdelnik3.jpg %}
+  <img src="/assets/images/fullsize/german-living/prague_trdelnik3.jpg" alt="">
   <figcaption>And more signage</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/prague_trdelnik4.jpeg %}
+  <img src="/assets/images/fullsize/german-living/prague_trdelnik4.jpeg" alt="">
   <figcaption>Can't believe my eyes</figcaption>
 </figure>
 
@@ -242,56 +242,56 @@ There was also a number of cool buildings / sculptures scattered around Prague, 
 ***
 
 <figure class="align-center">
-  {% picture german-living/prague_sausage.jpg %}
+  <img src="/assets/images/fullsize/german-living/prague_sausage.jpg" alt="">
   <figcaption>Lunch on Saturday</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/prague_tower1.jpg %}
+  <img src="/assets/images/fullsize/german-living/prague_tower1.jpg" alt="">
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/prague_tower2.jpg %}
+  <img src="/assets/images/fullsize/german-living/prague_tower2.jpg" alt="">
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/prague_giovanni_sculpture.jpg %}
+  <img src="/assets/images/fullsize/german-living/prague_giovanni_sculpture.jpg" alt="">
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/prague_group_sculpture.jpg %}
+  <img src="/assets/images/fullsize/german-living/prague_group_sculpture.jpg" alt="">
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/prague_building1.jpg %}
+  <img src="/assets/images/fullsize/german-living/prague_building1.jpg" alt="">
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/prague_building2.jpg %}
+  <img src="/assets/images/fullsize/german-living/prague_building2.jpg" alt="">
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/prague_illuminati.jpg %}
+  <img src="/assets/images/fullsize/german-living/prague_illuminati.jpg" alt="">
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/prague_view.jpg %}
+  <img src="/assets/images/fullsize/german-living/prague_view.jpg" alt="">
 </figure>
 
 ***
@@ -303,7 +303,7 @@ Random thing that happened during the week: there was this falcon (or hawk?) tha
 ***
 
 <figure class="align-center">
-  {% picture german-living/bst_bird.jpg %}
+  <img src="/assets/images/fullsize/german-living/bst_bird.jpg" alt="">
   <figcaption>It's a bird eat bird world</figcaption>
 </figure>
 

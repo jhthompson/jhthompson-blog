@@ -29,35 +29,35 @@ We went to a BMW showfloor / tourist attraction, where they had a bunch of model
 ***
 
 <figure class="align-center">
-  {% picture german-living/munich_rolls_royce.jpg %}
+  <img src="/assets/images/fullsize/german-living/munich_rolls_royce.jpg" alt="">
   <figcaption>Rolls Royce just chilling on the show floor</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/munich_mini.jpg %}
+  <img src="/assets/images/fullsize/german-living/munich_mini.jpg" alt="">
   <figcaption>Fun little mini cooper</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/munich_bmw_concept.jpg %}
+  <img src="/assets/images/fullsize/german-living/munich_bmw_concept.jpg" alt="">
   <figcaption>Incredible looking concept car</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/munich_bmw_i8.jpg %}
+  <img src="/assets/images/fullsize/german-living/munich_bmw_i8.jpg" alt="">
   <figcaption>The £138,000 BMW i8</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/bmw_motorcycle.jpg %}
+  <img src="/assets/images/fullsize/german-living/bmw_motorcycle.jpg" alt="">
   <figcaption>I have no idea what I'm doing</figcaption>
 </figure>
 
@@ -70,35 +70,35 @@ Another highlight of the day was seeing the site of the 1972 Munich Olympics. I 
 ***
 
 <figure class="align-center">
-  {% picture german-living/munich_olympic1.jpg %}
+  <img src="/assets/images/fullsize/german-living/munich_olympic1.jpg" alt="">
   <figcaption>Looking over it all</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/munich_olympic2.jpg %}
+  <img src="/assets/images/fullsize/german-living/munich_olympic2.jpg" alt="">
   <figcaption>The other side of the stadium</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/munich_olympic3.jpg %}
+  <img src="/assets/images/fullsize/german-living/munich_olympic3.jpg" alt="">
   <figcaption>Insane amount of lights</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/munich_olympic4.jpg %}
+  <img src="/assets/images/fullsize/german-living/munich_olympic4.jpg" alt="">
   <figcaption>Old ticket sales location</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/munich_olympic5.jpg %}
+  <img src="/assets/images/fullsize/german-living/munich_olympic5.jpg" alt="">
   <figcaption>Promotional material</figcaption>
 </figure>
 
@@ -111,14 +111,14 @@ On our way towards the Olympic stadium, we walked through the park beside it. It
 ***
 
 <figure class="align-center">
-  {% picture german-living/munich_park1.jpg %}
+  <img src="/assets/images/fullsize/german-living/munich_park1.jpg" alt="">
   <figcaption>View from the park of the tower near the stadium</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/munich_park2.jpg %}
+  <img src="/assets/images/fullsize/german-living/munich_park2.jpg" alt="">
   <figcaption>Water for the pedal boats, with the stadium in the backgroun</figcaption>
 </figure>
 
@@ -150,7 +150,7 @@ Sunday - Really warm [long run](https://www.strava.com/activities/1524469866) ar
 ***
 
 <figure class="align-center">
-  {% picture german-living/sunday_weather.jpg %}
+  <img src="/assets/images/fullsize/german-living/sunday_weather.jpg" alt="">
   <figcaption>Temperature for the long run</figcaption>
 </figure>
 

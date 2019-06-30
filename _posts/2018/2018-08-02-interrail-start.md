@@ -27,7 +27,7 @@ This also means that my time at Bosch Sensortec has come to an end. I'm going to
 ***
 
 <figure class="align-center">
-  {% picture interrail/leaving_apartment.jpg %}
+  <img src="/assets/images/fullsize/interrail/leaving_apartment.jpg" alt="">
   <figcaption>The last time I walked out of the apartment in Reutlingen</figcaption>
 </figure>
 
@@ -38,14 +38,14 @@ The first place I visited was Konstanz, and I wish I could have stayed longer. T
 ***
 
 <figure class="align-center">
-  {% picture interrail/konstanz_boats.jpg %}
+  <img src="/assets/images/fullsize/interrail/konstanz_boats.jpg" alt="">
   <figcaption>Shades of blue and green</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture interrail/konstanz_from_bridge.jpg %}
+  <img src="/assets/images/fullsize/interrail/konstanz_from_bridge.jpg" alt="">
   <figcaption>View of the main lake from a pedestrian bridge</figcaption>
 </figure>
 
@@ -56,7 +56,7 @@ I got off the train stop in the middle of the old city, and then proceeded to wa
 ***
 
 <figure class="align-center">
-  {% picture interrail/heat_wave_water.jpg %}
+  <img src="/assets/images/fullsize/interrail/heat_wave_water.jpg" alt="">
   <figcaption>It was so hot they had free water at most train stations</figcaption>
 </figure>
 
@@ -67,7 +67,7 @@ So after dropping my main bag and locking it in the hostel, I took my towel and 
 ***
 
 <figure class="align-center">
-  {% picture interrail/konstanz_beach.jpg %}
+  <img src="/assets/images/fullsize/interrail/konstanz_beach.jpg" alt="">
   <figcaption>Where I swam</figcaption>
 </figure>
 
@@ -82,7 +82,7 @@ So I had to spend 2 hours in Zurich (which was very nice actually, there is a pa
 ***
 
 <figure class="align-center">
-  {% picture interrail/zurich_swans.jpg %}
+  <img src="/assets/images/fullsize/interrail/zurich_swans.jpg" alt="">
   <figcaption>More turquoise water!</figcaption>
 </figure>
 
@@ -93,7 +93,7 @@ After 2 hours had passed, I got on the first long-ish train ride of the trip, on
 ***
 
 <figure class="align-center">
-  {% picture interrail/innsbruck_rain.jpg %}
+  <img src="/assets/images/fullsize/interrail/innsbruck_rain.jpg" alt="">
   <figcaption>The rain, as seen from the hostel window</figcaption>
 </figure>
 
@@ -104,7 +104,7 @@ There was also some great running trails just behind the hostel, which were just
 ***
 
 <figure class="align-center">
-  {% picture interrail/innsbruck_beach.jpg %}
+  <img src="/assets/images/fullsize/interrail/innsbruck_beach.jpg" alt="">
   <figcaption>One of the beaches along the river</figcaption>
 </figure>
 
@@ -115,42 +115,42 @@ I wanted to spend as much time as I could in Salzburg, because I heard it was an
 ***
 
 <figure class="align-center">
-  {% picture interrail/salzburg_locks.jpg %}
+  <img src="/assets/images/fullsize/interrail/salzburg_locks.jpg" alt="">
   <figcaption>One of the first stops was a popular "lock bridge"</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture interrail/salzburg_mozart_house.jpg %}
+  <img src="/assets/images/fullsize/interrail/salzburg_mozart_house.jpg" alt="">
   <figcaption>The house where Mozart lived from age 17-25</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture interrail/salzburg_garden_entrance.jpg %}
+  <img src="/assets/images/fullsize/interrail/salzburg_garden_entrance.jpg" alt="">
   <figcaption>Entrance to the Mirabell palace gardens</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture interrail/salzburg_dwarf.jpg %}
+  <img src="/assets/images/fullsize/interrail/salzburg_dwarf.jpg" alt="">
   <figcaption>One of the dwarf sculptures in a section of the gardens</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture interrail/salzburg_hill_selfie.jpg %}
+  <img src="/assets/images/fullsize/interrail/salzburg_hill_selfie.jpg" alt="">
   <figcaption>Me in front of a hill in the middle of Salzburg</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture interrail/salzburg_palace.jpg %}
+  <img src="/assets/images/fullsize/interrail/salzburg_palace.jpg" alt="">
   <figcaption>The castle in Salzburg</figcaption>
 </figure>
 
@@ -161,21 +161,21 @@ After my time in Salzburg was completed, I hopped on an early morning train to V
 ***
 
 <figure class="align-center">
-  {% picture interrail/salzburg_to_venice.jpg %}
+  <img src="/assets/images/fullsize/interrail/salzburg_to_venice.jpg" alt="">
   <figcaption>The Salzburg to Venice train route</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture interrail/salzburg_to_venice2.jpg %}
+  <img src="/assets/images/fullsize/interrail/salzburg_to_venice2.jpg" alt="">
   <figcaption>View of the mountains</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture interrail/salzburg_to_venice3.jpg %}
+  <img src="/assets/images/fullsize/interrail/salzburg_to_venice3.jpg" alt="">
   <figcaption>Another view of the mountains</figcaption>
 </figure>
 
@@ -186,21 +186,21 @@ The main reason I wanted to go to Venice was because I heard someone say that in
 ***
 
 <figure class="align-center">
-  {% picture interrail/venice_ferries.jpg %}
+  <img src="/assets/images/fullsize/interrail/venice_ferries.jpg" alt="">
   <figcaption>One of the first views I had of Venice - multiple massive cruise ships</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture interrail/venice_canal.jpg %}
+  <img src="/assets/images/fullsize/interrail/venice_canal.jpg" alt="">
   <figcaption>Another picturesque view</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture interrail/venice_gondola.jpg %}
+  <img src="/assets/images/fullsize/interrail/venice_gondola.jpg" alt="">
   <figcaption>Classic gondola</figcaption>
 </figure>
 
@@ -211,14 +211,14 @@ There is a famous bridge in Venice that used to be filled with butchers shops, b
 ***
 
 <figure class="align-center">
-  {% picture interrail/venice_gold_bridge.jpg %}
+  <img src="/assets/images/fullsize/interrail/venice_gold_bridge.jpg" alt="">
   <figcaption>The bridge full of jewelry shops</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture interrail/venice_gold_bridge_selfie.jpg %}
+  <img src="/assets/images/fullsize/interrail/venice_gold_bridge_selfie.jpg" alt="">
   <figcaption>Standing on the jewelry bridge</figcaption>
 </figure>
 
@@ -229,21 +229,21 @@ Saint Marks basilica and square are also famous Venetian landmarks, and were abs
 ***
 
 <figure class="align-center">
-  {% picture interrail/venice_st_marks.jpg %}
+  <img src="/assets/images/fullsize/interrail/venice_st_marks.jpg" alt="">
   <figcaption>The famous Saint Mark's square</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture interrail/venice_hospital.jpg %}
+  <img src="/assets/images/fullsize/interrail/venice_hospital.jpg" alt="">
   <figcaption>The hospital in Venice - learned this from the walking tour guide</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture interrail/venice_canal2.jpg %}
+  <img src="/assets/images/fullsize/interrail/venice_canal2.jpg" alt="">
   <figcaption>And one last impressive scene</figcaption>
 </figure>
 
@@ -256,119 +256,119 @@ I got in to those gardens for free, and I also did not have to pay anything to s
 ***
 
 <figure class="align-center">
-  {% picture interrail/florence_garden.jpg %}
+  <img src="/assets/images/fullsize/interrail/florence_garden.jpg" alt="">
   <figcaption>The long path through the gardens</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture interrail/florence_garden2.jpg %}
+  <img src="/assets/images/fullsize/interrail/florence_garden2.jpg" alt="">
   <figcaption>Three laughing / grimacing statues in the gardens</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture interrail/florence_garden3.jpg %}
+  <img src="/assets/images/fullsize/interrail/florence_garden3.jpg" alt="">
   <figcaption>Main pond in the center of the gardens</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture interrail/florence_garden4.jpg %}
+  <img src="/assets/images/fullsize/interrail/florence_garden4.jpg" alt="">
   <figcaption>Another view of the long path</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture interrail/florence_garden5.jpg %}
+  <img src="/assets/images/fullsize/interrail/florence_garden5.jpg" alt="">
   <figcaption>How I felt walking in the mid-day sun</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture interrail/florence_garden6.jpg %}
+  <img src="/assets/images/fullsize/interrail/florence_garden6.jpg" alt="">
   <figcaption>View of the countryside from the top of the gardens</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture interrail/florence_plaza.jpg %}
+  <img src="/assets/images/fullsize/interrail/florence_plaza.jpg" alt="">
   <figcaption>View from the Piazzale Michelangelo of the main city</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture interrail/florence_bronze_david.jpg %}
+  <img src="/assets/images/fullsize/interrail/florence_bronze_david.jpg" alt="">
   <figcaption>At the Piazzale there is a bronze copy of Michelangelo's David</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture interrail/florence_duomo.jpg %}
+  <img src="/assets/images/fullsize/interrail/florence_duomo.jpg" alt="">
   <figcaption>The outside of the famous Duomo in Florence</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture interrail/florence_duomo2.jpg %}
+  <img src="/assets/images/fullsize/interrail/florence_duomo2.jpg" alt="">
   <figcaption>And the front side to the Duomo</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture interrail/florence_duomo2_5am.jpg %}
+  <img src="/assets/images/fullsize/interrail/florence_duomo2_5am.jpg" alt="">
   <figcaption>The same front side of the Duomo, but at 5am</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture interrail/florence_david.jpg %}
+  <img src="/assets/images/fullsize/interrail/florence_david.jpg" alt="">
   <figcaption>Michelangelo's David</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture interrail/florence_david_in_progress.jpg %}
+  <img src="/assets/images/fullsize/interrail/florence_david_in_progress.jpg" alt="">
   <figcaption>One of Michelangelo's works in progress</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture interrail/florence_sculpture_room.jpg %}
+  <img src="/assets/images/fullsize/interrail/florence_sculpture_room.jpg" alt="">
   <figcaption>No on was allowed to walk further into this room filled with sculptures</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture interrail/florence_tapestry.jpg %}
+  <img src="/assets/images/fullsize/interrail/florence_tapestry.jpg" alt="">
   <figcaption>One floor above David, there is an extremely well preserved Florentine tapestry</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture interrail/florence_outdoor_museum.jpg %}
+  <img src="/assets/images/fullsize/interrail/florence_outdoor_museum.jpg" alt="">
   <figcaption>Sculptures in an open air display</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture interrail/florence_swan_imagery.jpg %}
+  <img src="/assets/images/fullsize/interrail/florence_swan_imagery.jpg" alt="">
   <figcaption>The imagery of a swan feeding her young with her own blood appeared in many places in Florence</figcaption>
 </figure>
 
@@ -379,28 +379,28 @@ I treated my stop in Nice as a more relaxed one, and I didn't try and walk throu
 ***
 
 <figure class="align-center">
-  {% picture interrail/nice_beach.jpg %}
+  <img src="/assets/images/fullsize/interrail/nice_beach.jpg" alt="">
   <figcaption>First view of the beaches in Nice</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture interrail/nice_lounging.jpg %}
+  <img src="/assets/images/fullsize/interrail/nice_lounging.jpg" alt="">
   <figcaption>I splurged and spent 20 euros to lie on a lounge chair and have access to a less crowded section of beach</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture interrail/nice_selfie.jpg %}
+  <img src="/assets/images/fullsize/interrail/nice_selfie.jpg" alt="">
   <figcaption>Overlooking the main beaches</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture interrail/nice_waterfall.jpg %}
+  <img src="/assets/images/fullsize/interrail/nice_waterfall.jpg" alt="">
   <figcaption>Near the top of the tower was a waterfall which provided cool mist to everyone walking by</figcaption>
 </figure>
 
@@ -411,63 +411,63 @@ This was the first place that I spent more than one night in. The day that I arr
 ***
 
 <figure class="align-center">
-  {% picture interrail/marseille_port.jpg %}
+  <img src="/assets/images/fullsize/interrail/marseille_port.jpg" alt="">
   <figcaption>Main docks in Marseille</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture interrail/marseille_mirror.jpg %}
+  <img src="/assets/images/fullsize/interrail/marseille_mirror.jpg" alt="">
   <figcaption>Mirrored roof to provide shade and rain cover</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture interrail/marseille_basilica.jpg %}
+  <img src="/assets/images/fullsize/interrail/marseille_basilica.jpg" alt="">
   <figcaption>Notre-Dame de la Garde Basilica</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture interrail/marseille_basilica_inside.jpg %}
+  <img src="/assets/images/fullsize/interrail/marseille_basilica_inside.jpg" alt="">
   <figcaption>Paintings on the walls of the basilica</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture interrail/marseille_basilica_inside3.jpg %}
+  <img src="/assets/images/fullsize/interrail/marseille_basilica_inside3.jpg" alt="">
   <figcaption>The main altar in the basilica</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture interrail/marseille_basilica_inside4.jpg %}
+  <img src="/assets/images/fullsize/interrail/marseille_basilica_inside4.jpg" alt="">
   <figcaption>The elaborate basilica ceiling</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture interrail/marseille_walking_sea.jpg %}
+  <img src="/assets/images/fullsize/interrail/marseille_walking_sea.jpg" alt="">
   <figcaption>View from a park I walked through</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture interrail/marseille_city_coast.jpg %}
+  <img src="/assets/images/fullsize/interrail/marseille_city_coast.jpg" alt="">
   <figcaption>The city directly borders the coastline</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture interrail/marseille_city_selfie.jpg %}
+  <img src="/assets/images/fullsize/interrail/marseille_city_selfie.jpg" alt="">
   <figcaption>In front of the docks with the basilica in the background</figcaption>
 </figure>
 
@@ -478,49 +478,49 @@ As I mentioned, my favorite part of Marseille was the national park. I hiked thr
 ***
 
 <figure class="align-center">
-  {% picture interrail/marseille_calanque1.jpg %}
+  <img src="/assets/images/fullsize/interrail/marseille_calanque1.jpg" alt="">
   <figcaption>Starting the hike to the beach and trails</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture interrail/marseille_calanque2.jpg %}
+  <img src="/assets/images/fullsize/interrail/marseille_calanque2.jpg" alt="">
   <figcaption>A viewpoint and the road to get to it</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture interrail/marseille_calanque3.jpg %}
+  <img src="/assets/images/fullsize/interrail/marseille_calanque3.jpg" alt="">
   <figcaption>Beautiful view of the harbor from the viewpoint</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture interrail/marseille_calanque4.jpg %}
+  <img src="/assets/images/fullsize/interrail/marseille_calanque4.jpg" alt="">
   <figcaption>Natural rock formation near where I swam</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture interrail/marseille_calanque5.jpg %}
+  <img src="/assets/images/fullsize/interrail/marseille_calanque5.jpg" alt="">
   <figcaption>Where I swam and sunbathed</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture interrail/marseille_calanque6.jpg %}
+  <img src="/assets/images/fullsize/interrail/marseille_calanque6.jpg" alt="">
   <figcaption>My favorite photo from the park - a little island in the calanque</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture interrail/marseille_calanque7.jpg %}
+  <img src="/assets/images/fullsize/interrail/marseille_calanque7.jpg" alt="">
   <figcaption>There were many boats docked near the shore</figcaption>
 </figure>
 
@@ -531,14 +531,14 @@ After getting to swim, I wanted to explore more of the park that was not directl
 ***
 
 <figure class="align-center">
-  {% picture interrail/marseille_calanque_selfie.jpg %}
+  <img src="/assets/images/fullsize/interrail/marseille_calanque_selfie.jpg" alt="">
   <figcaption>How I hiked through the warmest parts high above the water with no shade</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture interrail/marseille_calanque8.jpg %}
+  <img src="/assets/images/fullsize/interrail/marseille_calanque8.jpg" alt="">
   <figcaption>One of the highest points I made it to</figcaption>
 </figure>
 
@@ -553,63 +553,63 @@ The [Magic Fountain](https://www.barcelona.cat/en/what-to-do-in-bcn/magic-founta
 ***
 
 <figure class="align-center">
-  {% picture interrail/barcelona_fountain_base.jpg %}
+  <img src="/assets/images/fullsize/interrail/barcelona_fountain_base.jpg" alt="">
   <figcaption>The bottom of the park and museum</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture interrail/barcelona_fountain_top.jpg %}
+  <img src="/assets/images/fullsize/interrail/barcelona_fountain_top.jpg" alt="">
   <figcaption>Looking down on the fountain</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture interrail/barcelona_escalators.jpg %}
+  <img src="/assets/images/fullsize/interrail/barcelona_escalators.jpg" alt="">
   <figcaption>There were outdoor escalators everywhere near the base of the park</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture interrail/barcelona_olympic.jpg %}
+  <img src="/assets/images/fullsize/interrail/barcelona_olympic.jpg" alt="">
   <figcaption>The Olympic stadium</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture interrail/barcelona_cable_car.jpg %}
+  <img src="/assets/images/fullsize/interrail/barcelona_cable_car.jpg" alt="">
   <figcaption>There was the option to take a cable car to the top - but I elected to walk</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture interrail/barcelona_castle.jpg %}
+  <img src="/assets/images/fullsize/interrail/barcelona_castle.jpg" alt="">
   <figcaption>The castle at the top of the hill</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture interrail/barcelona_cannon.jpg %}
+  <img src="/assets/images/fullsize/interrail/barcelona_cannon.jpg" alt="">
   <figcaption>These make the cannons at Victoria Park look like toys</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture interrail/barcelona_port.jpg %}
+  <img src="/assets/images/fullsize/interrail/barcelona_port.jpg" alt="">
   <figcaption>The main shipping port, as seen from the castle</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture interrail/barcelona_selfie.jpg %}
+  <img src="/assets/images/fullsize/interrail/barcelona_selfie.jpg" alt="">
   <figcaption>This looked a lot more scenic in person</figcaption>
 </figure>
 
@@ -620,49 +620,49 @@ After walking around the park, I realized I was almost going to miss the start o
 ***
 
 <figure class="align-center">
-  {% picture interrail/barcelona_secondary_fountains.jpg %}
+  <img src="/assets/images/fullsize/interrail/barcelona_secondary_fountains.jpg" alt="">
   <figcaption>Not the magic fountain, but ones near the main staircase</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture interrail/barcelona_magic_fountain1.jpg %}
+  <img src="/assets/images/fullsize/interrail/barcelona_magic_fountain1.jpg" alt="">
   <figcaption>The actual magic fountain</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture interrail/barcelona_magic_fountain2.jpg %}
+  <img src="/assets/images/fullsize/interrail/barcelona_magic_fountain2.jpg" alt="">
   <figcaption></figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture interrail/barcelona_magic_fountain3.jpg %}
+  <img src="/assets/images/fullsize/interrail/barcelona_magic_fountain3.jpg" alt="">
   <figcaption></figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture interrail/barcelona_magic_fountain4.jpg %}
+  <img src="/assets/images/fullsize/interrail/barcelona_magic_fountain4.jpg" alt="">
   <figcaption></figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture interrail/barcelona_magic_fountain5.jpg %}
+  <img src="/assets/images/fullsize/interrail/barcelona_magic_fountain5.jpg" alt="">
   <figcaption></figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture interrail/barcelona_magic_fountain6.jpg %}
+  <img src="/assets/images/fullsize/interrail/barcelona_magic_fountain6.jpg" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -673,56 +673,56 @@ The [Güell Park](https://www.parkguell.cat/fr/) was designed by [Antoni Gaudi,]
 ***
 
 <figure class="align-center">
-  {% picture interrail/barcelona_guell1.jpg %}
+  <img src="/assets/images/fullsize/interrail/barcelona_guell1.jpg" alt="">
   <figcaption>Walkway and pillars supporting it</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture interrail/barcelona_guell2.jpg %}
+  <img src="/assets/images/fullsize/interrail/barcelona_guell2.jpg" alt="">
   <figcaption>Underneath the walkway</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture interrail/barcelona_guell3.jpg %}
+  <img src="/assets/images/fullsize/interrail/barcelona_guell3.jpg" alt="">
   <figcaption>A different walkway</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture interrail/barcelona_guell4.jpg %}
+  <img src="/assets/images/fullsize/interrail/barcelona_guell4.jpg" alt="">
   <figcaption>And a different sheltered alcove</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture interrail/barcelona_guell5.jpg %}
+  <img src="/assets/images/fullsize/interrail/barcelona_guell5.jpg" alt="">
   <figcaption>The house Gaudi lived in for 20 years</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture interrail/barcelona_guell6.jpg %}
+  <img src="/assets/images/fullsize/interrail/barcelona_guell6.jpg" alt="">
   <figcaption>Pillars and plants</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture interrail/barcelona_guell7.jpg %}
+  <img src="/assets/images/fullsize/interrail/barcelona_guell7.jpg" alt="">
   <figcaption>Benches that weren't supposed to be sat on</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture interrail/barcelona_guell8.jpg %}
+  <img src="/assets/images/fullsize/interrail/barcelona_guell8.jpg" alt="">
   <figcaption>Another elaborate walkway</figcaption>
 </figure>
 
@@ -733,56 +733,56 @@ Gaudi's most known work is probably the [Sagrada Familia](http://www.sagradafami
 ***
 
 <figure class="align-center">
-  {% picture interrail/barcelona_sagrada1.jpg %}
+  <img src="/assets/images/fullsize/interrail/barcelona_sagrada1.jpg" alt="">
   <figcaption>The side where I bought the ticket to go inside</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture interrail/barcelona_sagrada2.jpg %}
+  <img src="/assets/images/fullsize/interrail/barcelona_sagrada2.jpg" alt="">
   <figcaption>The opposite side</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture interrail/barcelona_sagrada3.jpg %}
+  <img src="/assets/images/fullsize/interrail/barcelona_sagrada3.jpg" alt="">
   <figcaption>Gaudi held nature in the highest regard, and the pillars are modeled after trees</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture interrail/barcelona_sagrada4.jpg %}
+  <img src="/assets/images/fullsize/interrail/barcelona_sagrada4.jpg" alt="">
   <figcaption>The main altar</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture interrail/barcelona_sagrada5.jpg %}
+  <img src="/assets/images/fullsize/interrail/barcelona_sagrada5.jpg" alt="">
   <figcaption>The "our father" prayer in Catalan, with other partial translations behind</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture interrail/barcelona_sagrada6.jpg %}
+  <img src="/assets/images/fullsize/interrail/barcelona_sagrada6.jpg" alt="">
   <figcaption>The stained glass filled the church with blues and greens from one side, and red and orange from the other</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture interrail/barcelona_sagrada7.jpg %}
+  <img src="/assets/images/fullsize/interrail/barcelona_sagrada7.jpg" alt="">
   <figcaption>The ceiling</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture interrail/barcelona_sagrada8.jpg %}
+  <img src="/assets/images/fullsize/interrail/barcelona_sagrada8.jpg" alt="">
   <figcaption>A spiraling staircase up one of the towers</figcaption>
 </figure>
 
@@ -793,7 +793,7 @@ While in Barcelona I also tried a traditional Spanish meal: paella.
 ***
 
 <figure class="align-center">
-  {% picture interrail/barcelona_paella.jpg %}
+  <img src="/assets/images/fullsize/interrail/barcelona_paella.jpg" alt="">
   <figcaption>It was delicious</figcaption>
 </figure>
 

@@ -26,14 +26,14 @@ Over the weekend me and Eduardo went to Zurich. We took a FlixBus at 5am on Satu
 ***
 
 <figure class="align-center">
-  {% picture german-living/zurich_blue_lady.jpg %}
+  <img src="/assets/images/fullsize/german-living/zurich_blue_lady.jpg" alt="">
   <figcaption>A very big and blue welcome to Zurich in the train station</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/zurich_park_view.jpg %}
+  <img src="/assets/images/fullsize/german-living/zurich_park_view.jpg" alt="">
   <figcaption>View from a park on top of a hill</figcaption>
 </figure>
 
@@ -44,14 +44,14 @@ Apparently there is a very prestigious technical [university in Zurich](https://
 ***
 
 <figure class="align-center">
-  {% picture german-living/zurich_museum_maggie.jpg %}
+  <img src="/assets/images/fullsize/german-living/zurich_museum_maggie.jpg" alt="">
   <figcaption>Not entirely sure what this is</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/zurich_museum_fox.jpg %}
+  <img src="/assets/images/fullsize/german-living/zurich_museum_fox.jpg" alt="">
   <figcaption>What are you looking at???</figcaption>
 </figure>
 
@@ -62,7 +62,7 @@ We also walked just about as high as we could up the side of the mountain beside
 ***
 
 <figure class="align-center">
-  {% picture german-living/zurich_climb.jpg %}
+  <img src="/assets/images/fullsize/german-living/zurich_climb.jpg" alt="">
   <figcaption>Super foggy</figcaption>
 </figure>
 
@@ -73,49 +73,49 @@ There was a number of interesting sights to see around the city as well, and I'l
 ***
 
 <figure class="align-center">
-  {% picture german-living/zurich_watches.jpg %}
+  <img src="/assets/images/fullsize/german-living/zurich_watches.jpg" alt="">
   <figcaption>Watches on display at Swatches</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/zurich_buildings.jpg %}
+  <img src="/assets/images/fullsize/german-living/zurich_buildings.jpg" alt="">
   <figcaption>Random buildings</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/zurich_painting.jpg %}
+  <img src="/assets/images/fullsize/german-living/zurich_painting.jpg" alt="">
   <figcaption>Artistic side of a building</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/zurich_tesla1.jpg %}
+  <img src="/assets/images/fullsize/german-living/zurich_tesla1.jpg" alt="">
   <figcaption>Tesla dealership!</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/zurich_tesla2.jpg %}
+  <img src="/assets/images/fullsize/german-living/zurich_tesla2.jpg" alt="">
   <figcaption>More Tesla signage</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/zurich_aelpli.jpg %}
+  <img src="/assets/images/fullsize/german-living/zurich_aelpli.jpg" alt="">
   <figcaption>The AirBnB we stayed at was above this Swiss pub</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/zurich_station.jpg %}
+  <img src="/assets/images/fullsize/german-living/zurich_station.jpg" alt="">
   <figcaption>One of the train stations in Zurich</figcaption>
 </figure>
 
@@ -126,42 +126,42 @@ On Sunday the weather was much better. The fog was still there in the morning, b
 ***
 
 <figure class="align-center">
-  {% picture german-living/zurich_ski_resort.jpg %}
+  <img src="/assets/images/fullsize/german-living/zurich_ski_resort.jpg" alt="">
   <figcaption>Some buildings in front of more mountains</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/zurich_xc_ski.jpg %}
+  <img src="/assets/images/fullsize/german-living/zurich_xc_ski.jpg" alt="">
   <figcaption>Plenty of cross country skiing trails</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/zurich_peak.jpg %}
+  <img src="/assets/images/fullsize/german-living/zurich_peak.jpg" alt="">
   <figcaption>There's a lake between the mountain I'm on and the ones in the background!</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/zurich_ski_houses.jpg %}
+  <img src="/assets/images/fullsize/german-living/zurich_ski_houses.jpg" alt="">
   <figcaption>I assume these are mostly rental homes for avid skiing families / groups</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/zurich_gondola.jpg %}
+  <img src="/assets/images/fullsize/german-living/zurich_gondola.jpg" alt="">
   <figcaption>Coming down the ski lift</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/zurich_lake.jpg %}
+  <img src="/assets/images/fullsize/german-living/zurich_lake.jpg" alt="">
   <figcaption>At the tip of the lake between the mountains</figcaption>
 </figure>
 
@@ -178,14 +178,14 @@ On Wednesday, we attended a conference / trade show all about embedded systems, 
 ***
 
 <figure class="align-center">
-  {% picture german-living/embedded_world_exit.jpg %}
+  <img src="/assets/images/fullsize/german-living/embedded_world_exit.jpg" alt="">
   <figcaption>Hard to miss our exit with this signage</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/embedded_world_autobahn.jpg %}
+  <img src="/assets/images/fullsize/german-living/embedded_world_autobahn.jpg" alt="">
   <figcaption>Officially have been in a car on the autobahn now</figcaption>
 </figure>
 
@@ -196,28 +196,28 @@ When we arrived in Nuremburg at the conference center, we realized that our tick
 ***
 
 <figure class="align-center">
-  {% picture german-living/embedded_world_panel.jpg %}
+  <img src="/assets/images/fullsize/german-living/embedded_world_panel.jpg" alt="">
   <figcaption>Very interesting "embedded vision" panel dicussion with some notable participants</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/embedded_world_porsche.jpg %}
+  <img src="/assets/images/fullsize/german-living/embedded_world_porsche.jpg" alt="">
   <figcaption>Lots of embedded systems in cars all of types</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/embedded_world_race_car.jpg %}
+  <img src="/assets/images/fullsize/german-living/embedded_world_race_car.jpg" alt="">
   <figcaption>Another fun car</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/embedded_world_floor.jpg %}
+  <img src="/assets/images/fullsize/german-living/embedded_world_floor.jpg" alt="">
   <figcaption>What most of the exhibition area looked like</figcaption>
 </figure>
 
@@ -230,14 +230,14 @@ Apparently this past week was much colder than usual for this time year in Germa
 ***
 
 <figure class="align-center">
-  {% picture german-living/frozen_stuttgart.jpg %}
+  <img src="/assets/images/fullsize/german-living/frozen_stuttgart.jpg" alt="">
   <figcaption>Parts of a fountain by our house were frozen</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/frozen_zurich.jpg %}
+  <img src="/assets/images/fullsize/german-living/frozen_zurich.jpg" alt="">
   <figcaption>But this fountain in Zurich was frozen in a much more impressive way</figcaption>
 </figure>
 

@@ -26,7 +26,7 @@ The weekend trip to Frankfurt started sub-optimally, with our [FlixBus](https://
 ***
 
 <figure class="align-center">
-  {% picture german-living/stuttgart_airport_top.jpg %}
+  <img src="/assets/images/fullsize/german-living/stuttgart_airport_top.jpg" alt="">
   <figcaption>Loving the symmetry of the Stuttgart airport</figcaption>
 </figure>
 
@@ -37,28 +37,28 @@ On an upper floor of the airport, near where I took the photo above, there were 
 ***
 
 <figure class="align-center">
-  {% picture german-living/stuttgart_airport_engine.jpg %}
+  <img src="/assets/images/fullsize/german-living/stuttgart_airport_engine.jpg" alt="">
   <figcaption>Old airplane engine and Eduardo</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/stuttgart_airport_plane1.jpg %}
+  <img src="/assets/images/fullsize/german-living/stuttgart_airport_plane1.jpg" alt="">
   <figcaption>One of the planes on display</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/stuttgart_airport_plane2.jpg %}
+  <img src="/assets/images/fullsize/german-living/stuttgart_airport_plane2.jpg" alt="">
   <figcaption>Another plane on display</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/stuttgart_airport_helicopter.jpg %}
+  <img src="/assets/images/fullsize/german-living/stuttgart_airport_helicopter.jpg" alt="">
   <figcaption>Helicopter on display</figcaption>
 </figure>
 
@@ -69,14 +69,14 @@ Friday night, after we arrived, we roamed around Frankfurt for a little bit, and
 ***
 
 <figure class="align-center">
-  {% picture german-living/frankfurt_hostel_sign.jpg %}
+  <img src="/assets/images/fullsize/german-living/frankfurt_hostel_sign.jpg" alt="">
   <figcaption>Friendly vibes at the hostel</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/frankfurt_hostel_reception.jpg %}
+  <img src="/assets/images/fullsize/german-living/frankfurt_hostel_reception.jpg" alt="">
   <figcaption>Main reception area, which is where the free dinner & breakfast are. There is also a bar off to the side</figcaption>
 </figure>
 
@@ -87,14 +87,14 @@ We spent most of Sunday walking around, and seeing what we could find. There was
 ***
 
 <figure class="align-center">
-  {% picture german-living/frankfurt_tower1.jpg %}
+  <img src="/assets/images/fullsize/german-living/frankfurt_tower1.jpg" alt="">
   <figcaption>Tower seen from fairly far away</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/frankfurt_tower2.jpg %}
+  <img src="/assets/images/fullsize/german-living/frankfurt_tower2.jpg" alt="">
   <figcaption>Taken from the base of the tower</figcaption>
 </figure>
 
@@ -107,14 +107,14 @@ During our walk to the tower, we also saw a very creative entrance to a subway. 
 ***
 
 <figure class="align-center">
-  {% picture german-living/frankfurt_subway_entrance1.jpg %}
+  <img src="/assets/images/fullsize/german-living/frankfurt_subway_entrance1.jpg" alt="">
   <figcaption>Entrance to the subway</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/frankfurt_subway_entrance2.jpg %}
+  <img src="/assets/images/fullsize/german-living/frankfurt_subway_entrance2.jpg" alt="">
   <figcaption>Another view of the subway entrance</figcaption>
 </figure>
 
@@ -125,14 +125,14 @@ Just a block away from the subway entrance, there was a museum that piqued our i
 ***
 
 <figure class="align-center">
-  {% picture german-living/frankfurt_t-rex.jpg %}
+  <img src="/assets/images/fullsize/german-living/frankfurt_t-rex.jpg" alt="">
   <figcaption>Classiest t-rex I've ever seen</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/frankfurt_brontosaurus.jpg %}
+  <img src="/assets/images/fullsize/german-living/frankfurt_brontosaurus.jpg" alt="">
   <figcaption>Tiny hat for a big dinosaur</figcaption>
 </figure>
 
@@ -143,42 +143,42 @@ The [museum](http://www.senckenberg.de/) was awesome, and we didn't even get to 
 ***
 
 <figure class="align-center">
-  {% picture german-living/frankfurt_museum_bluejay.jpg %}
+  <img src="/assets/images/fullsize/german-living/frankfurt_museum_bluejay.jpg" alt="">
   <figcaption>A familiar looking bird</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/frankfurt_museum_pangolin.jpg %}
+  <img src="/assets/images/fullsize/german-living/frankfurt_museum_pangolin.jpg" alt="">
   <figcaption>A pangolin</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/frankfurt_museum_t-rex_skeleton.jpg %}
+  <img src="/assets/images/fullsize/german-living/frankfurt_museum_t-rex_skeleton.jpg" alt="">
   <figcaption>This one doesn't wear any t-shirts</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/frankfurt_museum_triceratops_skeleton.jpg %}
+  <img src="/assets/images/fullsize/german-living/frankfurt_museum_triceratops_skeleton.jpg" alt="">
   <figcaption>Triceratops skeleton</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/frankfurt_museum_ichthyosaur_skeleton.jpg %}
+  <img src="/assets/images/fullsize/german-living/frankfurt_museum_ichthyosaur_skeleton.jpg" alt="">
   <figcaption>An ichthyosaur skeleton</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/frankfurt_museum_minerals.jpg %}
+  <img src="/assets/images/fullsize/german-living/frankfurt_museum_minerals.jpg" alt="">
   <figcaption>"Jesus Christ Marie, they're not rocks. They're minerals!"</figcaption>
 </figure>
 
@@ -189,14 +189,14 @@ My favorite display was the temporary bio-diversity exhibit. It showcases the di
 ***
 
 <figure class="align-center">
-  {% picture german-living/frankfurt_museum_diversity1.jpg %}
+  <img src="/assets/images/fullsize/german-living/frankfurt_museum_diversity1.jpg" alt="">
   <figcaption>The bio-diversity exhibit</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/frankfurt_museum_diversity2.jpg %}
+  <img src="/assets/images/fullsize/german-living/frankfurt_museum_diversity2.jpg" alt="">
   <figcaption>Another view</figcaption>
 </figure>
 
@@ -207,7 +207,7 @@ Another feature I was impressed with was the interactive touch display that they
 ***
 
 <figure class="align-center">
-  {% picture german-living/frankfurt_museum_diversity3.jpg %}
+  <img src="/assets/images/fullsize/german-living/frankfurt_museum_diversity3.jpg" alt="">
   <figcaption>Interactive display for the bio-diversity exhibit</figcaption>
 </figure>
 
@@ -218,14 +218,14 @@ While walking to our train station later that afternoon, we were treated to some
 ***
 
 <figure class="align-center">
-  {% picture german-living/frankfurt_skyline1.jpg %}
+  <img src="/assets/images/fullsize/german-living/frankfurt_skyline1.jpg" alt="">
   <figcaption>Frankfurt skyline</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/frankfurt_skyline2.jpg %}
+  <img src="/assets/images/fullsize/german-living/frankfurt_skyline2.jpg" alt="">
   <figcaption>More of the Frankfurt skyline</figcaption>
 </figure>
 
@@ -244,7 +244,7 @@ When I want to count something on my fingers, my index finger starts as 1, and t
 ***
 
 <figure class="align-center">
-  {% picture german-living/count_canada.jpg %}
+  <img src="/assets/images/fullsize/german-living/count_canada.jpg" alt="">
   <figcaption>How I'm used to counting on my fingers</figcaption>
 </figure>
 
@@ -255,7 +255,7 @@ However, this isn't how it's done in Germany. Like most things here, it's done i
 ***
 
 <figure class="align-center">
-  {% picture german-living/count_germany.jpg %}
+  <img src="/assets/images/fullsize/german-living/count_germany.jpg" alt="">
   <figcaption>Logical German / European way to count</figcaption>
 </figure>
 
@@ -268,7 +268,7 @@ When I think of a pepperoni pizza, I think of the following:
 ***
 
 <figure class="align-center">
-  {% picture german-living/pepperoni_pizza_canada.jpg %}
+  <img src="/assets/images/fullsize/german-living/pepperoni_pizza_canada.jpg" alt="">
   <figcaption>Canadian pepperoni pizza</figcaption>
 </figure>
 
@@ -284,7 +284,7 @@ The first time I saw one of these machines in a bathroom I was bamboozled. I thi
 ***
 
 <figure class="align-center">
-  {% picture german-living/bathroom_cloth.jpg %}
+  <img src="/assets/images/fullsize/german-living/bathroom_cloth.jpg" alt="">
   <figcaption>A "roll cloth towel dispenser"</figcaption>
 </figure>
 
@@ -297,7 +297,7 @@ It makes sense that Germany would have a different keyboard layout than Canada, 
 ***
 
 <figure class="align-center">
-  {% picture german-living/keyboard_german.jpg %}
+  <img src="/assets/images/fullsize/german-living/keyboard_german.jpg" alt="">
   <figcaption>German keyboard layout</figcaption>
 </figure>
 
@@ -330,7 +330,7 @@ Friday night we went to an [underground jazz club](http://www.indermitte.de/) in
 ***
 
 <figure class="align-center">
-  {% picture german-living/jazz.jpg %}
+  <img src="/assets/images/fullsize/german-living/jazz.jpg" alt="">
   <figcaption>Underground jazz bar</figcaption>
 </figure>
 
@@ -344,7 +344,7 @@ We don't directly see it while we're working, but the view from our floor at Bos
 ***
 
 <figure class="align-center">
-  {% picture german-living/BST_view.jpg %}
+  <img src="/assets/images/fullsize/german-living/BST_view.jpg" alt="">
   <figcaption>View from the fourth floor of BST</figcaption>
 </figure>
 
@@ -355,7 +355,7 @@ I also wanted to document what the Bosch cafeteria is like in the technology par
 ***
 
 <figure class="align-center">
-  {% picture german-living/BST_meal.jpg %}
+  <img src="/assets/images/fullsize/german-living/BST_meal.jpg" alt="">
   <figcaption>Normal meal, not super cheap, but delicious</figcaption>
 </figure>
 

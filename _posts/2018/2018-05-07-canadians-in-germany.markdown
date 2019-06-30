@@ -34,35 +34,35 @@ The first big trip we made was on Saturday (April 28), when we drove to the Neus
 ***
 
 <figure class="align-center">
-  {% picture german-living/neuschwanstein1.jpg %}
+  <img src="/assets/images/fullsize/german-living/neuschwanstein1.jpg" alt="">
   <figcaption>The first glimpse we got of the castle</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/neuschwanstein2.jpg %}
+  <img src="/assets/images/fullsize/german-living/neuschwanstein2.jpg" alt="">
   <figcaption>A closer view</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/neuschwanstein5.jpg %}
+  <img src="/assets/images/fullsize/german-living/neuschwanstein5.jpg" alt="">
   <figcaption>Me and Amy near the entrance to the castle courtyard</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/neuschwanstein3.jpg %}
+  <img src="/assets/images/fullsize/german-living/neuschwanstein3.jpg" alt="">
   <figcaption>The inner courtyard</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/neuschwanstein4.jpg %}
+  <img src="/assets/images/fullsize/german-living/neuschwanstein4.jpg" alt="">
   <figcaption>Probably my favorite picture I took of the castle</figcaption>
 </figure>
 
@@ -75,7 +75,7 @@ After seeing the castle, we headed up the nearby hills to hike on some trails. T
 ***
 
 <figure class="align-center">
-  {% picture german-living/neuschwanstein_header.jpg %}
+  <img src="/assets/images/fullsize/german-living/neuschwanstein_header.jpg" alt="">
   <figcaption>Couldn't believe that there was a smaller castle nearby as well!!</figcaption>
 </figure>
 
@@ -86,42 +86,42 @@ Interesting fact about the above picture: that smaller, yellow [Hohenschwangau c
 ***
 
 <figure class="align-center">
-  {% picture german-living/neuschwanstein_trail2.jpg %}
+  <img src="/assets/images/fullsize/german-living/neuschwanstein_trail2.jpg" alt="">
   <figcaption>On our way to the trails, another view of the castle</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/neuschwanstein_trail1.jpg %}
+  <img src="/assets/images/fullsize/german-living/neuschwanstein_trail1.jpg" alt="">
   <figcaption>Incredible view</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/neuschwanstein_trail3.jpg %}
+  <img src="/assets/images/fullsize/german-living/neuschwanstein_trail3.jpg" alt="">
   <figcaption>Near the start of the trails we followed</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/neuschwanstein_trail4.jpg %}
+  <img src="/assets/images/fullsize/german-living/neuschwanstein_trail4.jpg" alt="">
   <figcaption>Our turn around point</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/neuschwanstein_trail5.jpg %}
+  <img src="/assets/images/fullsize/german-living/neuschwanstein_trail5.jpg" alt="">
   <figcaption>Me and Ryan</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/neuschwanstein_trail6.jpg %}
+  <img src="/assets/images/fullsize/german-living/neuschwanstein_trail6.jpg" alt="">
   <figcaption>Amy and Ryan</figcaption>
 </figure>
 
@@ -134,28 +134,28 @@ After hiking, we went to the nearest fairly large town, [Füssen.](https://en.wi
 ***
 
 <figure class="align-center">
-  {% picture german-living/fussen.jpg %}
+  <img src="/assets/images/fullsize/german-living/fussen.jpg" alt="">
   <figcaption>Climbing the clock tower in Füssen</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/fussen_art1.jpg %}
+  <img src="/assets/images/fullsize/german-living/fussen_art1.jpg" alt="">
   <figcaption>Inside of the art gallery</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/fussen_art2.jpg %}
+  <img src="/assets/images/fullsize/german-living/fussen_art2.jpg" alt="">
   <figcaption>Bringing me back to high school band</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/fussen_art3.jpg %}
+  <img src="/assets/images/fullsize/german-living/fussen_art3.jpg" alt="">
   <figcaption>Guyyyyyys your halos are blocking me</figcaption>
 </figure>
 
@@ -166,7 +166,7 @@ After a long day of adventuring, I was very grateful when Amy offered to cook su
 ***
 
 <figure class="align-center">
-  {% picture german-living/amy_cooking.jpg %}
+  <img src="/assets/images/fullsize/german-living/amy_cooking.jpg" alt="">
   <figcaption>Best meal I've had at home in a while</figcaption>
 </figure>
 
@@ -181,7 +181,7 @@ I thought it would be cool to go on a cable car that went up a mountain in the B
 ***
 
 <figure class="align-center">
-  {% picture german-living/cablecar1.jpg %}
+  <img src="/assets/images/fullsize/german-living/cablecar1.jpg" alt="">
   <figcaption>The top of the cable car ascent</figcaption>
 </figure>
 
@@ -194,14 +194,14 @@ After going up, hiking a little, and going back down the cable car, we wanted to
 ***
 
 <figure class="align-center">
-  {% picture german-living/black_forest_glass2.jpg %}
+  <img src="/assets/images/fullsize/german-living/black_forest_glass2.jpg" alt="">
   <figcaption>Glass and its history in the Black Forest</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/black_forest_glass1.jpg %}
+  <img src="/assets/images/fullsize/german-living/black_forest_glass1.jpg" alt="">
   <figcaption>Inside of the glassworks shop</figcaption>
 </figure>
 
@@ -214,84 +214,84 @@ After spending some time in the little community, we started out on the trail.
 ***
 
 <figure class="align-center">
-  {% picture german-living/black_forest_hike1.jpg %}
+  <img src="/assets/images/fullsize/german-living/black_forest_hike1.jpg" alt="">
   <figcaption>The very start of the trail was marked by this bridge</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/black_forest_hike2.jpg %}
+  <img src="/assets/images/fullsize/german-living/black_forest_hike2.jpg" alt="">
   <figcaption>Ryan crossing a smaller bridge</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/black_forest_hike3.jpg %}
+  <img src="/assets/images/fullsize/german-living/black_forest_hike3.jpg" alt="">
   <figcaption>There were plenty of waterfalls along the trail</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/black_forest_hike4.jpg %}
+  <img src="/assets/images/fullsize/german-living/black_forest_hike4.jpg" alt="">
   <figcaption>A nice boulder</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/black_forest_hike5.jpg %}
+  <img src="/assets/images/fullsize/german-living/black_forest_hike5.jpg" alt="">
   <figcaption>Mysterious lettering carved in a rock</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/black_forest_hike10.jpg %}
+  <img src="/assets/images/fullsize/german-living/black_forest_hike10.jpg" alt="">
   <figcaption>This area was briefly turned into a photo shoot</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/black_forest_hike6.jpg %}
+  <img src="/assets/images/fullsize/german-living/black_forest_hike6.jpg" alt="">
   <figcaption>Ryan's turn on the photo rock</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/black_forest_hike7.jpg %}
+  <img src="/assets/images/fullsize/german-living/black_forest_hike7.jpg" alt="">
   <figcaption>And Amy took a turn as well</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/black_forest_hike8.jpg %}
+  <img src="/assets/images/fullsize/german-living/black_forest_hike8.jpg" alt="">
   <figcaption>An old waterwheel</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/black_forest_hike9.jpg %}
+  <img src="/assets/images/fullsize/german-living/black_forest_hike9.jpg" alt="">
   <figcaption>More water</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/black_forest_hike11.jpg %}
+  <img src="/assets/images/fullsize/german-living/black_forest_hike11.jpg" alt="">
   <figcaption>Water makes me happy</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/black_forest_hike12.jpg %}
+  <img src="/assets/images/fullsize/german-living/black_forest_hike12.jpg" alt="">
   <figcaption>Tourists in their natural habitat</figcaption>
 </figure>
 
@@ -304,14 +304,14 @@ During our drive through the Black Forest area, one of the major highways was cl
 ***
 
 <figure class="align-center">
-  {% picture german-living/black_forest_dam1.jpg %}
+  <img src="/assets/images/fullsize/german-living/black_forest_dam1.jpg" alt="">
   <figcaption>The dam as seen from the road</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/black_forest_dam2.jpg %}
+  <img src="/assets/images/fullsize/german-living/black_forest_dam2.jpg" alt="">
   <figcaption>From on top of the dam</figcaption>
 </figure>
 
@@ -324,21 +324,21 @@ Another destination we wanted to get to in the Black Forest was [Triberg,](https
 ***
 
 <figure class="align-center">
-  {% picture german-living/triberg_waterfall1.jpg %}
+  <img src="/assets/images/fullsize/german-living/triberg_waterfall1.jpg" alt="">
   <figcaption>Part of the Triberg waterfalls</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/triberg_waterfall2.jpg %}
+  <img src="/assets/images/fullsize/german-living/triberg_waterfall2.jpg" alt="">
   <figcaption>Water continues to make me happy</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/triberg1.jpg %}
+  <img src="/assets/images/fullsize/german-living/triberg1.jpg" alt="">
   <figcaption>Near where we parked in downtown Triberg</figcaption>
 </figure>
 
@@ -351,7 +351,7 @@ We walked around Triberg for a while, and saw on a map that the biggest cuckoo c
 ***
 
 <figure class="align-center">
-  {% picture german-living/triberg_cuckoo.jpg %}
+  <img src="/assets/images/fullsize/german-living/triberg_cuckoo.jpg" alt="">
   <figcaption>You can really feel the excitement</figcaption>
 </figure>
 
@@ -370,14 +370,14 @@ I had Tuesday (May 1st) off work, so all the Canadians that were here at that po
 ***
 
 <figure class="align-center">
-  {% picture german-living/tubingen_tower_river.jpg %}
+  <img src="/assets/images/fullsize/german-living/tubingen_tower_river.jpg" alt="">
   <figcaption>A great view of the river from the top of the tower</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/tubingen_tower_castle.jpg %}
+  <img src="/assets/images/fullsize/german-living/tubingen_tower_castle.jpg" alt="">
   <figcaption>And another great view, this time of the castle</figcaption>
 </figure>
 
@@ -390,7 +390,7 @@ The highlight of the day had to the [punting boat](https://en.wikipedia.org/wiki
 ***
 
 <figure class="align-center">
-  {% picture german-living/tubingen_punting_boats.jpg %}
+  <img src="/assets/images/fullsize/german-living/tubingen_punting_boats.jpg" alt="">
   <figcaption>A (very bad) picture of the punting boats</figcaption>
 </figure>
 
@@ -405,7 +405,7 @@ He also described the punt boat races that take place every year in Tübingen, a
 ***
 
 <figure class="align-center">
-  {% picture german-living/tubingen_claus_race.jpg %}
+  <img src="/assets/images/fullsize/german-living/tubingen_claus_race.jpg" alt="">
   <figcaption>Claus is on the back of the boat, pushing them along</figcaption>
 </figure>
 
@@ -416,7 +416,7 @@ To see more of the pictures in better quality, and to see what the punt races ac
 ***
 
 <figure class="align-center">
-  {% picture german-living/tubingen_claus.jpg %}
+  <img src="/assets/images/fullsize/german-living/tubingen_claus.jpg" alt="">
   <figcaption>The print that Claus gave to us</figcaption>
 </figure>
 

@@ -33,7 +33,7 @@ We took off Thursday afternoon in order to catch our [easyJet](https://www.easyj
 ***
 
 <figure class="align-center">
-  {% picture german-living/easyjet.jpg %}
+  <img src="/assets/images/fullsize/german-living/easyjet.jpg" alt="">
   <figcaption>View from the easyJet flight</figcaption>
 </figure>
 
@@ -44,7 +44,7 @@ We didn't do too much during our first night in Milan. We went to a pizza place 
 ***
 
 <figure class="align-center">
-  {% picture german-living/milan_pizza.jpg %}
+  <img src="/assets/images/fullsize/german-living/milan_pizza.jpg" alt="">
   <figcaption>Not the Italian pizza we were expecting</figcaption>
 </figure>
 
@@ -55,28 +55,28 @@ On Friday we got to see probably the most beautiful attraction in Milan, the [Du
 ***
 
 <figure class="align-center">
-  {% picture german-living/duomo1.jpg %}
+  <img src="/assets/images/fullsize/german-living/duomo1.jpg" alt="">
   <figcaption>View from the front</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/duomo2.jpg %}
+  <img src="/assets/images/fullsize/german-living/duomo2.jpg" alt="">
   <figcaption>Side of the Duomo</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/duomo3.jpg %}
+  <img src="/assets/images/fullsize/german-living/duomo3.jpg" alt="">
   <figcaption>Main square in front of the Duomo</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/duomo4.jpg %}
+  <img src="/assets/images/fullsize/german-living/duomo4.jpg" alt="">
   <figcaption>Incredibly ornate door</figcaption>
 </figure>
 
@@ -87,21 +87,21 @@ Right beside the Duomo, there was a shopping center filled with luxury brands (L
 ***
 
 <figure class="align-center">
-  {% picture german-living/shopping1.jpg %}
+  <img src="/assets/images/fullsize/german-living/shopping1.jpg" alt="">
   <figcaption>Looking into the shopping center</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/shopping2.jpg %}
+  <img src="/assets/images/fullsize/german-living/shopping2.jpg" alt="">
   <figcaption>Louis Vuitton store</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/shopping3.jpg %}
+  <img src="/assets/images/fullsize/german-living/shopping3.jpg" alt="">
   <figcaption>VERSACE VERSACE</figcaption>
 </figure>
 
@@ -112,28 +112,28 @@ We walked around the city more after seeing the Duomo, and headed to an arch cal
 ***
 
 <figure class="align-center">
-  {% picture german-living/milan_arch1.jpg %}
+  <img src="/assets/images/fullsize/german-living/milan_arch1.jpg" alt="">
   <figcaption>The Porta Sempione</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/milan_arch2.jpg %}
+  <img src="/assets/images/fullsize/german-living/milan_arch2.jpg" alt="">
   <figcaption>From behind</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/milan_arch3.jpg %}
+  <img src="/assets/images/fullsize/german-living/milan_arch3.jpg" alt="">
   <figcaption>Slighly closer view</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/milan_park_tree.jpg %}
+  <img src="/assets/images/fullsize/german-living/milan_park_tree.jpg" alt="">
   <figcaption>Tree in the park</figcaption>
 </figure>
 
@@ -144,14 +144,14 @@ We also walked to an old castle (the [Sforza Castle](https://en.wikipedia.org/wi
 ***
 
 <figure class="align-center">
-  {% picture german-living/milan_castle1.jpg %}
+  <img src="/assets/images/fullsize/german-living/milan_castle1.jpg" alt="">
   <figcaption>The main tower from the front</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/milan_castle2.jpg %}
+  <img src="/assets/images/fullsize/german-living/milan_castle2.jpg" alt="">
   <figcaption>And from the back</figcaption>
 </figure>
 
@@ -162,7 +162,7 @@ Since we had brought our Canadian flag along (shout-out to R.J. for sending it t
 ***
 
 <figure class="align-center">
-  {% picture german-living/milan_group.jpg %}
+  <img src="/assets/images/fullsize/german-living/milan_group.jpg" alt="">
   <figcaption>Trying not to look too much like tourists</figcaption>
 </figure>
 
@@ -177,21 +177,21 @@ On Saturday, we slept in a little and then headed to a [science and technology m
 ***
 
 <figure class="align-center">
-  {% picture german-living/milan_leo1.jpg %}
+  <img src="/assets/images/fullsize/german-living/milan_leo1.jpg" alt="">
   <figcaption>Example of a model demonstrating his design for a hydro-powered saw</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/milan_leo2.jpg %}
+  <img src="/assets/images/fullsize/german-living/milan_leo2.jpg" alt="">
   <figcaption>DaVinci is famous for his interest in flight</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/milan_leo3.jpg %}
+  <img src="/assets/images/fullsize/german-living/milan_leo3.jpg" alt="">
   <figcaption>He also had a great interest in human anatomy</figcaption>
 </figure>
 
@@ -202,7 +202,7 @@ Another interesting part of the museum was the section on space.
 ***
 
 <figure class="align-center">
-  {% picture german-living/milan_telescope.jpg %}
+  <img src="/assets/images/fullsize/german-living/milan_telescope.jpg" alt="">
   <figcaption>Massive old telescope</figcaption>
 </figure>
 
@@ -213,14 +213,14 @@ The coolest part of the space exhibit for me was seeing an actual rock from the 
 ***
 
 <figure class="align-center">
-  {% picture german-living/milan_moon1.jpg %}
+  <img src="/assets/images/fullsize/german-living/milan_moon1.jpg" alt="">
   <figcaption>The actual moon rock</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/milan_moon2.jpg %}
+  <img src="/assets/images/fullsize/german-living/milan_moon2.jpg" alt="">
   <figcaption>The accompanying plaque</figcaption>
 </figure>
 
@@ -234,7 +234,7 @@ On Sunday we made a day trip to Bologna. Before our train left we had some time 
 ***
 
 <figure class="align-center">
-  {% picture german-living/milan_plants_building.jpg %}
+  <img src="/assets/images/fullsize/german-living/milan_plants_building.jpg" alt="">
   <figcaption>The buildings covered in plants</figcaption>
 </figure>
 
@@ -245,7 +245,7 @@ After our train arrived in Bologna (we took a high speed train which traveled at
 ***
 
 <figure class="align-center">
-  {% picture german-living/bolognese.jpg %}
+  <img src="/assets/images/fullsize/german-living/bolognese.jpg" alt="">
   <figcaption>Bolognese sauce on some sort of pasta whose name I forget</figcaption>
 </figure>
 
@@ -256,21 +256,21 @@ I'm not sure of any of the names of major buildings in Bologna, but I'll put som
 ***
 
 <figure class="align-center">
-  {% picture german-living/bologna1.jpg %}
+  <img src="/assets/images/fullsize/german-living/bologna1.jpg" alt="">
   <figcaption></figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/bologna2.jpg %}
+  <img src="/assets/images/fullsize/german-living/bologna2.jpg" alt="">
   <figcaption></figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  {% picture german-living/bologna3.jpg %}
+  <img src="/assets/images/fullsize/german-living/bologna3.jpg" alt="">
   <figcaption></figcaption>
 </figure>
 
