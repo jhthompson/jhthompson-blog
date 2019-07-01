@@ -23,14 +23,14 @@ There were two street food festivals this weekend, one in [Reutlingen,](http://s
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/metzingen_food.jpg" alt="">
+  {% cloudinary /assets/images/fullsize/german-living/metzingen_food.jpg" %}
   <figcaption>Some frozen yogurt in Metzingen</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/metzingen_food2.jpeg" alt="">
+  {% cloudinary /assets/images/fullsize/german-living/metzingen_food2.jpeg" %}
   <figcaption>More food from Metzingen</figcaption>
 </figure>
 
@@ -43,7 +43,7 @@ While we were in Metzingen we also went to [Outletcity.](https://www.outletcity.
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/metzingen_outletcity.jpg" alt="">
+  {% cloudinary /assets/images/fullsize/german-living/metzingen_outletcity.jpg" %}
   <figcaption>Outletcity in Metzingen</figcaption>
 </figure>
 

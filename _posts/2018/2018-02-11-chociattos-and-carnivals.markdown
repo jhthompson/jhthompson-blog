@@ -30,7 +30,7 @@ Have you ever wondered what company makes the sensors that go into your smartpho
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/sensors_screenshot.jpg" alt="">
+  {% cloudinary /assets/images/fullsize/german-living/sensors_screenshot.jpg" %}
   <figcaption>Some of the sensors in my personal device. The BMI 160 is a particularly popular Bosch sensor</figcaption>
 </figure>
 
@@ -47,14 +47,14 @@ Thursday night, we decided to go out and get some pizza. Not knowing where to go
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/pizza_planet1.jpg" alt="">
+  {% cloudinary /assets/images/fullsize/german-living/pizza_planet1.jpg" %}
   <figcaption>We ordered pizza from this exact guy!</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/pizza_planet2.jpg" alt="">
+  {% cloudinary /assets/images/fullsize/german-living/pizza_planet2.jpg" %}
   <figcaption>The good stuff</figcaption>
 </figure>
 
@@ -82,14 +82,14 @@ Also, we have some pretty fun tools to work with. One of our major objectives at
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/turtlebot.jpg" alt="">
+  {% cloudinary /assets/images/fullsize/german-living/turtlebot.jpg" %}
   <figcaption>Our Turtlebot robotic platform</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/computers.jpg" alt="">
+  {% cloudinary /assets/images/fullsize/german-living/computers.jpg" %}
   <figcaption>44GB of RAM between these three machines...</figcaption>
 </figure>
 
@@ -102,35 +102,35 @@ As per the advice of someone who had grown up in Reutlingen, we spent most of th
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/rottenburg2.jpg" alt="">
+  {% cloudinary /assets/images/fullsize/german-living/rottenburg2.jpg" %}
   <figcaption>Kartoffelspirale!!!</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/rottenburg1.jpg" alt="">
+  {% cloudinary /assets/images/fullsize/german-living/rottenburg1.jpg" %}
   <figcaption>The more ridiculous your costume the better</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/rottenburg3.jpg" alt="">
+  {% cloudinary /assets/images/fullsize/german-living/rottenburg3.jpg" %}
   <figcaption>A more traditional sort of costume</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/rottenburg4.jpg" alt="">
+  {% cloudinary /assets/images/fullsize/german-living/rottenburg4.jpg" %}
   <figcaption>First look we got at the town</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/rottenburg5.jpg" alt="">
+  {% cloudinary /assets/images/fullsize/german-living/rottenburg5.jpg" %}
   <figcaption>Bridge in town</figcaption>
 </figure>
 
@@ -141,28 +141,28 @@ I'm not sure exactly what the history behind the carnival is, but in the parade 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/rottenburg6.jpg" alt="">
+  {% cloudinary /assets/images/fullsize/german-living/rottenburg6.jpg" %}
   <figcaption>Interesting vehicle</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/rottenburg7.jpg" alt="">
+  {% cloudinary /assets/images/fullsize/german-living/rottenburg7.jpg" %}
   <figcaption>So many costumes</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/rottenburg8.jpg" alt="">
+  {% cloudinary /assets/images/fullsize/german-living/rottenburg8.jpg" %}
   <figcaption>Colorful, nature themed people</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/rottenburg10.jpg" alt="">
+  {% cloudinary /assets/images/fullsize/german-living/rottenburg10.jpg" %}
   <figcaption>Couple of birds</figcaption>
 </figure>
 
@@ -177,7 +177,7 @@ There were also multiple sections in the parade where the participants would go 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/rottenburg9.jpg" alt="">
+  {% cloudinary /assets/images/fullsize/german-living/rottenburg9.jpg" %}
   <figcaption>The aftermath of the parade (that's not snow or ice, it's confetti)</figcaption>
 </figure>
 
@@ -190,7 +190,7 @@ If you ever find yourself in Reutlingen and are looking for a chill spot to have
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/berg.jpg" alt="">
+  {% cloudinary /assets/images/fullsize/german-living/berg.jpg" %}
   <figcaption>Beer from Kali</figcaption>
 </figure>
 

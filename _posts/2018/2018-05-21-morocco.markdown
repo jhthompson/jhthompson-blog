@@ -31,7 +31,7 @@ We took a Ryanair flight from [Memmingen,](https://www.allgaeu-airport.com/) a s
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/morocco_flight.jpg" alt="">
+  {% cloudinary /assets/images/fullsize/german-living/morocco_flight.jpg" %}
   <figcaption>Our Ryanair flight from Munich to Fez</figcaption>
 </figure>
 
@@ -44,28 +44,28 @@ The food in Morocco was some of the best I've ever had in my life. I didn't get 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/morocco_food1.jpeg" alt="">
+  {% cloudinary /assets/images/fullsize/german-living/morocco_food1.jpeg" %}
   <figcaption>A big goldfish cracker (actually a pastry filled with seafood)</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/morocco_food2.jpeg" alt="">
+  {% cloudinary /assets/images/fullsize/german-living/morocco_food2.jpeg" %}
   <figcaption>Sweet chicken with various toppings</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/morocco_food3.jpeg" alt="">
+  {% cloudinary /assets/images/fullsize/german-living/morocco_food3.jpeg" %}
   <figcaption>Post meal dessert and snacks</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/morocco_food4.jpg" alt="">
+  {% cloudinary /assets/images/fullsize/german-living/morocco_food4.jpg" %}
   <figcaption>Salad and other vegetables</figcaption>
 </figure>
 
@@ -94,49 +94,49 @@ The most impressive building I saw in Casablanca would have to be the [Hassan II
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/morocco_mosque.jpg" alt="">
+  {% cloudinary /assets/images/fullsize/german-living/morocco_mosque.jpg" %}
   <figcaption>View of the entire mosque</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/morocco_mosque1.jpg" alt="">
+  {% cloudinary /assets/images/fullsize/german-living/morocco_mosque1.jpg" %}
   <figcaption>One of the entrances</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/morocco_mosque2.jpg" alt="">
+  {% cloudinary /assets/images/fullsize/german-living/morocco_mosque2.jpg" %}
   <figcaption>I think this was the entrance for the men</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/morocco_mosque3.jpg" alt="">
+  {% cloudinary /assets/images/fullsize/german-living/morocco_mosque3.jpg" %}
   <figcaption>And I think this was the entrance for the women</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/morocco_mosque4.jpg" alt="">
+  {% cloudinary /assets/images/fullsize/german-living/morocco_mosque4.jpg" %}
   <figcaption>The decorations on the building aren't paint, they're all tiled like this</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/morocco_mosque5.jpg" alt="">
+  {% cloudinary /assets/images/fullsize/german-living/morocco_mosque5.jpg" %}
   <figcaption>One of the elaborate decorations</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/morocco_mosque6.jpg" alt="">
+  {% cloudinary /assets/images/fullsize/german-living/morocco_mosque6.jpg" %}
   <figcaption>Me and the mosque</figcaption>
 </figure>
 
@@ -151,28 +151,28 @@ In Fez, there are two main parts of the city. There is the old city, and the new
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/fez_market1.jpg" alt="">
+  {% cloudinary /assets/images/fullsize/german-living/fez_market1.jpg" %}
   <figcaption>Some colorful traditional slippers for sale</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/fez_market2.jpg" alt="">
+  {% cloudinary /assets/images/fullsize/german-living/fez_market2.jpg" %}
   <figcaption>More colored slippers</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/fez_market3.jpg" alt="">
+  {% cloudinary /assets/images/fullsize/german-living/fez_market3.jpg" %}
   <figcaption>Hand woven fabrics</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/fez_market4.jpg" alt="">
+  {% cloudinary /assets/images/fullsize/german-living/fez_market4.jpg" %}
   <figcaption>The main entrance to the market</figcaption>
 </figure>
 
@@ -185,7 +185,7 @@ We also got to see the leather tannery in the market, where a lot of the product
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/fez_tannery.jpg" alt="">
+  {% cloudinary /assets/images/fullsize/german-living/fez_tannery.jpg" %}
   <figcaption>The leather tannery</figcaption>
 </figure>
 
@@ -198,70 +198,70 @@ This Sunday (May 20) I finally made a trip to the nearby [Lichtenstein castle.](
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/lichtenstein_castle1.jpg" alt="">
+  {% cloudinary /assets/images/fullsize/german-living/lichtenstein_castle1.jpg" %}
   <figcaption>Trees on the hike up</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/lichtenstein_castle2.jpg" alt="">
+  {% cloudinary /assets/images/fullsize/german-living/lichtenstein_castle2.jpg" %}
   <figcaption>There was a a lot of fog when I got near the top</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/lichtenstein_castle3.jpg" alt="">
+  {% cloudinary /assets/images/fullsize/german-living/lichtenstein_castle3.jpg" %}
   <figcaption>The outer wall of the castle</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/lichtenstein_castle4.jpg" alt="">
+  {% cloudinary /assets/images/fullsize/german-living/lichtenstein_castle4.jpg" %}
   <figcaption>The surrounding countryside</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/lichtenstein_castle5.jpg" alt="">
+  {% cloudinary /assets/images/fullsize/german-living/lichtenstein_castle5.jpg" %}
   <figcaption>The main bridge to the central castle tower</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/lichtenstein_castle6.jpg" alt="">
+  {% cloudinary /assets/images/fullsize/german-living/lichtenstein_castle6.jpg" %}
   <figcaption>Great view of the main tower</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/lichtenstein_castle8.jpg" alt="">
+  {% cloudinary /assets/images/fullsize/german-living/lichtenstein_castle8.jpg" %}
   <figcaption>Some building inside the courtyard</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/lichtenstein_castle9.jpg" alt="">
+  {% cloudinary /assets/images/fullsize/german-living/lichtenstein_castle9.jpg" %}
   <figcaption>Another view of the main bridge to the tower</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/lichtenstein_castle10.jpg" alt="">
+  {% cloudinary /assets/images/fullsize/german-living/lichtenstein_castle10.jpg" %}
   <figcaption>A lone statue</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/lichtenstein_castle11.jpg" alt="">
+  {% cloudinary /assets/images/fullsize/german-living/lichtenstein_castle11.jpg" %}
   <figcaption>Me and the lonely statue</figcaption>
 </figure>
 
@@ -294,7 +294,7 @@ I finally got some new shoes, as my old pair of Pegasus had accumulated 1,383.5 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/nike_pegasus.jpeg" alt="">
+  {% cloudinary /assets/images/fullsize/german-living/nike_pegasus.jpeg" %}
   <figcaption>The Nike Pegasus 34</figcaption>
 </figure>
 
@@ -317,7 +317,7 @@ Also, the Bosch tent that was set up near the starting line was providing free s
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/bosch_logo_bread.jpg" alt="">
+  {% cloudinary /assets/images/fullsize/german-living/bosch_logo_bread.jpg" %}
   <figcaption>Free snack</figcaption>
 </figure>
 
@@ -328,7 +328,7 @@ For those of you who don't know what the Bosch logo looks like:
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/bosch_logo.jpg" alt="">
+  {% cloudinary /assets/images/fullsize/german-living/bosch_logo.jpg" %}
   <figcaption>The actual Bosch logo</figcaption>
 </figure>
 

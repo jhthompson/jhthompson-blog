@@ -23,7 +23,7 @@ On Saturday there was a market for used bicycles at a local community center. I 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/bicycle_fair.jpg" alt="">
+  {% cloudinary /assets/images/fullsize/german-living/bicycle_fair.jpg" %}
   <figcaption>The only (slightly blurry) photo I took at the market</figcaption>
 </figure>
 
@@ -34,7 +34,7 @@ I wasn't sure how much the used bikes would be selling for, but I found one for 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/bicycle.jpg" alt="">
+  {% cloudinary /assets/images/fullsize/german-living/bicycle.jpg" %}
   <figcaption>Not a bad use of €30</figcaption>
 </figure>
 
@@ -61,21 +61,21 @@ Sunday -  No run, BUT I did go for a [bit of a ride](https://www.strava.com/acti
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/bike_ride1.jpg" alt="">
+  {% cloudinary /assets/images/fullsize/german-living/bike_ride1.jpg" %}
   <figcaption>Near the start of the trails</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/bike_ride2.jpg" alt="">
+  {% cloudinary /assets/images/fullsize/german-living/bike_ride2.jpg" %}
   <figcaption>Turned around near this industrial area</figcaption>
 </figure>
 
 ***
 
 <figure class="align-center">
-  <img src="/assets/images/fullsize/german-living/bike_ride3.jpg" alt="">
+  {% cloudinary /assets/images/fullsize/german-living/bike_ride3.jpg" %}
   <figcaption>Greenery on the sides of the trail</figcaption>
 </figure>
 
