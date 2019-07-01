@@ -14,7 +14,11 @@
   <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
-        {% cloudinary {{teaser}} %}
+          {% if teaser contains "://" %}
+          <img src=  "{{ teaser }}" alt="">
+          {% else %}
+            {% cloudinary {{teaser}} %}
+          {% endif %}
       </div>
     {% endif %}
     <h2 class="archive__item-title" itemprop="headline">
