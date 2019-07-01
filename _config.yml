@@ -324,7 +324,6 @@ cloudinary:
 
       attributes:
         loading: "lazy"
-        class: "lozad"
 
 # Defaults
 defaults:
