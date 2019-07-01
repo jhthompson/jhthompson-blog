@@ -1,9 +1,9 @@
 # main links
 main:
+  - title: "Home"
+    url: /
   - title: "About Me"
     url: /about/
-  - title: "All Posts"
-    url: /recent/
 #  - title: "Categories" # pointless at the moment, all same category (general)
 #    url: /categories/
   - title: "Tags"
