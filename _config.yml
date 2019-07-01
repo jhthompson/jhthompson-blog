@@ -307,14 +307,6 @@ collections:
     output: true
     permalink: /:collection/:path
 
-defaults:
-  # _slides
-  - scope:
-      path: ""
-      type: "slides"
-    values:
-      layout: "reveal"
-
 # Cloudinary jekyll plugin
 cloudinary:
   cloud_name: jhthompson
@@ -344,3 +336,9 @@ defaults:
       related: true
       header:
         teaser: "/assets/images/fullsize/german-living/reutlingen-teaser.jpg" # default teaser image for posts
+    # _slides
+  - scope:
+      path: ""
+      type: "slides"
+    values:
+      layout: "reveal"
