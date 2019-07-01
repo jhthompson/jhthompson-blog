@@ -307,11 +307,6 @@ collections:
     output: true
     permalink: /:collection/:path
 
-# Jekyll picture tag config
-picture:
-  source: "assets/images/fullsize"
-  output: "assets/images/generated"
-
 defaults:
   # _slides
   - scope:
@@ -319,6 +314,20 @@ defaults:
       type: "slides"
     values:
       layout: "reveal"
+
+# Cloudinary jekyll plugin
+cloudinary:
+  cloud_name: jhthompson
+  only_prod: true
+  verbose: true
+
+  presets:
+    default:
+      min_width: 320
+      max_width: 1024
+      fallback_max_width: 800
+      steps: 3
+      sizes: "(min-width: 50rem) 50rem, 90vw"
 
 # Defaults
 defaults:

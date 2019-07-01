@@ -1,8 +1,0 @@
-markup_presets:
-  default:
-    # Must be an array: which image sizes (width in pixels) to generate (unless directed otherwise
-    # below). If not specified, will use sensible default values.
-    widths: [640, 1024]
-
-    # Must be an array, in order of decreasing preference. Defaults to just 'original'.
-    formats: [webp, original]
