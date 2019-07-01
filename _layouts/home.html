@@ -1,11 +1,12 @@
 ---
 layout: archive
+classes: wide
 ---
 
 {{ content }}
 
 {% for post in paginator.posts %}
-  {% include archive-single.html %}
+  {% include archive-single.html type="image-left" %}
 {% endfor %}
 
 {% include paginator.html %}

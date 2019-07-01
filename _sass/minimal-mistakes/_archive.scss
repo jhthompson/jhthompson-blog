@@ -221,6 +221,42 @@
 }
 
 /*
+   Image thumbnail left view
+   ========================================================================== */
+
+.image-left__item {
+  .archive__item {
+    display: flex;
+  }
+
+  .archive__item-text {
+    flex: 5 1;
+    margin-left: 1em;
+  }
+
+  .archive__item-title {
+    margin: 0;
+    margin-bottom: 0.5em;
+  }
+
+  .page__meta {
+    margin: 0;
+    margin-bottom: 0.5em;
+  }
+
+  .archive__item-teaser {
+
+    display: none;
+
+    @include breakpoint($medium) {
+      display: flex;
+      flex: 1 0;
+      margin-bottom: 1em;
+    }
+  }
+}
+
+/*
    Features
    ========================================================================== */
 
