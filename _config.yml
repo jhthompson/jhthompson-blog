@@ -12,6 +12,7 @@ locale                   : "en-US"
 title                    : "der Keim"
 title_separator          : "-"
 name                     : "Jeremy Thompson"
+theme                    :  minimal-mistakes-jekyll
 description              : "Personal blog detailing my life while in Germany"
 url                      : "https://jhthompson.ca" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
