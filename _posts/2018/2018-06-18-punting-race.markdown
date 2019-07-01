@@ -416,7 +416,7 @@ Saturday - [Fartlek](https://www.strava.com/activities/1612104408) workout, 5 x 
 
 Sunday -  [90 minute](https://www.strava.com/activities/1614555881) long run in the heat.
 
-### Week Two:
+### Week Two
 
 Monday - [Easy run.](https://www.strava.com/activities/1617473496)
 
