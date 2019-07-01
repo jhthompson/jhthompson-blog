@@ -322,6 +322,9 @@ cloudinary:
       steps: 3
       sizes: "(min-width: 50rem) 50rem, 90vw"
 
+      attributes:
+        loading: "lazy"
+
 # Defaults
 defaults:
   # _posts
